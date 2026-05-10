@@ -55,19 +55,11 @@ if __name__ == "__main__":
         print(f"获取到论文数量: {total_papers}")
 
         # ===================== 生成 Markdown =====================
-        markdown_content = f"# 凝聚态物理-交错磁(Altermagnetic)相关论文
-
-"
-        markdown_content += f"> 最后更新时间：**{END_DATE}**
-"
-        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天
-"
-        markdown_content += f"> 论文数量：**{total_papers}** 篇
-
-"
-        markdown_content += "---
-
-"
+        markdown_content = f"# 凝聚态物理-交错磁(Altermagnetic)相关论文"
+        markdown_content += f"> 最后更新时间：**{END_DATE}**"
+        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天"
+        markdown_content += f"> 论文数量：**{total_papers}** 篇"
+        markdown_content += "---"
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = paper.title.replace("
@@ -78,23 +70,12 @@ if __name__ == "__main__":
             abstract = paper.summary.replace("
 ", " ").strip()
 
-            markdown_content += f"## {index}. {paper_title}
-
-"
-            markdown_content += f"- **提交日期**：{submit_date}
-"
-            markdown_content += f"- **作者**：{author_list}
-"
-            markdown_content += f"- **arXiv链接**：{arxiv_link}
-
-"
-            markdown_content += f"### 摘要
-{abstract}
-
-"
-            markdown_content += "---
-
-"
+            markdown_content += f"## {index}. {paper_title}"
+            markdown_content += f"- **提交日期**：{submit_date}"
+            markdown_content += f"- **作者**：{author_list}"
+            markdown_content += f"- **arXiv链接**：{arxiv_link}"
+            markdown_content += f"### 摘要{abstract}"
+            markdown_content += "---"
 
         # ===================== 保存文件 =====================
         output_dir = os.path.dirname(OUTPUT_FILE)
