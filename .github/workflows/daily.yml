@@ -40,13 +40,10 @@ jobs:
       - name: Run fetch script
         run: python fetch_papers.py
 
-      # 步骤 5：提交并推送更新（原生 Git 方式）
-- name: Commit and Push changes
-  run: |
-    git config user.name "github-actions[bot]"
-    git config user.email "github-actions[bot]@users.noreply.github.com"
-    git add ${{ env.OUTPUT_FILE }}
-    # 如果有其他文件需要一起提交，可以继续 git add
-    # git add .github/workflows/daily.yml
-    git diff --staged --quiet || git commit -m "Automated update: arXiv papers"
-    git push
+      # 步骤 5：提交并推送更新
+      - name: Commit and Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: "Automated update: arXiv papers"
+          files: ${{ env.OUTPUT_FILE }}
