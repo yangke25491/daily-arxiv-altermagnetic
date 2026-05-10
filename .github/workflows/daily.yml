@@ -1,38 +1,52 @@
 name: Daily arXiv Paper Fetch
 
+# 控制工作流何时运行
 on:
+  # 允许手动运行工作流（方便测试）
   workflow_dispatch:
+
+  # 定时自动运行（Cron 语法）
+  # 每天北京时间 8:00 (UTC+8) 运行
   schedule:
     - cron: '0 0 * * *'
 
+# 环境变量
 env:
   OUTPUT_FILE: "altermagnetic_recent_papers.md"
 
 jobs:
   build:
+    # 运行环境：最新版 Ubuntu
     runs-on: ubuntu-latest
 
     steps:
+      # 步骤 1：检出仓库代码
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 步骤 2：设置 Python 环境
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
+      # 步骤 3：安装依赖库
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests feedparser
 
+      # 步骤 4：运行 fetch_papers.py 脚本
       - name: Run fetch script
         run: python fetch_papers.py
 
-      - name: Commit and Push changes
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ${{ env.OUTPUT_FILE }}
-          git diff --staged --quiet || git commit -m "Automated update: arXiv papers"
-          git push
+      # 步骤 5：提交并推送更新（原生 Git 方式）
+- name: Commit and Push changes
+  run: |
+    git config user.name "github-actions[bot]"
+    git config user.email "github-actions[bot]@users.noreply.github.com"
+    git add ${{ env.OUTPUT_FILE }}
+    # 如果有其他文件需要一起提交，可以继续 git add
+    # git add .github/workflows/daily.yml
+    git diff --staged --quiet || git commit -m "Automated update: arXiv papers"
+    git push
