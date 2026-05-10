@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
+permissions:
+  contents: write   # 添加这一行
+
 env:
   OUTPUT_FILE: "altermagnetic_recent_papers.md"
 
