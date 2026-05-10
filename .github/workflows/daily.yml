@@ -41,22 +41,13 @@ jobs:
         run: python fetch_papers.py
 
       - name: Commit and Push changes
-   run: |
-     # 1. 配置 Git 用户信息，这是提交代码的必要信息
-     git config user.name "github-actions[bot]"
-     git config user.email "github-actions[bot]@users.noreply.github.com"
-     
-     # 2. 执行 git add 命令，将新生成的 Markdown 文件添加到暂存区
-     git add altermagnetic_recent_papers.md
-     
-     # 3. 执行 git commit 命令，提交更改并附带提交信息
-     # 为了安全，我们先用 '--dry-run' 检查是否有文件需要提交，避免因无变更而报错
-     if git diff --cached --quiet; then
-       echo "没有发现新的变更，跳过提交步骤。"
-     else
-       git commit -m "Automated update: arXiv papers"
-       
-       # 4. 使用 GitHub Actions 官方维护的推送 Action
-       uses: actions/checkout@v4 # 这里是示例，实际应引用上述处理好的内容，比如 ad-m/github-push-action@master
-       # ... 并正确指定参数
-     fi
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ${{ env.OUTPUT_FILE }}
+          if git diff --cached --quiet; then
+            echo "没有发现新的变更，跳过提交步骤。"
+          else
+            git commit -m "Automated update: arXiv papers"
+            git push
+          fi
