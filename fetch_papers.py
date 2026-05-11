@@ -8,7 +8,6 @@ SEARCH_KEYWORD = "altermagnetic"
 TIME_RANGE_DAYS = 7
 CATEGORY = "cond-mat.*"
 MAX_RESULTS = 50
-# 从环境变量中获取文件名，如果没有则使用默认值
 OUTPUT_FILE = os.getenv("OUTPUT_FILE", "altermagnetic_recent_papers.md")
 # ====================================================
 
@@ -44,8 +43,30 @@ if __name__ == "__main__":
         paper_entries = feed.entries
         total_papers = len(paper_entries)
 
+        # ===================== KaTeX 头部 =====================
+        katex_header = """<!-- KaTeX for LaTeX rendering -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js"></script>
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    renderMathInElement(document.body, {
+        delimiters: [
+            {left: '$$', right: '$$', display: true},
+            {left: '$', right: '$', display: false},
+            {left: '\\\\(', right: '\\\\)', display: false},
+            {left: '\\\\[', right: '\\\\]', display: true}
+        ],
+        throwOnError: false
+    });
+});
+</script>
+
+"""
+
         # ===================== 生成 Markdown =====================
-        markdown_content = f"# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
+        markdown_content = katex_header
+        markdown_content += f"# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
         markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
         markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天\n"
         markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n"
@@ -62,7 +83,7 @@ if __name__ == "__main__":
             markdown_content += f"- **提交日期**：{submit_date}\n"
             markdown_content += f"- **作者**：{author_list}\n"
             markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
-            markdown_content += f"### 摘要\n${abstract}$\n\n"
+            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
             markdown_content += "---\n\n"
 
         # ===================== 保存文件 =====================
