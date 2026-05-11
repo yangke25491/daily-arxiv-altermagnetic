@@ -5,9 +5,9 @@ import os
 
 # ===================== 配置区 =====================
 SEARCH_KEYWORD = "altermagnetic"
-TIME_RANGE_DAYS = 30
+TIME_RANGE_DAYS = 7
 CATEGORY = "cond-mat.*"
-MAX_RESULTS = 100
+MAX_RESULTS = 50
 # 获取环境变量中的文件名，如果没有则使用默认值
 OUTPUT_FILE = os.getenv("OUTPUT_FILE", "altermagnetic_recent_papers.md")
 # ==================================================
