@@ -4,6 +4,7 @@ from datetime import date, timedelta
 import os
 import time
 import random
+import re
 
 SEARCH_KEYWORD = "altermagnetic"
 TIME_RANGE_DAYS = 7
@@ -32,13 +33,22 @@ request_params = {
 
 
 def escape_underscores_in_math(text):
-    import re
     def replacer(m):
-        math_content = m.group(1)
-        math_content = math_content.replace('_', r'\-')
-        return m.group(0)[0] + math_content + m.group(0)[-1]
-    text = re.sub(r'\$([^$]+)\$', replacer, text)
-    return text
+        inner = m.group(1)
+        result = []
+        backslash = False
+        for ch in inner:
+            if ch == '\\':
+                backslash = True
+                result.append(ch)
+            elif ch == '_' and not backslash:
+                result.append('\\u005F')
+                backslash = False
+            else:
+                result.append(ch)
+                backslash = False
+        return '$' + ''.join(result) + '$'
+    return re.sub(r'\$([^$]+)\$', replacer, text)
 
 
 def fetch_with_retry(url, params, max_retries=5):
@@ -69,10 +79,14 @@ if __name__ == "__main__":
         paper_entries = feed.entries
         total_papers = len(paper_entries)
 
-        markdown_content = f"# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
-        markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
-        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天\n"
-        markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n---\n"
+        markdown_content = f"""# 凝聚态物理-交错磁(Altermagnetic)相关论文
+
+> 最后更新时间：**{END_DATE}**
+> 检索范围：过去 **{TIME_RANGE_DAYS}** 天
+> 论文数量：**{total_papers}** 篇
+
+---
+"""
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = paper.title.replace("\n", " ").strip()
@@ -86,12 +100,13 @@ if __name__ == "__main__":
             markdown_content += f"- **提交日期**：{submit_date}\n"
             markdown_content += f"- **作者**：{author_list}\n"
             markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
-            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n---\n"
+            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
+            markdown_content += "---\n\n"
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(markdown_content)
 
-        print(f"OK: {OUTPUT_FILE}, {total_papers} papers")
+        print(f"OK: {OUTPUT_FILE}")
 
     except Exception as e:
         print(f"ERROR: {e}")
