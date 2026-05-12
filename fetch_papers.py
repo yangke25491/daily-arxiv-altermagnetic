@@ -5,13 +5,11 @@ import os
 import time
 import random
 
-# ===================== 配置区域 =====================
 SEARCH_KEYWORD = "altermagnetic"
 TIME_RANGE_DAYS = 7
 CATEGORY = "cond-mat.*"
 MAX_RESULTS = 50
 OUTPUT_FILE = "docs/index.md"
-# ====================================================
 
 END_DATE = date.today()
 START_DATE = END_DATE - timedelta(days=TIME_RANGE_DAYS)
@@ -33,8 +31,17 @@ request_params = {
 }
 
 
+def escape_underscores_in_math(text):
+    import re
+    def replacer(m):
+        math_content = m.group(1)
+        math_content = math_content.replace('_', r'\-')
+        return m.group(0)[0] + math_content + m.group(0)[-1]
+    text = re.sub(r'\$([^$]+)\$', replacer, text)
+    return text
+
+
 def fetch_with_retry(url, params, max_retries=5):
-    """Fetch URL with 3s delay + exponential backoff on 429 errors."""
     for attempt in range(max_retries):
         time.sleep(3)
         response = requests.get(url, params=params, timeout=30)
@@ -51,7 +58,7 @@ def fetch_with_retry(url, params, max_retries=5):
 
 if __name__ == "__main__":
     try:
-        print(f"正在检索 {START_DATE} 至 {END_DATE} 的论文...")
+        print(f"检索 {START_DATE} 至 {END_DATE} 的论文...")
         response = fetch_with_retry(ARXIV_API_URL, request_params)
         response.raise_for_status()
 
@@ -62,14 +69,10 @@ if __name__ == "__main__":
         paper_entries = feed.entries
         total_papers = len(paper_entries)
 
-        markdown_content = f"""# 凝聚态物理-交错磁(Altermagnetic)相关论文
-
-> 最后更新时间：**{END_DATE}**
-> 检索范围：过去 **{TIME_RANGE_DAYS}** 天
-> 论文数量：**{total_papers}** 篇
-
----
-"""
+        markdown_content = f"# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
+        markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
+        markdown_content += f"> 检索范围：过去 **{TIME_RANGE_DAYS}** 天\n"
+        markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n---\n"
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = paper.title.replace("\n", " ").strip()
@@ -77,20 +80,19 @@ if __name__ == "__main__":
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
             abstract = paper.summary.replace("\n", " ").strip()
+            abstract = escape_underscores_in_math(abstract)
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
             markdown_content += f"- **作者**：{author_list}\n"
             markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
-            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
-            markdown_content += "---\n\n"
+            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n---\n"
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(markdown_content)
 
-        print(f"✓ 成功生成文件：{OUTPUT_FILE}")
-        print(f"📄 共处理 {total_papers} 篇论文")
+        print(f"OK: {OUTPUT_FILE}, {total_papers} papers")
 
     except Exception as e:
-        print(f"✗ 运行出错：{str(e)}")
+        print(f"ERROR: {e}")
         exit(1)
