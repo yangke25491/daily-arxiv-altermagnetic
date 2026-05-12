@@ -39,7 +39,7 @@ Altermagnets are a novel class of magnetic systems characterized by their moment
 Compensated ferrimagnets enable ferromagnet-like spin transport without net magnetization. We study the spin Seebeck effect in a compensated ferrimagnet/normal-metal junction using a four-sublattice model in which sublattice inequivalence arises from differences in exchange couplings, in contrast to the previously studied anisotropy-based mechanism. Within the nonequilibrium Green's function framework, we show that isotropic magnon splitting generates a robust spin current with a magnitude comparable to that in standard ferromagnetic junctions. We also demonstrate that the spin Seebeck effect vanishes in altermagnet junctions under identical conditions, thereby establishing compensated ferrimagnets as uniquely suited for thermal spin-current generation among magnetically compensated systems. These results provide a theoretical basis for the applications of compensated ferrimagnets with exchange-coupling asymmetry as stray-field-free spin-current sources in spintronic devices.
 
 ---
-## 4. Spin Quadrupolar orders in $d$-wave Unconventional Magnetism
+## 4. Spin Quadrupolar orders in \(d\)-wave Unconventional Magnetism
 
 - **提交日期**：2026-05-10
 - **作者**：Jian-Keng Yuan, Zhiming Pan, Congjun Wu
@@ -49,7 +49,7 @@ Compensated ferrimagnets enable ferromagnet-like spin transport without net magn
 Unconventional magnetism represents a class of metallic states whose Fermi surfaces exhibit spin-dependent splittings under the non-trivial representations of the rotation group. The \(d\)-wave \(α\)-phase unconventional magnetic state, commonly known as altermagnet, recently, has attracted significant attention. While these systems exhibit distinct anisotropic \(d\)-wave characteristics in momentum space, how this microscopic topology translates into the spin distributions in real space remains a question. In this work, we bridge the intrinsic spin quadrupolar ordering in momentum space to the real-space staggered magnetic distribution. By introducing a weak, non-magnetic periodic crystal potential into a \(d\)-wave unconventional magnetic state, the spin-charge cross susceptibility is calculated by using the linear response theory. We reveal that the interplay between the crystal potential and the intrinsic \(d\)-wave spin-splitting naturally induces a spatial spin quadrupole distribution without enlarging the unit cell. Our study thus provides a physical connection between momentum-space multipoles in the even partial wave channel and real-space spin multipole orders.
 
 ---
-## 5. Finite temperature pair density wave superconductivity in $d$-wave altermagnets
+## 5. Finite temperature pair density wave superconductivity in \(d\)-wave altermagnets
 
 - **提交日期**：2026-05-08
 - **作者**：Amrutha N Madhusuthanan, Madhuparna Karmakar
