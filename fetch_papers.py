@@ -2,9 +2,9 @@ import requests
 import feedparser
 from datetime import date, timedelta
 import os
+import sys
 import time
 import random
-import re
 
 SEARCH_KEYWORD = "altermagnetic"
 TIME_RANGE_DAYS = 7
@@ -32,23 +32,25 @@ request_params = {
 }
 
 
-def escape_underscores_in_math(text):
-    def replacer(m):
-        inner = m.group(1)
-        result = []
-        backslash = False
-        for ch in inner:
-            if ch == '\\':
-                backslash = True
-                result.append(ch)
-            elif ch == '_' and not backslash:
-                result.append('\\u005F')
-                backslash = False
+def kramdown_safe_abstract(text):
+    """Escape underscores outside $...$ so Kramdown won't corrupt LaTeX math.
+    Inside $...$ keep underscores as-is so MathJax renders subscripts correctly."""
+    result = []
+    i = 0
+    while i < len(text):
+        if text[i] == '$':
+            j = i + 1
+            while j < len(text) and text[j] != '$':
+                j += 1
+            result.append(text[i:j+1] if j < len(text) else text[i:])
+            i = j + 1
+        else:
+            if text[i] == '_':
+                result.append(r'\_')
             else:
-                result.append(ch)
-                backslash = False
-        return '$' + ''.join(result) + '$'
-    return re.sub(r'\$([^$]+)\$', replacer, text)
+                result.append(text[i])
+            i += 1
+    return ''.join(result)
 
 
 def fetch_with_retry(url, params, max_retries=5):
@@ -78,6 +80,7 @@ if __name__ == "__main__":
 
         paper_entries = feed.entries
         total_papers = len(paper_entries)
+        print(f"获取到论文数量: {total_papers}")
 
         markdown_content = f"""# 凝聚态物理-交错磁(Altermagnetic)相关论文
 
@@ -94,20 +97,26 @@ if __name__ == "__main__":
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
             abstract = paper.summary.replace("\n", " ").strip()
-            abstract = escape_underscores_in_math(abstract)
+            abstract = kramdown_safe_abstract(abstract)
 
             markdown_content += f"## {index}. {paper_title}\n\n"
             markdown_content += f"- **提交日期**：{submit_date}\n"
             markdown_content += f"- **作者**：{author_list}\n"
             markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
-            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
-            markdown_content += "---\n\n"
+            markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n---\n"
+
+        output_dir = os.path.dirname(OUTPUT_FILE)
+        if output_dir and not os.path.exists(output_dir):
+            os.makedirs(output_dir, exist_ok=True)
 
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(markdown_content)
 
         print(f"OK: {OUTPUT_FILE}")
 
+    except requests.exceptions.RequestException as e:
+        print(f"网络请求失败: {e}")
+        sys.exit(1)
     except Exception as e:
-        print(f"ERROR: {e}")
-        exit(1)
+        print(f"运行出错：{str(e)}")
+        sys.exit(1)
