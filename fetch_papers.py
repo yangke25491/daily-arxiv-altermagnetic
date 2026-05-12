@@ -34,7 +34,6 @@ request_params = {
 
 def kramdown_safe_abstract(text):
     """Convert $...$ to \(...\) for Kramdown, escape _ outside math.
-    Handles $...$ that may span newlines and merges consecutive single-char $...$.
     Kramdown recognizes \(...\) as inline math and won't corrupt underscores.
     MathJax v3 also processes \(...\) delimiters correctly."""
     result = []
@@ -46,20 +45,7 @@ def kramdown_safe_abstract(text):
             while j < len(text) and text[j] != '$':
                 j += 1
             if j < len(text):
-                content = text[i+1:j]
-                # Merge single-char $a$ $b$ into $ab$
-                if len(content) == 1:
-                    # Check if next char is $ and then another single-char
-                    if j + 1 < len(text) and text[j+1] == '$' and j + 2 < len(text) and text[j+2:j+3] != '$':
-                        k = j + 1
-                        while k + 1 < len(text) and text[k+1] == '$' and text[k+2:k+3] != '$':
-                            k += 1
-                            if k + 1 < len(text) and text[k+1] != '$':
-                                break
-                        if k > j:
-                            content = content + text[j+1:k+1]
-                            j = k + 1
-                result.append('\\(' + content + '\\)')
+                result.append('\\(' + text[i+1:j] + '\\)')
                 i = j + 1
             else:
                 result.append(text[i])
@@ -110,6 +96,11 @@ if __name__ == "__main__":
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = kramdown_safe_abstract(paper.title.replace("\n", " ").strip())
+            # Additional fix: handle La${N} patterns like La$_3$Ni$_2$O$_7$
+            # This catches patterns like: La$_3$Ni$_2$O$_7$ -> La\(_3\)Ni\(_2\)O\(_7\)
+            paper_title = paper_title.replace(r'La$_', r'La\(_').replace(r'Ni$_', r'Ni\(_').replace(r'O$_', r'O\(_')
+            # Also handle Ni$_{7+Î´}$ -> Ni\(_{7+Î´}\)
+            paper_title = paper_title.replace(r'Ni${', r'Ni\(_{').replace(r'O${', r'O\(_{')
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
             arxiv_link = paper.id
