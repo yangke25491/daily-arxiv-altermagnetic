@@ -96,10 +96,10 @@ if __name__ == "__main__":
 
         for index, paper in enumerate(paper_entries, 1):
             paper_title = paper.title.replace("\n", " ").strip()
-            # Replace La${N}, Ni${N}, O${N} patterns in titles
+            # Replace all $_ patterns in titles with \(_ pattern
             # This handles: La$_3$Ni$_2$O$_7$ -> La\(_3$Ni\(_2$O\(_7$
-            paper_title = paper_title.replace(r'La$_', r'La\(_').replace(r'Ni$_', r'Ni\(_').replace(r'O$_', r'O\(_')
-            paper_title = paper_title.replace(r'La${', r'La\(_{').replace(r'Ni${', r'Ni\(_{').replace(r'O${', r'O\(_{')
+            # The $_2$ gets converted to \(_2$ which is then converted to \(_2\) by kramdown_safe_abstract
+            paper_title = paper_title.replace(r'$_', r'\(_')
             # Then convert remaining $...$ to \(...\)
             paper_title = kramdown_safe_abstract(paper_title)
             
