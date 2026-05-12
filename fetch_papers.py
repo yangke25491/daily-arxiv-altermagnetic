@@ -34,7 +34,7 @@ request_params = {
 
 def kramdown_safe_abstract(text):
     """Convert $...$ to \(...\) for Kramdown, escape _ outside math.
-    Handles $...$ that may span newlines.
+    Handles $...$ that may span newlines and merges consecutive single-char $...$.
     Kramdown recognizes \(...\) as inline math and won't corrupt underscores.
     MathJax v3 also processes \(...\) delimiters correctly."""
     result = []
@@ -46,7 +46,20 @@ def kramdown_safe_abstract(text):
             while j < len(text) and text[j] != '$':
                 j += 1
             if j < len(text):
-                result.append('\\(' + text[i+1:j] + '\\)')
+                content = text[i+1:j]
+                # Merge single-char $a$ $b$ into $ab$
+                if len(content) == 1:
+                    # Check if next char is $ and then another single-char
+                    if j + 1 < len(text) and text[j+1] == '$' and j + 2 < len(text) and text[j+2:j+3] != '$':
+                        k = j + 1
+                        while k + 1 < len(text) and text[k+1] == '$' and text[k+2:k+3] != '$':
+                            k += 1
+                            if k + 1 < len(text) and text[k+1] != '$':
+                                break
+                        if k > j:
+                            content = content + text[j+1:k+1]
+                            j = k + 1
+                result.append('\\(' + content + '\\)')
                 i = j + 1
             else:
                 result.append(text[i])
