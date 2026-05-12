@@ -3,10 +3,10 @@ name: Daily arXiv Paper Fetch
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 2 * * *'
 
 permissions:
-  contents: write   # 添加这一行
+  contents: write   
 
 env:
   OUTPUT_FILE: "altermagnetic_recent_papers.md"
