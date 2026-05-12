@@ -1,14 +1,11 @@
-<!-- MathJax for LaTeX rendering -->
+<!-- MathJax v3 for LaTeX rendering -->
 <script>
-window.MathJax = {
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\\[','\\]']],
-    processEscapes: true,
-    ignoreHtml: true
-  },
-  config: ["MMLorHTML.js"],
-  jax: ["input/TeX","input/MathML","output/HTML-CSS","output/NativeMML"]
+MathJax = {
+  tex: {
+    inlineMath: [['\\(', '\\)']],
+    displayMath: [['\\[', '\\]']],
+    processEscapes: true
+  }
 };
 </script>
-<script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js"></script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
