@@ -2,6 +2,8 @@ import requests
 import feedparser
 from datetime import date, timedelta
 import os
+import time
+import random
 
 # ===================== 配置区域 =====================
 SEARCH_KEYWORD = "altermagnetic"
@@ -30,10 +32,27 @@ request_params = {
     "sortOrder": "descending"
 }
 
+
+def fetch_with_retry(url, params, max_retries=5):
+    """Fetch URL with 3s delay + exponential backoff on 429 errors."""
+    for attempt in range(max_retries):
+        time.sleep(3)
+        response = requests.get(url, params=params, timeout=30)
+        if response.status_code == 200:
+            return response
+        elif response.status_code == 429:
+            wait_time = (2 ** attempt) + random.uniform(0, 1)
+            print(f"[Attempt {attempt+1}] Rate limited (429), retrying in {wait_time:.1f}s...")
+            time.sleep(wait_time)
+        else:
+            response.raise_for_status()
+    response.raise_for_status()
+
+
 if __name__ == "__main__":
     try:
         print(f"正在检索 {START_DATE} 至 {END_DATE} 的论文...")
-        response = requests.get(ARXIV_API_URL, params=request_params, timeout=30)
+        response = fetch_with_retry(ARXIV_API_URL, request_params)
         response.raise_for_status()
 
         feed = feedparser.parse(response.content)
@@ -43,7 +62,6 @@ if __name__ == "__main__":
         paper_entries = feed.entries
         total_papers = len(paper_entries)
 
-        # ===================== KaTeX 头部 =====================
         katex_header = """<!-- KaTeX for LaTeX rendering -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css">
 <script src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js"></script>
@@ -64,7 +82,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
 """
 
-        # ===================== 生成 Markdown =====================
         markdown_content = katex_header
         markdown_content += f"# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
         markdown_content += f"> 最后更新时间：**{END_DATE}**\n"
@@ -86,7 +103,6 @@ document.addEventListener("DOMContentLoaded", function() {
             markdown_content += f"### 摘要\n<span class=\"abstract\">{abstract}</span>\n\n"
             markdown_content += "---\n\n"
 
-        # ===================== 保存文件 =====================
         with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
             f.write(markdown_content)
 
