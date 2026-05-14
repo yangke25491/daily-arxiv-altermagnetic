@@ -33,9 +33,9 @@ request_params = {
 
 
 def kramdown_safe_abstract(text):
-    """Convert $...$ to \(...\) for Kramdown, escape _ outside math.
-    Kramdown recognizes \(...\) as inline math and won't corrupt underscores.
-    MathJax v3 also processes \(...\) delimiters correctly."""
+    """Convert $...$ to \(...) for Kramdown, escape _ outside math.
+    Kramdown recognizes \(...) as inline math and won't corrupt underscores.
+    MathJax v3 also processes \(...) delimiters correctly."""
     result = []
     i = 0
     while i < len(text):
@@ -86,7 +86,7 @@ if __name__ == "__main__":
 
         paper_entries = feed.entries
         total_papers = len(paper_entries)
-        print(f"获取到论文数量: {total_papers}")
+        print(f"获取到论文数量：{total_papers} 篇")
 
         markdown_content = "---\nlayout: default\n---\n\n"
         markdown_content += f"# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
@@ -95,13 +95,7 @@ if __name__ == "__main__":
         markdown_content += f"> 论文数量：**{total_papers}** 篇\n\n---\n"
 
         for index, paper in enumerate(paper_entries, 1):
-            paper_title = paper.title.replace("\n", " ").strip()
-            # Replace all $_ patterns in titles with \(_ pattern
-            # This handles: La$_3$Ni$_2$O$_7$ -> La\(_3$Ni\(_2$O\(_7$
-            # The $_2$ gets converted to \(_2$ which is then converted to \(_2\) by kramdown_safe_abstract
-            paper_title = paper_title.replace(r'$_', r'\(_')
-            # Then convert remaining $...$ to \(...\)
-            paper_title = kramdown_safe_abstract(paper_title)
+            paper_title = kramdown_safe_abstract(paper.title.replace("\n", " ").strip())
             
             author_list = ", ".join([author.name for author in paper.authors])
             submit_date = paper.published.split("T")[0]
@@ -113,7 +107,7 @@ if __name__ == "__main__":
             markdown_content += f"- **提交日期**：{submit_date}\n"
             markdown_content += f"- **作者**：{author_list}\n"
             markdown_content += f"- **arXiv链接**：{arxiv_link}\n\n"
-            markdown_content += f"### 摘要\n{abstract}\n\n---\n"
+            markdown_content += f"### 摘要\n{enumerate}\n\n---\n"
 
         output_dir = os.path.dirname(OUTPUT_FILE)
         if output_dir and not os.path.exists(output_dir):
