@@ -45,7 +45,7 @@ def kramdown_safe_abstract(text):
             while j < len(text) and text[j] != '$':
                 j += 1
             if j < len(text):
-                result.append('\\(' + text[i,Å:j] + '\\)')
+                result.append('\\(' + text[i+1:j] + '\\)')
                 i = j + 1
             else:
                 result.append(text[i])
