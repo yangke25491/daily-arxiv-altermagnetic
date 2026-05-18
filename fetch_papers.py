@@ -35,30 +35,6 @@ request_params = {
 }
 
 
-def kramdown_safe_abstract(text):
-    """Convert $...$ to \(...\) for Kramdown, escape _ outside math."""
-    result = []
-    i = 0
-    while i < len(text):
-        if text[i] == '$':
-            j = i + 1
-            while j < len(text) and text[j] != '$':
-                j += 1
-            if j < len(text):
-                result.append('\\(' + text[i+1:j] + '\\)')
-                i = j + 1
-            else:
-                result.append(text[i])
-                i += 1
-        else:
-            if text[i] == '_':
-                result.append('\\_')
-            else:
-                result.append(text[i])
-            i += 1
-    return ''.join(result)
-
-
 def fetch_with_retry(url, params, max_retries=5):
     for attempt in range(max_retries):
         time.sleep(3)
@@ -111,7 +87,7 @@ layout: default
             arxiv_link = paper.id
             abstract = paper.summary.replace("
 ", " ").strip()
-            abstract = kramdown_safe_abstract(abstract)
+            abstract = abstract
 
             markdown_content += f"### {index}. {paper_title}
 
