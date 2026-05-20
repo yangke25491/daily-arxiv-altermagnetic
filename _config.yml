@@ -1,0 +1,10 @@
+title: Daily arXiv Papers - Altermagnetism
+description: Daily fetched arXiv papers on altermagnetism
+show_downloads: false
+
+# Kramdown settings
+kramdown:
+  syntax_highlighter: rouge
+
+# GitHub Pages settings
+markdown: kramdown

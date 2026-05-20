@@ -1,1 +1,21 @@
-aW1wb3J0IHJlcXVlc3RzCmltcG9ydCBmZWVkcGFyc2VyCmZyb20gZGF0ZXRpbWUgaW1wb3J0IGRhdGUsIHRpbWVkZWx0YQppbXBvcnQgb3MKaW1wb3J0IHN5cwppbXBvcnQgdGltZQppbXBvcnQgcmFuZG9tCgpTRUFSQ0hfS0VZV09SRCA9ICJhbHRlcm1hZ25ldGljIiAKU1VQRVJDT05EVUNUSVZJVFlfS0VZV09SRCA9ICJhbHRlcm1hZ25ldGljIgpUSU1FX1JBTkdFX0RBWVMgPSA3CkNBVEVHT1JZMSA9ICJjb25kLW1hdC5zdXByLWNvbiIKQ0FURUdPUlkyID0gImNvbmQtbWF0LnN0ci1lbCIKTUFYX1JFU1VMVFMgPSA1MApPVVRQVVRfRklMRSA9ICJkb2NzL2luZGV4Lm1kIgoKRU5EX0RBVEUgPSBkYXRlLnRvZGF5KCkKU1RBUlRfREFURSA9IEVORF9EQVRFIC0gdGltZWRlbHRhKGRheXM9VElNRV9SQU5HRV9EQVlTKQoKc2VhcmNoX3F1ZXJ5ID0gKAogICAgZicodGk6IntTRUFSQ0hfS0VZV09SRCJ9IiBPSyBhYnM6IntTRUFSQ0hfS0VZV09SRCJ9IikgJwogICAgZidBTkQgKGFiOno:
+import requests
+import feedparser
+import re
+from datetime import date, timedelta
+import os
+
+SEARCH_KEYWORD = "altermagnetic"
+
+TIME_RANGE_DAYS = 30
+CATEGORY1 = "cond-mat.supr-con"
+CATEGORY2 = "cond-mat.str-el"
+MAX_RESULTS = 100
+OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "altermagnetic_recent_papers.md")
+
+def process_latex_math(text):
+    result = []
+    parts = re.split(r"(\\$[^$]+\\$)", text)
+    for part in parts:
+        if re.match(r"^\\$[^$]+\\$$b", part):
+            inner = part[1:-1]
+            if re.match(r"^_[... SHORTENED
