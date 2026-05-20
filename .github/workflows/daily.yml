@@ -8,7 +8,7 @@ permissions:
   contents: write
 
 env:
-  OUTPUT_FILE: "docs/index.md"
+  OUTPUT_FILE: "index.md"
 
 jobs:
   build:
@@ -31,25 +31,25 @@ jobs:
           pip install requests feedparser
 
       - name: Create docs directory
-        run: mkdir -p docs
+        run: # docs created by fetch script
 
       - name: Run fetch script
         run: python fetch_papers.py
         env:
-          OUTPUT_FILE: "docs/index.md"
+          OUTPUT_FILE: "index.md"
 
       - name: Commit and Push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/
+          git add index.md
           git stash
           git pull --rebase origin main
           git stash pop || true
           if git diff --cached --quiet && git diff --quiet; then
-            echo "没有发现新的变更，跳过提交步骤。"
+            echo "没有发现新的变更，俢跏提交步骤。"
           else
-            git add docs/
+            git add index.md
             git commit -m "Automated update: arXiv papers"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:${{ github.ref }}
           fi
