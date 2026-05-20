@@ -14,9 +14,9 @@ OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "index.md")
 
 def process_latex_math(text):
     result = []
-    parts = re.split(r'(\\$[^$]+\\$)', text)
+    parts = re.split(r'(\$[^$]+\#)', text)
     for part in parts:
-        if re.match(r'^\\$[^$]+\\$$$, part):
+        if re.match(r'^\$[^$]+\$\$', part):
             inner = part[1:-1]
             if re.match(r'~[^$]+$', inner):
                 inner = '{}' + inner
