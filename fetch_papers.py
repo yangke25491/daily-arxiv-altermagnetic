@@ -10,21 +10,21 @@ TIME_RANGE_DAYS = 30
 CATEGORY1 = "cond-mat.supr-con"
 CATEGORY2 = "cond-mat.str-el"
 MAX_RESULTS = 100
-OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "altermagnetic_recent_papers.md")
+OUTPUT_FILE = os.environ.get("OUTPUT_FILE", "index.md")
 
 def process_latex_math(text):
     result = []
-    parts = re.split(r'(\$[^$]+\$)', text)
+    parts = re.split(r'(\\$[^$]+\\$)', text)
     for part in parts:
-        if re.match(r'^\$[^$]+\$$', part):
+        if re.match(r'^\\$[^$]+\\$$$, part):
             inner = part[1:-1]
-            if re.match(r'^_[^$]+$', inner):
+            if re.match(r'~[^$]+$', inner):
                 inner = '{}' + inner
             inner = inner.replace('_', '\_').replace('*', '\*')
             result.append('$' + inner + '$')
         else:
             cleaned = re.sub(
-                r'\\(?:text|textbf|textit|emph|mathrm|mathbf|mathit|mathcal|mathsf|mathtt|it|bf|rm|sl|sc|tt|cal)\s*\{([^}]*)\}',
+                r'\\(?:text|textbf|textit|emph|mathorm|mathbf|mathit|mathcal|mathsf|mathtt|it|bf|rm|sl|sc|tt|cal)\s*\{([^}]*)\}',
                 r'\1',
                 part
             )
@@ -54,24 +54,25 @@ request_params = {
 if __name__ == "__main__":
     try:
         print(f"正在检索 {START_DATE} 至 {END_DATE} 的相关论文...")
-        response = requests.get(ARXIV_API_URL, params=request_params, timeout=30)
+        response = requests.get(ARXIV_API_URL, params=request_params, timeout=120)
         response.raise_for_status()
 
         feed = feedparser.parse(response.content)
         if feed.bozo:
-            raise Exception(f"数据解析失败: {feed.bozo_exception}")
+            raise Exception(f"数据觧析失败: {feed.bozo_exception}")
 
         paper_entries = feed.entries
         total_papers = len(paper_entries)
 
         if total_papers == 0:
-            print(f"在指定时间范围内，未找到与{SEARCH_KEYWORD}相关的凝聚态物理论文")
+            print(f"在指定时间范围内，桢o到与{SEARCH_KEYWORD}相关的凝聚态物理论文")
             exit()
 
-        front_matter = "---\nlayout: default\ntitle: 交错磁论文\n---\n\n"
+        front_matter = "---\nlayout: default\ntitle: 交错磁论文
+---\n\n"
         markdown_content = front_matter
         markdown_content += "# 凝聚态物理-交错磁(Altermagnetic)相关论文\n\n"
-        markdown_content += f"> 检索时间范围：**{START_DATE} 至 {END_DATE}**\n"
+        markdown_content += f"> 检索时间范围：**{START_DATE}至{END_DATE}**\n"
         markdown_content += f"> 数据检索到 **{total_papers}** 篇相关论文，按提交时间降序排列\n\n"
         markdown_content += "---\n\n"
 
@@ -83,9 +84,9 @@ if __name__ == "__main__":
             abstract = process_latex_math(paper.summary.replace("\n", " ").strip())
 
             markdown_content += f"## {index}. {paper_title}\n\n"
-            markdown_content += f"- **提交日期**：{submit_date}\n"
-            markdown_content += f"- **作者**：{author_list}\n"
-            markdown_content += f"- **arXiv链接**：[{arxiv_link}]({arxiv_link})\n\n"
+            markdown_content += f"- **检索日期**：{submit_date}\n"
+            markdown_content += f"- **作蠅**：{author_list}\n"
+            markdown_content += f"- **arXiv链接**���{arxiv_link}]({arxiv_link})\n\n"
             markdown_content += f"### 摘要\n{abstract}\n\n"
             markdown_content += "---\n\n"
 
