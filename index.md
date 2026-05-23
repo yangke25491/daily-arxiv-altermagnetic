@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-04-22 至 2026-05-22**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-23 至 2026-05-23**
+> 数据检索到 **22** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -249,28 +249,6 @@ One of the central goals in the emergent field of altermagnetism is the unambigu
 
 ### 摘要
 Recent experiments found superconductivity in nonmagnetic MnB${}\_4$ with a high critical temperature ($T\_{c}$) reaching 14 K at 158 GPa. However, ab initio calculations of the electron-phonon coupling predict a $T\_{c}$ below 1 K, suggesting that a conventional mechanism cannot explain this phenomenon. In this Letter, we find that MnB${}\_4$ is close to an altermagnetic instability in density-functional theory calculations. We propose that the superconductivity is driven by altermagnetic spin fluctuations. To verify the pairing symmetry, we have constructed a two-orbital tight-binding model, where boron states at the Fermi level are integrated out. Using this model, we identify an extended-$s$ symmetry as the leading pairing instability. If confirmed, this will be the first reported case of superconductivity driven by altermagnetic spin fluctuations.
-
----
-
-## 23. Giant spontaneous Kerr effect reveals the defect origin of macroscopic time-reversal symmetry breaking in altermagnetic MnTe
-
-- **提交日期**：2026-04-22
-- **作者**：Weitung Yang, Choongjae Won, Cory Cress, Marshall Zachary Franklin, Xiaochen Fang, Shelby Fields, Nicholas Combs, Shaofeng Han, Weihang Lu, Steven P. Bennett, Sang-Wook Cheong, Jing Xia
-- **arXiv链接**：[http://arxiv.org/abs/2604.21021v2](http://arxiv.org/abs/2604.21021v2)
-
-### 摘要
-Altermagnetism, a recently identified third class of collinear magnetism with spin-split bands and vanishing net magnetization, has emerged in hexagonal \alphaMnTe\{\} and is regarded as a promising platform for ultrafast, stray-field-free spintronics and for optical readout of spin order at telecommunication wavelengths. Whether the macroscopic symmetry-breaking signatures reported in MnTe, a spontaneous Hall effect and a tiny ``gossamer'' remanent moment, reflect the ideal altermagnetic order or are activated by defects remains an open question. Here we report giant spontaneous Kerr rotations of up to $\pm 1500\microrad$ in \alphaMnTe\{\} single crystals at the telecommunication wavelength of $1550\,\mathrm{nm}$, onsetting precisely at the Néel temperature $\TN = 307\,\mathrm{K}$. In contrast, a stoichiometric insulating \alphaMnTe\{\} thin film shows no detectable signal. The bulk--film contrast identifies carrier self-doping, rather than the ideal altermagnetic order, as the source of macroscopic magneto-optical response, establishing telecom-wavelength Kerr imaging as a practical readout for altermagnetic spintronics.
-
----
-
-## 24. Perfect spin nonreciprocity in gated superconducting altermagnetic heterostructures
-
-- **提交日期**：2026-04-22
-- **作者**：Pei-Hao Fu, Jun-Feng Liu, Luca Chirolli, Jorge Cayao
-- **arXiv链接**：[http://arxiv.org/abs/2604.20312v1](http://arxiv.org/abs/2604.20312v1)
-
-### 摘要
-We consider a superconducting altermagnet heterostructure and demonstrate that the interplay between altermagnetism and a selective filter of transverse momentum channels enables perfect nonreciprocal spin-polarized currents. We demonstrate that this nonreciprocity manifests in both local and nonlocal spin currents, signalling the emergence of directionally selective local and nonlocal spin behaviors. We show that the selective filter of transverse momentum channels is realized by gating a finite normal region between the superconducting altermagnet and the metallic reservoir, which then directionally selects transport channels that match the momentum-dependent spin-split superconducting altermagnetic states, allowing for nonreciprocal spin-polarized currents. We discover that the local and nonlocal spin nonreciprocity features a highly tunable polarity and nearly perfect quality factors, respectively, which is achieved by means of gate voltages and by varying the length of the finite region. Moreover, we find that local and nonlocal charge currents also develop a nonreciprocal behavior, whose quality factors can also reach perfect values. In all cases, the spin and charge currents are sensitive to variations of the altermagnetic field, a functional dependence that can be exploited to identify the type of altermagnetism. Our findings put forward an electrically controllable route towards nonreciprocal superconducting spintronic devices based on altermagnets.
 
 ---
 
