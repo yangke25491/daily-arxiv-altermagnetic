@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-04-23 至 2026-05-23**
-> 数据检索到 **22** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-24 至 2026-05-24**
+> 数据检索到 **21** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -238,17 +238,6 @@ We have investigated the piezomagnetic (PZM) effect of the rare-earth-based g-wa
 
 ### 摘要
 One of the central goals in the emergent field of altermagnetism is the unambiguous experimental identification and characterization of altermagnetic order across a variety of compounds. This motivates exploring tools that can clearly distinguish altermagnets from antiferromagnets, based on symmetry signatures, and offer access to the dominant orbital character (e.g., $d$-wave vs. $g$-wave) of the magnetic order parameter. In this work, we theoretically explore the potential of noise magnetometry for this task, studying contributions from both magnons and itinerant electrons in different regimes and scenarios. While altermagnetism and antiferromagnetism also lead to different noise spectra for magnons, we find the most striking and symmetry-sensitive signatures in the charge fluctuations of itinerant altermagnets. Both for the homogeneous bulk case and in the presence of strain and/or around domain walls, we identify noise contributions that are only permitted by symmetry in the altermagnet and, thus, provide a unique signature of altermagnetism. Furthermore, the angular dependence of noise around domain walls also offers access to the orbital character of the altermagnet. On a more technical note, we discuss the role and relevance of lattice effects related to the dipole tensor. We hope that our work will help pave the way towards the clear experimental identification of altermagnetism across a wide range of candidate materials.
-
----
-
-## 22. Superconductivity induced by altermagnetic spin fluctuations in high-pressure MnB${}\_4$
-
-- **提交日期**：2026-04-23
-- **作者**：Danylo Radevych, Mercè Roig, Daniel F. Agterberg, Igor I. Mazin
-- **arXiv链接**：[http://arxiv.org/abs/2604.21561v1](http://arxiv.org/abs/2604.21561v1)
-
-### 摘要
-Recent experiments found superconductivity in nonmagnetic MnB${}\_4$ with a high critical temperature ($T\_{c}$) reaching 14 K at 158 GPa. However, ab initio calculations of the electron-phonon coupling predict a $T\_{c}$ below 1 K, suggesting that a conventional mechanism cannot explain this phenomenon. In this Letter, we find that MnB${}\_4$ is close to an altermagnetic instability in density-functional theory calculations. We propose that the superconductivity is driven by altermagnetic spin fluctuations. To verify the pairing symmetry, we have constructed a two-orbital tight-binding model, where boron states at the Fermi level are integrated out. Using this model, we identify an extended-$s$ symmetry as the leading pairing instability. If confirmed, this will be the first reported case of superconductivity driven by altermagnetic spin fluctuations.
 
 ---
 
