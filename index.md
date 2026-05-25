@@ -5,12 +5,23 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-04-24 至 2026-05-24**
-> 数据检索到 **21** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-25 至 2026-05-25**
+> 数据检索到 **22** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Observation of Altermagnetic Order Switching in Bulk MnTe by Polarized Neutron Diffraction
+## 1. Disorder-Induced Phase Transitions in Altermagnetic Josephson Junctions
+
+- **提交日期**：2026-05-22
+- **作者**：Chang-An Li
+- **arXiv链接**：[http://arxiv.org/abs/2605.23607v1](http://arxiv.org/abs/2605.23607v1)
+
+### 摘要
+Altermagnetic Josephson junctions (AMJJs) can host unconventional $π$ phase and $\varphi$ phase despite vanishing net magnetizations. Whether these phases are stable against disorder existing in real materials remains an open question. Here, we investigate impact of disorder on exotic phases in two-dimensional d-wave AMJJs. We show that disorder is able to induce phase transitions between the exotic $π$ and conventional 0 phases, accompanied by a strong suppression of critical current. This behavior is attributed to modifications of the tunneling Cooper-pair phase shift and superconducting decoherence. Remarkably, the anomalous $\varphi$ phase is highly fragile in presence of disorder and can be driven to either a $π$ phase or 0 phase in a nonreciprocal manner. Across such transitions, the first harmonic of current-phase relation changes sign, while the higher-order harmonics are rapidly suppressed. Our findings reveal the crucial role of disorder in tailoring distinct phases of AMJJs and shed new light on their potential functionalities.
+
+---
+
+## 2. Observation of Altermagnetic Order Switching in Bulk MnTe by Polarized Neutron Diffraction
 
 - **提交日期**：2026-05-20
 - **作者**：Zheyuan Liu, Shinichiro Asai, Shingo Takahashi, Hiraku Saito, Taro Nakajima, Takatsugu Masuda
@@ -21,7 +32,7 @@ Altermagnetic order, characterized by the Néel vector, breaks time-reversal sym
 
 ---
 
-## 2. Unconventional Magnetism: Symmetry Classification, Hybrid-parity and Unconstrained-parity Classes
+## 3. Unconventional Magnetism: Symmetry Classification, Hybrid-parity and Unconstrained-parity Classes
 
 - **提交日期**：2026-05-20
 - **作者**：Xun-Jiang Luo, Dan Li, Rui-Chun Xiao, Ding-Fu Shao, Lei Li, Mingliang Tian, Yugui Yao
@@ -32,7 +43,7 @@ Unconventional magnetism has emerged as a transformative frontier in condensed m
 
 ---
 
-## 3. Ligand-mediated Origin of Altermagnetic Spin-Splitting
+## 4. Ligand-mediated Origin of Altermagnetic Spin-Splitting
 
 - **提交日期**：2026-05-20
 - **作者**：Luigi Camerano, Federico Bisti, Gianni Profeta
@@ -43,7 +54,7 @@ Altermagnets host spin-split electronic bands despite zero net magnetization, op
 
 ---
 
-## 4. Electronic and Magnonic Properties of $g$-Wave Altermagnetism in Intercalated Transition Metal Dichalcogenides
+## 5. Electronic and Magnonic Properties of $g$-Wave Altermagnetism in Intercalated Transition Metal Dichalcogenides
 
 - **提交日期**：2026-05-18
 - **作者**：Shuyi Li, Adrian Bahri, Chunjing Jia
@@ -54,7 +65,7 @@ Altermagnetism is a recently identified class of magnetic order characterized by
 
 ---
 
-## 5. Direction-selective triplet pairing and spin-edge locking in altermagnetic metals
+## 6. Direction-selective triplet pairing and spin-edge locking in altermagnetic metals
 
 - **提交日期**：2026-05-18
 - **作者**：Lie Yuan, Junkang Huang, Yu-Xuan Li, Tao Zhou
@@ -65,7 +76,7 @@ We investigate self-consistent unconventional superconductivity in a two-dimensi
 
 ---
 
-## 6. Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism
+## 7. Near-degenerate competing magnetic orders in EuAgAs: a tunable route to altermagnetism
 
 - **提交日期**：2026-05-15
 - **作者**：Mohamed El Gazzah, Daniel Kaplan, Zachary Morgan, Abhijeet Nayak Resham Regmi, Sk Jamaluddin, Huibo Cao, Igor I. Mazin, Nirmal J. Ghimire
@@ -76,7 +87,7 @@ Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging c
 
 ---
 
-## 7. Non-Relativistic Spin-Orbit Interaction in Triplet Superconductors: Edelstein Effect and Spin Pumping by Electric Fields
+## 8. Non-Relativistic Spin-Orbit Interaction in Triplet Superconductors: Edelstein Effect and Spin Pumping by Electric Fields
 
 - **提交日期**：2026-05-15
 - **作者**：Ping Li, G. A. Bobkov, I. V. Bobkova, Tao Yu
@@ -87,7 +98,7 @@ Non-relativistic momentum-dependent spin splitting, as observed in collinear alt
 
 ---
 
-## 8. Strong electron correlations and ligand hybridization for altermagnetism
+## 9. Strong electron correlations and ligand hybridization for altermagnetism
 
 - **提交日期**：2026-05-14
 - **作者**：Byungkyun Kang, Anderson Janotti, Dai Q. Ho, Myoung-Hwan Kim, Chul Hong Park, Sangkook Choi, Mark R. Pederson, Eunja Kim
@@ -98,7 +109,7 @@ Spin-band splitting is a hallmark of altermagnetism, intrinsically linked to mag
 
 ---
 
-## 9. Observation of Switchable Chiral Magnons in an Altermagnet
+## 10. Observation of Switchable Chiral Magnons in an Altermagnet
 
 - **提交日期**：2026-05-13
 - **作者**：Zheyuan Liu, Hodaka Kikuchi, Zijun Wei, Shinichiro Asai, Mechthild Enderle, Ursula B. Hansen, Vasile O. Garlea, Manh D. Le, Gøran J. Nilsen, Igor A. Zaliznyak, Takatsugu Masuda
@@ -109,7 +120,7 @@ Chiral magnons, the quanta of handed spin waves, transport spin angular momentum
 
 ---
 
-## 10. Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets
+## 11. Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets
 
 - **提交日期**：2026-05-13
 - **作者**：Xiao Xiao, Arun Bansil
@@ -120,7 +131,7 @@ Topological superconductivity hosts protected quasiparticles and is central to t
 
 ---
 
-## 11. Correlation-driven tunability of altermagnetism in RuO${}\_2$
+## 12. Correlation-driven tunability of altermagnetism in RuO${}\_2$
 
 - **提交日期**：2026-05-13
 - **作者**：Ina Park, Dongwook Kim, Jisook Hong, Beomjoon Goh, Bo Gyu Jang
@@ -131,7 +142,7 @@ RuO${}\_2$ has been regarded as a prototypical candidate for metallic altermagne
 
 ---
 
-## 12. Interface controlled spin filtering and nonreciprocal transport in Altermagnet/Ising superconductor junctions
+## 13. Interface controlled spin filtering and nonreciprocal transport in Altermagnet/Ising superconductor junctions
 
 - **提交日期**：2026-05-13
 - **作者**：Arindam Boruah, Saumen Acharjee, Prasanta Kumar Saikia
@@ -142,7 +153,7 @@ We investigate theoretically spin-resolved transport, spin filtering, and nonrec
 
 ---
 
-## 13. Altermagnons at the metal-insulator transition
+## 14. Altermagnons at the metal-insulator transition
 
 - **提交日期**：2026-05-12
 - **作者**：Jonas Issing, Matteo Dürrnagel, Sarbajit Mazumdar, Alena Lorenz, Niklas Witt, Giorgio Sangiovanni, Michael Klett, Lennart Klebl, Ronny Thomale, Jannis Seufert
@@ -153,7 +164,7 @@ By means of slave-boson theory for the Hubbard model on the checkerboard lattice
 
 ---
 
-## 14. Unbiased large-$N$ approach to competing vestigial orders of density-wave and superconducting instabilities
+## 15. Unbiased large-$N$ approach to competing vestigial orders of density-wave and superconducting instabilities
 
 - **提交日期**：2026-05-11
 - **作者**：Grgur Palle, Rafael M. Fernandes
@@ -164,7 +175,7 @@ When a primary order breaks multiple symmetries, partially ordered phases that o
 
 ---
 
-## 15. Inherent Altermagnetism on regular hyperbolic lattices
+## 16. Inherent Altermagnetism on regular hyperbolic lattices
 
 - **提交日期**：2026-05-11
 - **作者**：Eric Petermann, Kristian Mæland, Haye Hinrichsen, Björn Trauzettel
@@ -175,7 +186,7 @@ Altermagnets are a novel class of magnetic systems characterized by their moment
 
 ---
 
-## 16. Spin Quadrupolar orders in $d$-wave Unconventional Magnetism
+## 17. Spin Quadrupolar orders in $d$-wave Unconventional Magnetism
 
 - **提交日期**：2026-05-10
 - **作者**：Jian-Keng Yuan, Zhiming Pan, Congjun Wu
@@ -186,7 +197,7 @@ Unconventional magnetism represents a class of metallic states whose Fermi surfa
 
 ---
 
-## 17. Finite temperature pair density wave superconductivity in $d$-wave altermagnets
+## 18. Finite temperature pair density wave superconductivity in $d$-wave altermagnets
 
 - **提交日期**：2026-05-08
 - **作者**：Amrutha N Madhusuthanan, Madhuparna Karmakar
@@ -197,7 +208,7 @@ We demonstrate that altermagnetism provides a field-free mechanism for stabilizi
 
 ---
 
-## 18. Spin-polarized Josephson current induced by inhomogeneous altermagnetic interlayers
+## 19. Spin-polarized Josephson current induced by inhomogeneous altermagnetic interlayers
 
 - **提交日期**：2026-05-04
 - **作者**：Wenjun Zhao, Yuri Fukaya, Pablo Burset, Jorge Cayao, Yukio Tanaka, Bo Lu
@@ -208,7 +219,7 @@ The pursuit of dissipationless spin supercurrents is a central theme in supercon
 
 ---
 
-## 19. The odd-parity altermagnetism induced reconstruction of the Chern-insulating phase in Haldane-Hubbard model
+## 20. The odd-parity altermagnetism induced reconstruction of the Chern-insulating phase in Haldane-Hubbard model
 
 - **提交日期**：2026-04-28
 - **作者**：Minghuan Zeng, Zheng Qin, Ling Qin, Shiping Feng, Lin Wu, Dong-Hui Xu, Rui Wang
@@ -219,7 +230,7 @@ Odd-parity altermagnetism(ALM) extends compensated collinear magnetism beyond th
 
 ---
 
-## 20. Piezomagnetic effect of a rare-earth-based altermagnet TbPt6Al3
+## 21. Piezomagnetic effect of a rare-earth-based altermagnet TbPt6Al3
 
 - **提交日期**：2026-04-28
 - **作者**：Ryohei Oishi, Kazunori Umeo, Takuya Aoyama, Takahiro Onimaru, Kaya Kobayashi
@@ -230,7 +241,7 @@ We have investigated the piezomagnetic (PZM) effect of the rare-earth-based g-wa
 
 ---
 
-## 21. Noise spectroscopy of insulating and itinerant altermagnets
+## 22. Noise spectroscopy of insulating and itinerant altermagnets
 
 - **提交日期**：2026-04-25
 - **作者**：Lucas V. Pupim, Mathias S. Scheurer
