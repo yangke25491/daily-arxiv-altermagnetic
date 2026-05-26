@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-04-25 至 2026-05-25**
-> 数据检索到 **22** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-04-26 至 2026-05-26**
+> 数据检索到 **21** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -238,17 +238,6 @@ Odd-parity altermagnetism(ALM) extends compensated collinear magnetism beyond th
 
 ### 摘要
 We have investigated the piezomagnetic (PZM) effect of the rare-earth-based g-wave altermagnet TbPt6Al3 by magnetization measurements of single-crystalline samples under uniaxial stress sigma. The magnetization in magnetic field along the trigonal a axis increases linearly with sigma for T < TN, indicating the emergence of PZM effect, while the theoretically predicted nonlinear PZM effect was not observed. PZM coefficient of Q11 at 2 K is obtained as 9.1 times 10^-3 mu\_B/(f.u. MPa), which is larger by more than two orders of magnitude than those for other altermagnets and noncollinear antiferromagnets. Temperature dependence of Q11 below TN yielded the critical component beta as 0.28, whose value is close to that of the magnetic moment estimated by the neutron powder diffraction. We propose that the large Q11 and the large poling field of 10000 Oe to achieve the single-domain state in TbPt6Al3 are due to the strong relativistic spin-orbit coupling of the 4f electrons in the Tb3+ ions.
-
----
-
-## 22. Noise spectroscopy of insulating and itinerant altermagnets
-
-- **提交日期**：2026-04-25
-- **作者**：Lucas V. Pupim, Mathias S. Scheurer
-- **arXiv链接**：[http://arxiv.org/abs/2604.23297v1](http://arxiv.org/abs/2604.23297v1)
-
-### 摘要
-One of the central goals in the emergent field of altermagnetism is the unambiguous experimental identification and characterization of altermagnetic order across a variety of compounds. This motivates exploring tools that can clearly distinguish altermagnets from antiferromagnets, based on symmetry signatures, and offer access to the dominant orbital character (e.g., $d$-wave vs. $g$-wave) of the magnetic order parameter. In this work, we theoretically explore the potential of noise magnetometry for this task, studying contributions from both magnons and itinerant electrons in different regimes and scenarios. While altermagnetism and antiferromagnetism also lead to different noise spectra for magnons, we find the most striking and symmetry-sensitive signatures in the charge fluctuations of itinerant altermagnets. Both for the homogeneous bulk case and in the presence of strain and/or around domain walls, we identify noise contributions that are only permitted by symmetry in the altermagnet and, thus, provide a unique signature of altermagnetism. Furthermore, the angular dependence of noise around domain walls also offers access to the orbital character of the altermagnet. On a more technical note, we discuss the role and relevance of lattice effects related to the dipole tensor. We hope that our work will help pave the way towards the clear experimental identification of altermagnetism across a wide range of candidate materials.
 
 ---
 
