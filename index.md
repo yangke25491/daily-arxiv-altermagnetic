@@ -5,7 +5,7 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-01 至 2026-05-31**
+> 检索时间范围：**2026-05-02 至 2026-06-01**
 > 数据检索到 **21** 篇相关论文，按提交时间降序排列
 
 ---
@@ -156,8 +156,8 @@ Topological superconductivity hosts protected quasiparticles and is central to t
 ## 14. Correlation-driven tunability of altermagnetism in RuO${}\_2$
 
 - **提交日期**：2026-05-13
-- **作者**：Ina Park, Dongwook Kim, Jisook Hong, Beomjoon Goh, Bo Gyu Jang
-- **arXiv链接**：[http://arxiv.org/abs/2605.13559v1](http://arxiv.org/abs/2605.13559v1)
+- **作者**：Ina Park, Dongwook Kim, Inho Lee, Jisook Hong, Beomjoon Goh, Bo Gyu Jang
+- **arXiv链接**：[http://arxiv.org/abs/2605.13559v2](http://arxiv.org/abs/2605.13559v2)
 
 ### 摘要
 RuO${}\_2$ has been regarded as a prototypical candidate for metallic altermagnet, offering a potential platform for high-speed and high-efficiency spintronics. However, the magnetic ground state of RuO${}\_2$ remains a topic of active debate due to conflicting experimental reports. In this work, we investigate the effect of electron correlations in RuO${}\_2$ using density functional theory combined with dynamical mean-field theory (DFT+DMFT). In contrast to previous DFT-based studies, DFT+DMFT captures essential dynamical correlation effects, yielding spectral functions and optical conductivities in excellent quantitative agreement with experiments, and further reveals that RuO${}\_2$ resides in the close vicinity of both the paramagnetic-altermagnetic phase boundary and the itinerant-localized crossover, rendering the magnetic ground state highly susceptible to external perturbations. Indeed, even a minimal compressive strain of $\sim$0.5% is sufficient to drive the system into an altermagnetic phase. These findings elucidate the origin of the conflicting experimental observations and reveal that dynamical correlation effects are the key driving force behind the highly tunable magnetic ground state of RuO${}\_2$.
