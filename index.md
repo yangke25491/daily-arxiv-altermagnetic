@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-08 至 2026-06-07**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-09 至 2026-06-08**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -260,17 +260,6 @@ Altermagnets are a novel class of magnetic systems characterized by their moment
 
 ### 摘要
 Unconventional magnetism represents a class of metallic states whose Fermi surfaces exhibit spin-dependent splittings under the non-trivial representations of the rotation group. The $d$-wave $α$-phase unconventional magnetic state, commonly known as altermagnet, recently, has attracted significant attention. While these systems exhibit distinct anisotropic $d$-wave characteristics in momentum space, how this microscopic topology translates into the spin distributions in real space remains a question. In this work, we bridge the intrinsic spin quadrupolar ordering in momentum space to the real-space staggered magnetic distribution. By introducing a weak, non-magnetic periodic crystal potential into a $d$-wave unconventional magnetic state, the spin-charge cross susceptibility is calculated by using the linear response theory. We reveal that the interplay between the crystal potential and the intrinsic $d$-wave spin-splitting naturally induces a spatial spin quadrupole distribution without enlarging the unit cell. Our study thus provides a physical connection between momentum-space multipoles in the even partial wave channel and real-space spin multipole orders.
-
----
-
-## 24. Finite temperature pair density wave superconductivity in $d$-wave altermagnets
-
-- **提交日期**：2026-05-08
-- **作者**：Amrutha N Madhusuthanan, Madhuparna Karmakar
-- **arXiv链接**：[http://arxiv.org/abs/2605.07656v1](http://arxiv.org/abs/2605.07656v1)
-
-### 摘要
-We demonstrate that altermagnetism provides a field-free mechanism for stabilizing finite-momentum superconductivity in two dimensions. Using a non-perturbative static path approximation Monte Carlo approach, we show that a d-wave altermagnet supports a robust pair-density-wave (PDW) phase that persists over a finite temperature window despite strong thermal fluctuations. The underlying mechanism originates from momentum-dependent spin splitting, which effectively enhances pairing instabilities at finite center-of-mass momentum without Zeeman fields. We identify distinct thermal scales associated with phase coherence, gap closing, and pseudogap formation, and establish characteristic spectroscopic and real-space signatures of the PDW state. Our results reveal altermagnetism as a robust route to thermally stable finite-momentum superconductivity and provide experimentally testable signatures for altermagnetic materials.
 
 ---
 
