@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-13 至 2026-06-12**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-15 至 2026-06-14**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -205,61 +205,6 @@ Altermagnets (AMs) have recently emerged as a distinct magnetic class bridging c
 
 ### 摘要
 Non-relativistic momentum-dependent spin splitting, as observed in collinear altermagnets and non-collinear $p$-wave magnets, provides exciting avenues for controlling spin dynamics. Here, we reveal a distinct form of non-relativistic ``spin-orbit coupling" in triplet superconductors by demonstrating that the triplet order parameter induces a wave-vector-dependent spin texture of Bogoliubov quasiparticles, thereby entangling their orbital and spin motions. Even in the absence of relativistic spin-orbit coupling, this intertwining of spin and orbital motion allows an electric field to generate spin polarization in a $p$-wave superconductor -- that is, an Edelstein effect. Building on this mechanism, we propose an efficient scheme for the nonlinear generation of a DC spin current via electric near fields, driven by AC spin polarization and electron velocity. This general principle offers a powerful route for generating and manipulating spin currents in unconventional superconductors.
-
----
-
-## 19. Strong electron correlations and ligand hybridization for altermagnetism
-
-- **提交日期**：2026-05-14
-- **作者**：Byungkyun Kang, Anderson Janotti, Dai Q. Ho, Myoung-Hwan Kim, Chul Hong Park, Sangkook Choi, Mark R. Pederson, Eunja Kim
-- **arXiv链接**：[http://arxiv.org/abs/2605.14248v1](http://arxiv.org/abs/2605.14248v1)
-
-### 摘要
-Spin-band splitting is a hallmark of altermagnetism, intrinsically linked to magnetic ordering driven by electron correlations. However, recent inconsistencies in the detection of altermagnetism in strongly correlated altermagnet candidates have cast doubt on the robustness of this phenomenon and its dependence on many-body effects. Here, using state-of-the-art quantum many-body frameworks, we dissect the electronic origins of altermagnetism in three prototypical candidates: MnF${}\_2$, MnTe, and RuO${}\_2$. In MnF${}\_2$, we identify pronounced local electron correlations within Mn-3$d$ states and uncover a distinct Mott gap in the visible range, rooted in nonlocal screening effects. The strong correlations markedly localize the Mn-3$d$ electrons, leading to a narrowing of the spin-resolved bandwidth and, consequently, a suppression of spin-band splitting. By contrast, MnTe provides an ideal platform for altermagnetism, exhibiting substantial local Mn-3$d$ magnetic moments due to the strong correlations and pronounced spin-band splitting, enabled by robust Mn 3$d$--Te-5$p$ orbital hybridization. RuO${}\_2$ manifests as a Pauli paramagnet with vanishing local moments, even in its antiferromagnetic phase. Nonetheless, it exhibits significant spin-band splitting, indicative of itinerant altermagnetic behavior. Our results reveal that both strong local electron correlations and judicious ligand selection to promote orbital hybridization are key prerequisites to realizing altermagnetism in strongly correlated systems. These insights pave the way for the rational design and discovery of novel altermagnetic materials.
-
----
-
-## 20. Observation of Switchable Chiral Magnons in an Altermagnet
-
-- **提交日期**：2026-05-13
-- **作者**：Zheyuan Liu, Hodaka Kikuchi, Zijun Wei, Shinichiro Asai, Mechthild Enderle, Ursula B. Hansen, Vasile O. Garlea, Manh D. Le, Gøran J. Nilsen, Igor A. Zaliznyak, Takatsugu Masuda
-- **arXiv链接**：[http://arxiv.org/abs/2605.14124v1](http://arxiv.org/abs/2605.14124v1)
-
-### 摘要
-Chiral magnons, the quanta of handed spin waves, transport spin angular momentum without energy loss due to Joule heating. The recently discovered altermagnets were proposed to host chiral magnons arising from a non-relativistic exchange mechanism, similar to that in ferromagnets but without net magnetization, offering a stray-field-free platform for efficient magnon spin-current manipulation. In this work, we directly observed chiral magnons in the altermagnetic prototype MnTe using polarized inelastic neutron scattering. Furthermore, the magnon chirality was found to be reversibly switched by magnetic-field control, establishing a robust foundation for functional altermagnetic magnonics.
-
----
-
-## 21. Nodal Topological Superconductivity Driven by Crystalline Antiunitary Symmetry in Altermagnets
-
-- **提交日期**：2026-05-13
-- **作者**：Xiao Xiao, Arun Bansil
-- **arXiv链接**：[http://arxiv.org/abs/2605.13656v1](http://arxiv.org/abs/2605.13656v1)
-
-### 摘要
-Topological superconductivity hosts protected quasiparticles and is central to topological quantum computation, yet its realization in intrinsic materials remains challenging and often relies on engineered platforms. Here we uncover a symmetry-constrained mechanism for nodal topological superconductivity in altermagnets. Focusing on fourfold rotational collinear altermagnets, we show that the native crystalline antiunitary symmetry $\mathcal{T}C\_{4z}$ generically forbids pure spin-singlet pairing and selects pairing structures that admit Bogoliubov-de Gennes (BdG) Hamiltonians with emergent chiral symmetries. These symmetries further give rise to robust nodal topological phases over broad parameter regimes, including a nodal-point phase hosting Majorana flat bands (MFBs) and two distinct nodal-loop phases with chiral Majorana edge states. Notably, the nodal structure persists even after spontaneous breaking of the antiunitary symmetry, indicating that the topology originates from symmetry-constrained pairing rather than direct symmetry protection. Finally, we propose tunneling signatures that can distinguish these nodal phases and probe symmetry breaking experimentally.
-
----
-
-## 22. Correlation-driven tunability of altermagnetism in RuO${}\_2$
-
-- **提交日期**：2026-05-13
-- **作者**：Ina Park, Dongwook Kim, Inho Lee, Jisook Hong, Beomjoon Goh, Bo Gyu Jang
-- **arXiv链接**：[http://arxiv.org/abs/2605.13559v2](http://arxiv.org/abs/2605.13559v2)
-
-### 摘要
-RuO${}\_2$ has been regarded as a prototypical candidate for metallic altermagnet, offering a potential platform for high-speed and high-efficiency spintronics. However, the magnetic ground state of RuO${}\_2$ remains a topic of active debate due to conflicting experimental reports. In this work, we investigate the effect of electron correlations in RuO${}\_2$ using density functional theory combined with dynamical mean-field theory (DFT+DMFT). In contrast to previous DFT-based studies, DFT+DMFT captures essential dynamical correlation effects, yielding spectral functions and optical conductivities in excellent quantitative agreement with experiments, and further reveals that RuO${}\_2$ resides in the close vicinity of both the paramagnetic-altermagnetic phase boundary and the itinerant-localized crossover, rendering the magnetic ground state highly susceptible to external perturbations. Indeed, even a minimal compressive strain of $\sim$0.5% is sufficient to drive the system into an altermagnetic phase. These findings elucidate the origin of the conflicting experimental observations and reveal that dynamical correlation effects are the key driving force behind the highly tunable magnetic ground state of RuO${}\_2$.
-
----
-
-## 23. Interface controlled spin filtering and nonreciprocal transport in Altermagnet/Ising superconductor junctions
-
-- **提交日期**：2026-05-13
-- **作者**：Arindam Boruah, Saumen Acharjee, Prasanta Kumar Saikia
-- **arXiv链接**：[http://arxiv.org/abs/2605.13317v1](http://arxiv.org/abs/2605.13317v1)
-
-### 摘要
-We investigate theoretically spin-resolved transport, spin filtering, and nonreciprocal effects in an Altermagnet/Ising superconductor (AM/ISC) junction with a spin-active interface. Using a modified Bogoliubov-de Gennes framework within the scattering formalism, we demonstrate that the interplay among intrinsic spin-orbit coupling (ISOC), anisotropic AM spin texture and spin-dependent interfacial scattering gives rise to strongly anisotropic charge and spin conductance. In the weak spin-mixing regime, transport remains predominantly helicity conserving and exhibits pronounced angular dependence governed by the relative orientation between the AM spin texture and interface magnetization. Increasing ISOC enhances spin conductance and leads to spin-selective Andreev reflection resulting in finite spin filtering. In contrast, the strong spin-mixing regime exhibits enhanced angular anisotropy and robust spin-polarized transport over a broad energy range. Conventional Andreev reflection becomes strongly suppressed, accompanied by substantial spectral redistribution. We further show that nonreciprocal transport persists throughout the single-band, intermediate and double-band ISC regime. The spin polarization and spin-filter efficiency exhibit nonmonotonic dependence on system parameters, reaching values up to $\sim 86\%$, with characteristic angular modulation determined by the AM spin texture. Finite-energy analysis reveals enhanced spin selectivity at low energies and suppression near the superconducting gap. Furthermore, strong spin mixing at the AM/ISC junction produces asymmetric conductance patterns, indicating nonreciprocal transport. Our results establish AM/ISC junctions as a versatile platform for tunable superconducting spintronics and directional spin transport.
 
 ---
 
