@@ -5,12 +5,23 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-18 至 2026-06-17**
-> 数据检索到 **20** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-19 至 2026-06-18**
+> 数据检索到 **19** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Nonlinear Optical Probing of Ferroic-Octupolar Order Parameter in Collinear Altermagnet
+## 1. $d$-wave altermagnetism revealed by resonant inelastic X-ray scattering
+
+- **提交日期**：2026-06-17
+- **作者**：Guangkai Zhang, Yuehong Li, Xubin Ye, Vincent C. Morano, Sze Tung Li, Jaewon Choi, Rebecca Scatena, Shuai Tang, Maocai Pi, Mengqi Ye, Mirian Garcia-Fernandez, Alessandro Bombardi, Xiaomei Qin, Zhao Pan, Daniel G. Mazzone, Qisi Wang, Yi Lu, Yao Shen, Youwen Long
+- **arXiv链接**：[http://arxiv.org/abs/2606.18731v1](http://arxiv.org/abs/2606.18731v1)
+
+### 摘要
+Altermagnetism defines a third fundamental class of collinear magnetic order, featuring compensated magnetic moments with antiparallel spin alignment, yet lifted Kramers degeneracy without the need for relativistic spin-orbit coupling. Its ability to host spin-polarized electronic bands and unconventional chiral magnons makes it a promising platform for functional materials. However, experimental verification has proven challenging; while circular dichroism in resonant inelastic X-ray scattering (RIXS) has been suggested as a signature of chiral magnons, it remains controversial whether this effect is an intrinsic property of altermagnetism or an artifact of experimental geometry. In this work, we resolve this debate and provide unambiguous experimental evidence of $d$-wave altermagnetism in the strongly correlated Lieb-lattice magnet La${}\_2$O${}\_3$Mn${}\_2$Se${}\_2$. The RIXS spectra exhibit a $d$-wave-symmetry circular dichroism in the magnetic excitations that vanishes in the paramagnetic phase. Through RIXS-operator symmetry analysis and exact-diagonalization calculations, we prove that the observed dichroism is a direct consequence of altermagnetic symmetry constraints, independent of magnon branch splitting. Our results provide definitive evidence for the experimental realization of $d$-wave altermagnetism in La${}\_2$O${}\_3$Mn${}\_2$Se${}\_2$ and establish circularly polarized RIXS as a highly symmetry-sensitive spectroscopic framework for detecting magnetic phases that evade conventional probes.
+
+---
+
+## 2. Nonlinear Optical Probing of Ferroic-Octupolar Order Parameter in Collinear Altermagnet
 
 - **提交日期**：2026-06-16
 - **作者**：P. A. Usachev, R. V. Pisarev, V. V. Pavlov
@@ -21,7 +32,7 @@ Altermagnetism as a new concept in condensed matter physics is currently being t
 
 ---
 
-## 2. Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
+## 3. Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
 
 - **提交日期**：2026-06-15
 - **作者**：Yu-Xuan Li, Tao Zhou
@@ -32,7 +43,7 @@ Dynamical manipulation of Majorana zero modes and their unambiguous distinction 
 
 ---
 
-## 3. Evaluating the Structural Basis for Polar Altermagnet Candidate Ca${}\_{3}$(Ru,Ti)${}\_{2}$O${}\_{7}$
+## 4. Evaluating the Structural Basis for Polar Altermagnet Candidate Ca${}\_{3}$(Ru,Ti)${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-06-15
 - **作者**：Akash Saha, Yihuang Xiong, Vladimir A. Stoica, Subin Mali, Aaron Pearre, Saugata Sarker, Huaiyu Wang, Yufei Zhao, Evguenia Karapetrova, Yu Wang, Jadupati Nag, Zachary W. Hazenstab, Seng Huat Lee, Long-Qing Chen, Geoffroy Hautier, Binghai Yan, Zhiqiang Mao, Venkatraman Gopalan
@@ -43,7 +54,7 @@ The interplay between polar and altermagnetic orders remains largely unexplored 
 
 ---
 
-## 4. Altermagnetism and bond-nematicity in the spin-$1/2$ square lattice $J\_1-J\_2-δ$ model
+## 5. Altermagnetism and bond-nematicity in the spin-$1/2$ square lattice $J\_1-J\_2-δ$ model
 
 - **提交日期**：2026-06-12
 - **作者**：Tanja Đurić, Shenlong Yu, Pinaki Sengupta
@@ -54,7 +65,7 @@ We study appearance of bond-nematicity in insulating altermagnetic materials ind
 
 ---
 
-## 5. Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb
+## 6. Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb
 
 - **提交日期**：2026-06-11
 - **作者**：Yan Zhang, Yixuan Luo, Yue Yang, Zilong Li, Weilong Qiu, Lunhui Hu, Yuanfeng Xu, Yanfeng Guo, Chao Cao, Xin Lu
@@ -65,7 +76,7 @@ Altermagnetic materials have recently emerged as promising candidates for next-g
 
 ---
 
-## 6. Chiral Magnons and Cycloidal Phonons in Altermagnetic CuF${}\_{2}$ Monolayer
+## 7. Chiral Magnons and Cycloidal Phonons in Altermagnetic CuF${}\_{2}$ Monolayer
 
 - **提交日期**：2026-06-10
 - **作者**：Andrea M. León, Matías F. Torreblanca, Carmine Autieri, Jhon W. González
@@ -76,7 +87,7 @@ Altermagnetism establishes momentum-dependent spin splitting through non-symmorp
 
 ---
 
-## 7. Propagation and localization of spin excitations at altermagnetic domain walls
+## 8. Propagation and localization of spin excitations at altermagnetic domain walls
 
 - **提交日期**：2026-06-09
 - **作者**：Oksana Peschanska, Jeroen van den Brink, Volodymyr P. Kravchuk
@@ -87,7 +98,7 @@ Altermagnets (A$\ell$Ms) are spin-compensated materials in which opposite-spin s
 
 ---
 
-## 8. Equilibrium spin currents in altermagnet junctions: Josephson-like and anomalous transport
+## 9. Equilibrium spin currents in altermagnet junctions: Josephson-like and anomalous transport
 
 - **提交日期**：2026-06-06
 - **作者**：Abhiram Soori
@@ -98,7 +109,7 @@ Altermagnets (AMs) offer a compelling platform for exploring novel spin-dependen
 
 ---
 
-## 9. Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation
+## 10. Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation
 
 - **提交日期**：2026-06-04
 - **作者**：Rintaro Eto, Johannes Knolle
@@ -109,7 +120,7 @@ Odd-wave magnets are the counterparts to even-wave altermagnets realizing odd-pa
 
 ---
 
-## 10. Magnetic field effects on spin-split band and magnon transport in altermagnets and emergent compensated ferrimagnets
+## 11. Magnetic field effects on spin-split band and magnon transport in altermagnets and emergent compensated ferrimagnets
 
 - **提交日期**：2026-06-02
 - **作者**：Kazushi Aoyama, Hikaru Kawamura
@@ -120,7 +131,7 @@ In altermagnets and fully compensated ferrimagnets, not only the electron band b
 
 ---
 
-## 11. Enhanced qubit performance by integrating altermagnets into superconducting qubit designs
+## 12. Enhanced qubit performance by integrating altermagnets into superconducting qubit designs
 
 - **提交日期**：2026-06-01
 - **作者**：Johanne Bratland Tjernshaugen, Morten Amundsen, Jacob Linder
@@ -131,18 +142,18 @@ Identifying a materials platform for creating qubits that are both tunable and r
 
 ---
 
-## 12. Suppression of p-Wave Altermagnetism by Localized 4f Electrons in CeNiAsO
+## 13. Suppression of p-Wave Altermagnetism by Localized 4f Electrons in CeNiAsO
 
 - **提交日期**：2026-06-01
 - **作者**：Jiuxiang Zhang, Yueyang Sun, Honglin Zhou, Jumin Shi, Di Wu, Hongze Gu, Wenjin Mao, Hengrui Dong, Yu Xu, Yinghao Li, Ziling Cao, Taimin Miao, Bo Liang, Neng Cai, Wenpei Zhu, Mingkai Xu, Jiaqi Chen, Chunhong Deng, Bo Liu, Xun Ma, Zhengtai Liu, Mao Ye, Shenjin Zhang, Zhimin Wang, Fengfeng Zhang, Feng Yang, Qinjun Peng, Zuyan Xu, Guodong Liu, Xintong Li, Hanqing Mao, Shiliang Li, Hongming Weng, Lin Zhao, X. J. Zhou
-- **arXiv链接**：[http://arxiv.org/abs/2606.02422v1](http://arxiv.org/abs/2606.02422v1)
+- **arXiv链接**：[http://arxiv.org/abs/2606.02422v2](http://arxiv.org/abs/2606.02422v2)
 
 ### 摘要
-Altermagnetism, characterized by momentum-dependent spin splitting and zero net magnetization, has so far been explored mainly in weakly or moderately correlated d-electron systems. How such symmetry-allowed band splitting manifests in heavy-fermion materials, where magnetic exchange competes with Kondo correlations, remains unclear. Here we use high-resolution angle-resolved photoemission spectroscopy to investigate CeNiAsO, a heavy-fermion candidate for p-wave altermagnetism. Despite macroscopic signatures consistent with the proposed p-wave magnetic order, we find no resolvable near-Fermi-level p-wave exchange splitting on the Ni 3d-derived conduction bands across the Neel transitions. Fermi-surface mapping, orbital-resolved ARPES identify that the low-energy electronic structure is dominated by Ni 3d bands, while resonant photoemission reveals that the Ce 4f states remain predominantly localized with residual c-f hybridization. First-principles calculations further show that an uncorrected itinerant-4f description produces dispersive Ce 4f bands and additional Fermi-surface pockets that are absent in experiment, thereby overestimating both the low-energy c-f hybridization and the exchange splitting transferred to the Ni 3d bands. When the localized Ce 4f character is incorporated through DFT+U , the experimental Fermi-surface topology is recovered and the residual p-wave splitting on the Ni 3d-derived bands is reduced to only a few meV, below the effective experimental resolution. These results identify CeNiAsO as a strongly correlated f-electron limit of p-wave magnetism, in which localized 4f electrons suppress the observable single-particle band-splitting signature expected from a weak-correlation picture.
+Altermagnetism, characterized by momentum-dependent spin splitting and zero net magnetization, has so far been explored mainly in weakly or moderately correlated d-electron systems. How symmetry-allowed altermagnetic band splitting manifests in heavy-fermion materials, where magnetic exchange competes with Kondo correlations, remains unclear. Here we use high-resolution angle-resolved photoemission spectroscopy (ARPES) to investigate CeNiAsO, a Kondo-lattice system that was predicted to be a candidate for p-wave altermagnetism. Fermi surface mapping and polarization-dependent ARPES show that the experimentally observed itinerant bands are mainly derived from Ni 3d orbitals, while resonant photoemission reveals that the Ce 4f states remain predominantly localized with residual c-f hybridization. Ultra-low-temperature measurements reveal no resolvable near-Fermi-level p-wave-like exchange splitting on the Ni 3d-derived conduction bands across the successive antiferromagnetic transitions. These experimental observations cannot be captured by an itinerant-4f band-structure description, which predicts a sizable p-wave splitting in the itinerant bands. When the localized Ce 4f character is incorporated, our band structure calculations indicate that the itinerant Ce 4f band weight is shifted away from the Fermi level and the p-wave-like splitting on the Ni 3d-derived bands is reduced to the few-meV scale. These results establish CeNiAsO as a strongly correlated f-electron setting in which the magnetic symmetry allows p-wave-like band splitting, but localized 4f electrons strongly suppress its observable itinerant single-particle signature.
 
 ---
 
-## 13. Slave-rotor theory of correlated altermagnets on the Lieb lattice
+## 14. Slave-rotor theory of correlated altermagnets on the Lieb lattice
 
 - **提交日期**：2026-05-28
 - **作者**：Vanuildo S. de Carvalho, Hermann Freire, Rodrigo G. Pereira
@@ -153,7 +164,7 @@ We investigate the metal-insulator transition driven by the onsite repulsive int
 
 ---
 
-## 14. Odd spin symmetry and anisotropy switching in p-wave magnet CeNiAsO
+## 15. Odd spin symmetry and anisotropy switching in p-wave magnet CeNiAsO
 
 - **提交日期**：2026-05-27
 - **作者**：Fayuan Zhang, Huaxun Li, Xingkai Cheng, Yibo Fan, Yifan Yin, Yifan Gao, Zhanfeng Liu, Shengtao Cui, Zhouyi Yin, Yue Zhao, Junhao Lin, Zhengtai Liu, Mao Ye, Yaobo Huang, Shan Qiao, Wu Xie, Ping Miao, Hao Wu, Junwei Liu, Guanghan Cao, Chaoyu Chen
@@ -164,7 +175,7 @@ Odd-parity magnets, complementary to altermagnets, exhibit unique properties suc
 
 ---
 
-## 15. Disorder-Induced Phase Transitions in Altermagnetic Josephson Junctions
+## 16. Disorder-Induced Phase Transitions in Altermagnetic Josephson Junctions
 
 - **提交日期**：2026-05-22
 - **作者**：Chang-An Li
@@ -175,7 +186,7 @@ Altermagnetic Josephson junctions (AMJJs) can host unconventional $π$ phase and
 
 ---
 
-## 16. Observation of Altermagnetic Order Switching in Bulk MnTe by Polarized Neutron Diffraction
+## 17. Observation of Altermagnetic Order Switching in Bulk MnTe by Polarized Neutron Diffraction
 
 - **提交日期**：2026-05-20
 - **作者**：Zheyuan Liu, Shinichiro Asai, Shingo Takahashi, Hiraku Saito, Taro Nakajima, Takatsugu Masuda
@@ -186,7 +197,7 @@ Altermagnetic order, characterized by the Néel vector, breaks time-reversal sym
 
 ---
 
-## 17. Unconventional Magnetism: Symmetry Classification, Hybrid-parity and Unconstrained-parity Classes
+## 18. Unconventional Magnetism: Symmetry Classification, Hybrid-parity and Unconstrained-parity Classes
 
 - **提交日期**：2026-05-20
 - **作者**：Xun-Jiang Luo, Dan Li, Rui-Chun Xiao, Ding-Fu Shao, Lei Li, Mingliang Tian, Yugui Yao
@@ -197,7 +208,7 @@ Unconventional magnetism has emerged as a transformative frontier in condensed m
 
 ---
 
-## 18. Ligand-mediated Origin of Altermagnetic Spin-Splitting
+## 19. Ligand-mediated Origin of Altermagnetic Spin-Splitting
 
 - **提交日期**：2026-05-20
 - **作者**：Luigi Camerano, Federico Bisti, Gianni Profeta
@@ -205,28 +216,6 @@ Unconventional magnetism has emerged as a transformative frontier in condensed m
 
 ### 摘要
 Altermagnets host spin-split electronic bands despite zero net magnetization, opening new routes for spintronics beyond conventional ferromagnets. Going beyond symmetry-based classifications, which specify allowed terms but not their hierarchy, here we use first-principles calculations and Wannier Hamiltonian engineering to uncover the microscopic bonding contributions of altermagnetic spin splitting in the $g$-wave altermagnet Co${}\_{1/4}$NbSe${}\_2$. We show that the splitting is captured by a short-range tight-binding model, establishing its local origin. By selectively controlling hopping channels, we demonstrate that the dominant contribution arises not from direct magnetic-ion hopping, but from ligand-mediated hybridization that transfers anisotropy to itinerant states. This identifies ligand-assisted coupling as the key mechanism of altermagnetic spin splitting and provides a microscopic bridge between minimal models and symmetry guided first-principles material searches, enabling real-space design of altermagnetic functionality.
-
----
-
-## 19. Electronic and Magnonic Properties of $g$-Wave Altermagnetism in Intercalated Transition Metal Dichalcogenides
-
-- **提交日期**：2026-05-18
-- **作者**：Shuyi Li, Adrian Bahri, Chunjing Jia
-- **arXiv链接**：[http://arxiv.org/abs/2605.19162v1](http://arxiv.org/abs/2605.19162v1)
-
-### 摘要
-Altermagnetism is a recently identified class of magnetic order characterized by unconventional momentum-dependent spin splitting in the absence of net magnetization, and understanding its electronic and magnetic properties is essential for revealing its fundamental physics and potential applications. In this work we investigate two intercalated transition-metal dichalcogenides, Fe${}\_{1/4}$NbS${}\_2$ and V${}\_{1/3}$NbS${}\_2$, as candidate altermagnetic materials by using effective tight-binding and spin models complemented by first-principles calculations. We show that the $g$-wave electronic spin splitting originates from bond-dependent hopping anisotropy, leading to material-dependent nodal structures. For the magnetic excitations, the emergence of chiral splitting in the magnon dispersion is controlled by single-ion anisotropy, which manifests as altermagnetic-like nodal structures when spins are oriented along an easy-axis. Conversely, this altermagnetic signature disappears when the spins are aligned in an easy-plane. Beyond linear spin-wave theory, we find that $1/S$ corrections from magnon--magnon interactions preserve the symmetry and nodal structure of the band splitting while generally reducing its magnitude, with strong antiferromagnetic exchange leading to a non-negligible renormalization of the chiral splitting. Our findings establish intercalated transition-metal dichalcogenides as promising platforms for understanding the interplay between crystal symmetry, non-relativistic spin splitting, and magnetic properties in altermagnets.
-
----
-
-## 20. Direction-selective triplet pairing and spin-edge locking in altermagnetic metals
-
-- **提交日期**：2026-05-18
-- **作者**：Lie Yuan, Junkang Huang, Yu-Xuan Li, Tao Zhou
-- **arXiv链接**：[http://arxiv.org/abs/2605.18429v1](http://arxiv.org/abs/2605.18429v1)
-
-### 摘要
-We investigate self-consistent unconventional superconductivity in a two-dimensional $d$-wave altermagnetic metal. We find that momentum-dependent altermagnetic spin splitting suppresses opposite-spin singlet pairing and stabilizes highly anisotropic equal-spin triplet order. In the spin-conserving limit, this directional triplet pairing gives rise to nearly dispersionless Majorana boundary states associated with effective one-dimensional topological channels. Rashba spin-orbit coupling mixes spin sectors, activates additional pairing components, and drives the system into a mixed-parity superconducting state with dispersive Majorana boundary states. The spin-resolved boundary spectra further reveal a characteristic locking between boundary orientation and spin polarization, reflecting the underlying altermagnetic symmetry. These results identify altermagnetic spin splitting as an intrinsic mechanism for selecting unconventional pairing and generating spin-resolved Majorana boundary states without external magnetic fields.
 
 ---
 
