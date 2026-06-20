@@ -5,12 +5,45 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-19 至 2026-06-18**
+> 检索时间范围：**2026-05-21 至 2026-06-20**
 > 数据检索到 **19** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. $d$-wave altermagnetism revealed by resonant inelastic X-ray scattering
+## 1. All-In-All-Out Pyrochlore Iridates as Noncollinear Spin-Orbit Coupled Counterparts of Altermagnets
+
+- **提交日期**：2026-06-18
+- **作者**：Yang Yang, Turan Birol, Rafael M. Fernandes, Natalia B. Perkins
+- **arXiv链接**：[http://arxiv.org/abs/2606.20296v1](http://arxiv.org/abs/2606.20296v1)
+
+### 摘要
+Altermagnets are collinear magnetically ordered states that exhibit momentum-dependent spin splitting in the absence of net magnetization and spin-orbit coupling (SOC). Related spin-splitting patterns, however, can also emerge in noncollinear magnetic systems with large SOC. Here we show, via a microscopic model, that the all-in-all-out (AIAO) state in pyrochlore iridates constitutes a noncollinear counterpart of a $d$-wave altermagnet stabilized by strong SOC. Starting from a microscopic $j\_{\mathrm{eff}} = 1/2$ tight-binding model on the pyrochlore lattice, we demonstrate that electronic interactions favor the AIAO phase and analyze its symmetry properties. We show that the AIAO order parameter transforms as an $A\_{2g}^{-}$ octupolar magnetic moment, breaking time-reversal symmetry while preserving inversion and zero net magnetization. Using group-theory analysis and mean-field calculations, we demonstrate that this symmetry enforces both a spin-polarized momentum-dependent lifting of band degeneracies that is similar to that of a collinear $d$-wave cubic altermagnet, but also a band splitting at zero-momentum. We show that the latter feature is captured by a low-energy model similar to the   Luttinger-Kohn model for cubic semiconductors. Our results identify pyrochlore iridates as a platform for noncollinear counterparts of altermagnetism and provide a general symmetry framework for spin-split phenomena in spin-orbit coupled materials.
+
+---
+
+## 2. Spin transport in a normal meta-altermagnetic superconducting nanowire junction
+
+- **提交日期**：2026-06-18
+- **作者**：Xing-Jian Yi, Yi-Xin Dai, Yue Mao, Qing-Feng Sun
+- **arXiv链接**：[http://arxiv.org/abs/2606.20279v1](http://arxiv.org/abs/2606.20279v1)
+
+### 摘要
+Spin triplet superconductors are considered a promising platform for dissipationless spin transport, where spin currents are carried by spin triplet Cooper pairs. In this paper, we propose that the spin triplet superconductivity and spin supercurrent can be engineered in an altermagnetic superconducting nanowire, where a one-dimensional nanowire is placed on the surface of an s-wave superconductor and in proximity to the altermagnet. Using the nonequilibrium Green's function method, we demonstrate a nonzero equal spin Andreev reflection coefficient at the normal metal-altermagnetic superconducting nanowire interface, thereby verifying the injection of spin triplet Cooper pairs. Furthermore, we systematically investigate the spin transport properties in this hybrid system under a spin bias. Our results demonstrate that these properties can be effectively tuned by the chemical potential and spin bias orientation. Our proposal provides a pathway toward realizing dissipationless spin transport.
+
+---
+
+## 3. Majorana modes in helical altermagnet without net magnetism and spin-orbit coupling
+
+- **提交日期**：2026-06-18
+- **作者**：Xing-Jian Yi, Yue Mao, Cheng-Ming Miao, Qing-Feng Sun
+- **arXiv链接**：[http://arxiv.org/abs/2606.20259v1](http://arxiv.org/abs/2606.20259v1)
+
+### 摘要
+We propose a scheme to realize topological superconductor and Majorana bound states (MBSs) in a one-dimensional metal nanowire on the surface of a helical altermagnet and in proximity to an s-wave superconductor, removing the requirement of conventional spin-orbit coupling and net magnetism. Through gauge transformation, we demonstrate that the helical frame naturally induces spin-momentum locking while the altermagnetism breaks time-reversal symmetry. The topological superconducting phase is well tuned by chemical potential, altermagnet strength, and helical frequency. Besides, our transport calculation results reveal quantized conductance signatures: a 2e2/h zero-bias peak at nanowire ends and a 4e2/h tunneling conductance at the domain wall of nanowires with opposite chirality, detected via metal lead and scanning tunneling microscopy, respectively. Our research offers new perspectives on finding MBSs.
+
+---
+
+## 4. $d$-wave altermagnetism revealed by resonant inelastic X-ray scattering
 
 - **提交日期**：2026-06-17
 - **作者**：Guangkai Zhang, Yuehong Li, Xubin Ye, Vincent C. Morano, Sze Tung Li, Jaewon Choi, Rebecca Scatena, Shuai Tang, Maocai Pi, Mengqi Ye, Mirian Garcia-Fernandez, Alessandro Bombardi, Xiaomei Qin, Zhao Pan, Daniel G. Mazzone, Qisi Wang, Yi Lu, Yao Shen, Youwen Long
@@ -21,7 +54,7 @@ Altermagnetism defines a third fundamental class of collinear magnetic order, fe
 
 ---
 
-## 2. Nonlinear Optical Probing of Ferroic-Octupolar Order Parameter in Collinear Altermagnet
+## 5. Nonlinear Optical Probing of Ferroic-Octupolar Order Parameter in Collinear Altermagnet
 
 - **提交日期**：2026-06-16
 - **作者**：P. A. Usachev, R. V. Pisarev, V. V. Pavlov
@@ -32,7 +65,7 @@ Altermagnetism as a new concept in condensed matter physics is currently being t
 
 ---
 
-## 3. Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
+## 6. Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
 
 - **提交日期**：2026-06-15
 - **作者**：Yu-Xuan Li, Tao Zhou
@@ -43,7 +76,7 @@ Dynamical manipulation of Majorana zero modes and their unambiguous distinction 
 
 ---
 
-## 4. Evaluating the Structural Basis for Polar Altermagnet Candidate Ca${}\_{3}$(Ru,Ti)${}\_{2}$O${}\_{7}$
+## 7. Evaluating the Structural Basis for Polar Altermagnet Candidate Ca${}\_{3}$(Ru,Ti)${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-06-15
 - **作者**：Akash Saha, Yihuang Xiong, Vladimir A. Stoica, Subin Mali, Aaron Pearre, Saugata Sarker, Huaiyu Wang, Yufei Zhao, Evguenia Karapetrova, Yu Wang, Jadupati Nag, Zachary W. Hazenstab, Seng Huat Lee, Long-Qing Chen, Geoffroy Hautier, Binghai Yan, Zhiqiang Mao, Venkatraman Gopalan
@@ -54,7 +87,7 @@ The interplay between polar and altermagnetic orders remains largely unexplored 
 
 ---
 
-## 5. Altermagnetism and bond-nematicity in the spin-$1/2$ square lattice $J\_1-J\_2-δ$ model
+## 8. Altermagnetism and bond-nematicity in the spin-$1/2$ square lattice $J\_1-J\_2-δ$ model
 
 - **提交日期**：2026-06-12
 - **作者**：Tanja Đurić, Shenlong Yu, Pinaki Sengupta
@@ -65,7 +98,7 @@ We study appearance of bond-nematicity in insulating altermagnetic materials ind
 
 ---
 
-## 6. Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb
+## 9. Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb
 
 - **提交日期**：2026-06-11
 - **作者**：Yan Zhang, Yixuan Luo, Yue Yang, Zilong Li, Weilong Qiu, Lunhui Hu, Yuanfeng Xu, Yanfeng Guo, Chao Cao, Xin Lu
@@ -76,7 +109,7 @@ Altermagnetic materials have recently emerged as promising candidates for next-g
 
 ---
 
-## 7. Chiral Magnons and Cycloidal Phonons in Altermagnetic CuF${}\_{2}$ Monolayer
+## 10. Chiral Magnons and Cycloidal Phonons in Altermagnetic CuF${}\_{2}$ Monolayer
 
 - **提交日期**：2026-06-10
 - **作者**：Andrea M. León, Matías F. Torreblanca, Carmine Autieri, Jhon W. González
@@ -87,7 +120,7 @@ Altermagnetism establishes momentum-dependent spin splitting through non-symmorp
 
 ---
 
-## 8. Propagation and localization of spin excitations at altermagnetic domain walls
+## 11. Propagation and localization of spin excitations at altermagnetic domain walls
 
 - **提交日期**：2026-06-09
 - **作者**：Oksana Peschanska, Jeroen van den Brink, Volodymyr P. Kravchuk
@@ -98,7 +131,7 @@ Altermagnets (A$\ell$Ms) are spin-compensated materials in which opposite-spin s
 
 ---
 
-## 9. Equilibrium spin currents in altermagnet junctions: Josephson-like and anomalous transport
+## 12. Equilibrium spin currents in altermagnet junctions: Josephson-like and anomalous transport
 
 - **提交日期**：2026-06-06
 - **作者**：Abhiram Soori
@@ -109,7 +142,7 @@ Altermagnets (AMs) offer a compelling platform for exploring novel spin-dependen
 
 ---
 
-## 10. Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation
+## 13. Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation
 
 - **提交日期**：2026-06-04
 - **作者**：Rintaro Eto, Johannes Knolle
@@ -120,7 +153,7 @@ Odd-wave magnets are the counterparts to even-wave altermagnets realizing odd-pa
 
 ---
 
-## 11. Magnetic field effects on spin-split band and magnon transport in altermagnets and emergent compensated ferrimagnets
+## 14. Magnetic field effects on spin-split band and magnon transport in altermagnets and emergent compensated ferrimagnets
 
 - **提交日期**：2026-06-02
 - **作者**：Kazushi Aoyama, Hikaru Kawamura
@@ -131,7 +164,7 @@ In altermagnets and fully compensated ferrimagnets, not only the electron band b
 
 ---
 
-## 12. Enhanced qubit performance by integrating altermagnets into superconducting qubit designs
+## 15. Enhanced qubit performance by integrating altermagnets into superconducting qubit designs
 
 - **提交日期**：2026-06-01
 - **作者**：Johanne Bratland Tjernshaugen, Morten Amundsen, Jacob Linder
@@ -142,7 +175,7 @@ Identifying a materials platform for creating qubits that are both tunable and r
 
 ---
 
-## 13. Suppression of p-Wave Altermagnetism by Localized 4f Electrons in CeNiAsO
+## 16. Suppression of p-Wave Altermagnetism by Localized 4f Electrons in CeNiAsO
 
 - **提交日期**：2026-06-01
 - **作者**：Jiuxiang Zhang, Yueyang Sun, Honglin Zhou, Jumin Shi, Di Wu, Hongze Gu, Wenjin Mao, Hengrui Dong, Yu Xu, Yinghao Li, Ziling Cao, Taimin Miao, Bo Liang, Neng Cai, Wenpei Zhu, Mingkai Xu, Jiaqi Chen, Chunhong Deng, Bo Liu, Xun Ma, Zhengtai Liu, Mao Ye, Shenjin Zhang, Zhimin Wang, Fengfeng Zhang, Feng Yang, Qinjun Peng, Zuyan Xu, Guodong Liu, Xintong Li, Hanqing Mao, Shiliang Li, Hongming Weng, Lin Zhao, X. J. Zhou
@@ -153,7 +186,7 @@ Altermagnetism, characterized by momentum-dependent spin splitting and zero net 
 
 ---
 
-## 14. Slave-rotor theory of correlated altermagnets on the Lieb lattice
+## 17. Slave-rotor theory of correlated altermagnets on the Lieb lattice
 
 - **提交日期**：2026-05-28
 - **作者**：Vanuildo S. de Carvalho, Hermann Freire, Rodrigo G. Pereira
@@ -164,7 +197,7 @@ We investigate the metal-insulator transition driven by the onsite repulsive int
 
 ---
 
-## 15. Odd spin symmetry and anisotropy switching in p-wave magnet CeNiAsO
+## 18. Odd spin symmetry and anisotropy switching in p-wave magnet CeNiAsO
 
 - **提交日期**：2026-05-27
 - **作者**：Fayuan Zhang, Huaxun Li, Xingkai Cheng, Yibo Fan, Yifan Yin, Yifan Gao, Zhanfeng Liu, Shengtao Cui, Zhouyi Yin, Yue Zhao, Junhao Lin, Zhengtai Liu, Mao Ye, Yaobo Huang, Shan Qiao, Wu Xie, Ping Miao, Hao Wu, Junwei Liu, Guanghan Cao, Chaoyu Chen
@@ -175,7 +208,7 @@ Odd-parity magnets, complementary to altermagnets, exhibit unique properties suc
 
 ---
 
-## 16. Disorder-Induced Phase Transitions in Altermagnetic Josephson Junctions
+## 19. Disorder-Induced Phase Transitions in Altermagnetic Josephson Junctions
 
 - **提交日期**：2026-05-22
 - **作者**：Chang-An Li
@@ -183,39 +216,6 @@ Odd-parity magnets, complementary to altermagnets, exhibit unique properties suc
 
 ### 摘要
 Altermagnetic Josephson junctions (AMJJs) can host unconventional $π$ phase and $\varphi$ phase despite vanishing net magnetizations. Whether these phases are stable against disorder existing in real materials remains an open question. Here, we investigate impact of disorder on exotic phases in two-dimensional d-wave AMJJs. We show that disorder is able to induce phase transitions between the exotic $π$ and conventional 0 phases, accompanied by a strong suppression of critical current. This behavior is attributed to modifications of the tunneling Cooper-pair phase shift and superconducting decoherence. Remarkably, the anomalous $\varphi$ phase is highly fragile in presence of disorder and can be driven to either a $π$ phase or 0 phase in a nonreciprocal manner. Across such transitions, the first harmonic of current-phase relation changes sign, while the higher-order harmonics are rapidly suppressed. Our findings reveal the crucial role of disorder in tailoring distinct phases of AMJJs and shed new light on their potential functionalities.
-
----
-
-## 17. Observation of Altermagnetic Order Switching in Bulk MnTe by Polarized Neutron Diffraction
-
-- **提交日期**：2026-05-20
-- **作者**：Zheyuan Liu, Shinichiro Asai, Shingo Takahashi, Hiraku Saito, Taro Nakajima, Takatsugu Masuda
-- **arXiv链接**：[http://arxiv.org/abs/2605.21616v1](http://arxiv.org/abs/2605.21616v1)
-
-### 摘要
-Altermagnetic order, characterized by the Néel vector, breaks time-reversal symmetry (TRS) even in the nonrelativistic limit. Although spin-polarized and anomalous transport phenomena emerge with this order, they are mutually compensated by TRS-connected antiphase domains with opposite Néel vectors. Here we employ polarized neutron diffraction to directly probe the altermagnetic order in MnTe. Pronounced nuclear-magnetic interference terms were observed, providing direct evidence of a net Néel vector in the bulk crystal. Moreover, a weak ferromagnetic moment (WFM), originating from relativistic spin-orbit coupling, was found to be coupled with the altermagnetic order. Both the altermagnetic order and the WFM can be switched by milli-Tesla-scale magnetic field cooling.
-
----
-
-## 18. Unconventional Magnetism: Symmetry Classification, Hybrid-parity and Unconstrained-parity Classes
-
-- **提交日期**：2026-05-20
-- **作者**：Xun-Jiang Luo, Dan Li, Rui-Chun Xiao, Ding-Fu Shao, Lei Li, Mingliang Tian, Yugui Yao
-- **arXiv链接**：[http://arxiv.org/abs/2605.21336v1](http://arxiv.org/abs/2605.21336v1)
-
-### 摘要
-Unconventional magnetism has emerged as a transformative frontier in condensed matter physics. Such phases are characterized by substantial non-relativistic spin splitting (NSS) in symmetry-compensated magnets. They have been classified by the parity of their spin textures under momentum inversion, leading to the paradigms of altermagnets (even-parity) and odd-parity magnets. However, the full symmetry landscape remains largely unexplored. In this Letter, we present a systematic classification framework for unconventional magnetism based on the representation theory of the spin textures and the associated parity properties. Within this framework, we predict two previously unidentified classes beyond the established pure-parity categories: hybrid-parity magnets (HPMs) and unconstrained-parity magnets (UPMs), where the spin textures exhibit contrasting parities among their Cartesian components and the parity of the spin textures is ill-defined, respectively. We derive universal symmetry criteria that categorize HPMs into three distinct types. Importantly, by combining the spin splitting characteristics of altermagnets and odd-parity magnets, HPMs can enable the coexistence of the spin current and Edelstein effects. Taking FePO4 as an example, we perform first-principles calculations to demonstrate this coexistence. Finally, we discuss the potential applications of HPMs in spintronic devices. Our work provides a comprehensive symmetry classification of unconventional magnetism and establishes HPMs as a promising platform for multi-functional spintronics.
-
----
-
-## 19. Ligand-mediated Origin of Altermagnetic Spin-Splitting
-
-- **提交日期**：2026-05-20
-- **作者**：Luigi Camerano, Federico Bisti, Gianni Profeta
-- **arXiv链接**：[http://arxiv.org/abs/2605.21284v1](http://arxiv.org/abs/2605.21284v1)
-
-### 摘要
-Altermagnets host spin-split electronic bands despite zero net magnetization, opening new routes for spintronics beyond conventional ferromagnets. Going beyond symmetry-based classifications, which specify allowed terms but not their hierarchy, here we use first-principles calculations and Wannier Hamiltonian engineering to uncover the microscopic bonding contributions of altermagnetic spin splitting in the $g$-wave altermagnet Co${}\_{1/4}$NbSe${}\_2$. We show that the splitting is captured by a short-range tight-binding model, establishing its local origin. By selectively controlling hopping channels, we demonstrate that the dominant contribution arises not from direct magnetic-ion hopping, but from ligand-mediated hybridization that transfers anisotropy to itinerant states. This identifies ligand-assisted coupling as the key mechanism of altermagnetic spin splitting and provides a microscopic bridge between minimal models and symmetry guided first-principles material searches, enabling real-space design of altermagnetic functionality.
 
 ---
 
