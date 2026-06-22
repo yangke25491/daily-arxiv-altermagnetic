@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-22 至 2026-06-21**
-> 数据检索到 **19** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-23 至 2026-06-22**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -205,17 +205,6 @@ We investigate the metal-insulator transition driven by the onsite repulsive int
 
 ### 摘要
 Odd-parity magnets, complementary to altermagnets, exhibit unique properties such as high efficiency in charge-spin conversion and compatibility with conventional superconductivity, of critical importance in the pursuit of energy-efficient spintronics and topological superconductors for quantum computation. For even-parity d-wave and g-wave altermagnets, the magnetic structure, spin-split band structure and physical properties are currently under intensive study. On the contrary, while hundreds of odd-parity magnets and the promising properties have been predicted in theory, experimental studies are scarce. Specifically, the magnetic structure and transport properties of candidates NiI2 and Ga3Ru4Al12 have been reported, yet the characteristic band structure and particularly the odd-parity spin symmetry remain elusive. Here we demonstrate experimentally the deterministic p-wave spin symmetry and resistance anisotropy switching for the prototype odd-parity magnet, CeNiAsO. Angle-resolved photoemission spectroscopy (ARPES) reveals two cleaved terminations with distinct surface band structure. By compensating the polar surface, we achieve intrinsic bulk band structure, for which the spin splitting can be well described by the p-wave magnetic structure through first-principles calculation. The bulk spin polarization measured by spin-resolved ARPES exhibits symmetry with only one degenerate plane, fingerprint of p-wave magnetism. We further demonstrate giant resistance anisotropy and switching between high-resistance and low-resistance states through modest field-induced domain selection, highlighting its potential for antiferromagnetic spin memory devices. The structural similarity between CeNiAsO and 1111-type Fe-based superconductors stimulates further exploration on the interplay between p-wave magnetism, superconductivity and band topology.
-
----
-
-## 19. Disorder-Induced Phase Transitions in Altermagnetic Josephson Junctions
-
-- **提交日期**：2026-05-22
-- **作者**：Chang-An Li
-- **arXiv链接**：[http://arxiv.org/abs/2605.23607v1](http://arxiv.org/abs/2605.23607v1)
-
-### 摘要
-Altermagnetic Josephson junctions (AMJJs) can host unconventional $π$ phase and $\varphi$ phase despite vanishing net magnetizations. Whether these phases are stable against disorder existing in real materials remains an open question. Here, we investigate impact of disorder on exotic phases in two-dimensional d-wave AMJJs. We show that disorder is able to induce phase transitions between the exotic $π$ and conventional 0 phases, accompanied by a strong suppression of critical current. This behavior is attributed to modifications of the tunneling Cooper-pair phase shift and superconducting decoherence. Remarkably, the anomalous $\varphi$ phase is highly fragile in presence of disorder and can be driven to either a $π$ phase or 0 phase in a nonreciprocal manner. Across such transitions, the first harmonic of current-phase relation changes sign, while the higher-order harmonics are rapidly suppressed. Our findings reveal the crucial role of disorder in tailoring distinct phases of AMJJs and shed new light on their potential functionalities.
 
 ---
 
