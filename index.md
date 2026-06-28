@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-05-28 至 2026-06-27**
-> 数据检索到 **19** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-05-29 至 2026-06-28**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -205,17 +205,6 @@ Identifying a materials platform for creating qubits that are both tunable and r
 
 ### 摘要
 Altermagnetism, characterized by momentum-dependent spin splitting and zero net magnetization, has so far been explored mainly in weakly or moderately correlated d-electron systems. How symmetry-allowed altermagnetic band splitting manifests in heavy-fermion materials, where magnetic exchange competes with Kondo correlations, remains unclear. Here we use high-resolution angle-resolved photoemission spectroscopy (ARPES) to investigate CeNiAsO, a Kondo-lattice system that was predicted to be a candidate for p-wave altermagnetism. Fermi surface mapping and polarization-dependent ARPES show that the experimentally observed itinerant bands are mainly derived from Ni 3d orbitals, while resonant photoemission reveals that the Ce 4f states remain predominantly localized with residual c-f hybridization. Ultra-low-temperature measurements reveal no resolvable near-Fermi-level p-wave-like exchange splitting on the Ni 3d-derived conduction bands across the successive antiferromagnetic transitions. These experimental observations cannot be captured by an itinerant-4f band-structure description, which predicts a sizable p-wave splitting in the itinerant bands. When the localized Ce 4f character is incorporated, our band structure calculations indicate that the itinerant Ce 4f band weight is shifted away from the Fermi level and the p-wave-like splitting on the Ni 3d-derived bands is reduced to the few-meV scale. These results establish CeNiAsO as a strongly correlated f-electron setting in which the magnetic symmetry allows p-wave-like band splitting, but localized 4f electrons strongly suppress its observable itinerant single-particle signature.
-
----
-
-## 19. Slave-rotor theory of correlated altermagnets on the Lieb lattice
-
-- **提交日期**：2026-05-28
-- **作者**：Vanuildo S. de Carvalho, Hermann Freire, Rodrigo G. Pereira
-- **arXiv链接**：[http://arxiv.org/abs/2605.30061v1](http://arxiv.org/abs/2605.30061v1)
-
-### 摘要
-We investigate the metal-insulator transition driven by the onsite repulsive interaction $U$ in an altermagnetic Hubbard model defined on a Lieb lattice. Using the slave-rotor approach at half filling, we find that the system exhibits a cascade of interaction-driven phase transitions. As $U$ increases, the system evolves from a normal metal to an altermagnetic metal, then to an altermagnetic insulator, and eventually to an altermagnetic Mott insulator characterized by the complete suppression of the quasiparticle weight. These phases are supported by the calculation of the electronic spectral function, which features spin-split bands in both the metallic and insulating regimes. However, the spin splitting becomes substantially suppressed in the Mott insulating phase. Our results suggest that the observation of spin splitting in the spectral function of $d$-wave altermagnets with a Lieb-lattice-like structure may be limited to the weak-to-moderate correlation regime.
 
 ---
 
