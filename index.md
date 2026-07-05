@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-04 至 2026-07-04**
-> 数据检索到 **22** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-05 至 2026-07-05**
+> 数据检索到 **21** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -238,17 +238,6 @@ Altermagnets (A$\ell$Ms) are spin-compensated materials in which opposite-spin s
 
 ### 摘要
 Altermagnets (AMs) offer a compelling platform for exploring novel spin-dependent phenomena in materials with zero net macroscopic magnetization. In this work, we theoretically investigate the emergence of equilibrium spin currents (ESCs) in two-dimensional AM heterostructures using a tight-binding lattice model. We first study an AM-normal metal-AM (AM-NM-AM) junction and demonstrate that the $σ\_y$-polarized ESC exhibits a characteristic Josephson-like behavior, fundamentally governed by the relative angle ($θ$) between the Néel vectors of the two AMs pointing in $xz$-plane. Crucially, we show that replacing the central normal metal with a $p$-wave magnet (PM) induces an anomalous ESC. Analogous to the anomalous Josephson effect, the breaking of spatial inversion symmetry by the PM allows a finite, dissipationless spin current to flow even when the Néel vectors are perfectly aligned ($θ=0$). We establish that this anomalous transport is driven by an asymmetry in the quantum phases accumulated by right- and left-moving electrons undergoing spin-flip reflections. Finally, we show that the critical ESC exhibits pronounced fluctuations as a function of band filling, which we attribute to mesoscopic quantum size effects, including transverse subband quantization and longitudinal Fabry-Pérot resonances. Our findings highlight the potential of altermagnet junctions for designing dissipationless, phase-tunable spintronic devices.
-
----
-
-## 22. Odd-parity magnons in the Haldane-Hubbard model from topological exciton condensation
-
-- **提交日期**：2026-06-04
-- **作者**：Rintaro Eto, Johannes Knolle
-- **arXiv链接**：[http://arxiv.org/abs/2606.05837v1](http://arxiv.org/abs/2606.05837v1)
-
-### 摘要
-Odd-wave magnets are the counterparts to even-wave altermagnets realizing odd-parity spin splitting. Normally discussed for noncollinear systems, they have recently been shown to appear in collinear magnetic states in the presence of loop currents. Here we study collective excitations of the paramagnetic and magnetic phase of the seminal Haldane-Hubbard model. We identify the existence topological excitons in the paramagnetic phase, and their condensation as the driving mechanism into the collinear Néel state. The latter realizes an odd-wave magnet with odd-parity magnons displaying a characteristic $f$-wave splitting. We further uncover that an electron bandgap closing ensures magnon bandgap closing causing a change in odd-parity magnon topology, as well as a drastically enlarged spin splitting. Our results establish the presence of topological excitons and odd-parity magnons in the Haldane-Hubbard, with potential realizations in Floquet-driven materials and cold atomic gases.
 
 ---
 
