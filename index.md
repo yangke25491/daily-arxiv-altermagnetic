@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-10 至 2026-07-10**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-11 至 2026-07-11**
+> 数据检索到 **22** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -249,17 +249,6 @@ We study appearance of bond-nematicity in insulating altermagnetic materials ind
 
 ### 摘要
 Altermagnetic materials have recently emerged as promising candidates for next-generation spintronic applications, characterized by the k-dependent spin-splitted band structure and a simultaneous zero-net-magnetization. Among them, altermagnetic candidate CrSb has attracted considerable attention, owing to its g-wave spin splitting and high Néel temperature. In this article, we employed mechanical point-contact spectroscopy (MPCS) with superconducting Nb tips to probe the Andreev reflection on CrSb single crystals along three principal crystallographic orientations. The extracted momentum-dependent spin polarizations are approximately 73.4% for the (0001) plane, 67.9% for the (-1-120) plane, and 61.9% for the (10-10) plane, respectively, distinct from conventional antiferromagnets. Furthermore, conductance spectra from spatial line-scans on the sample surface support the existence of altermagnetic domains with a characteristic size of 250-500 nm separated by domain-walls with width about 250 nm. These results strongly support the momentum-dependent spin polarization in altermagnetic CrSb and establish Andreev reflection as a new paradigm to probe k-dependent spin textures.
-
----
-
-## 23. Chiral Magnons and Cycloidal Phonons in Altermagnetic CuF${}\_{2}$ Monolayer
-
-- **提交日期**：2026-06-10
-- **作者**：Andrea M. León, Matías F. Torreblanca, Carmine Autieri, Jhon W. González
-- **arXiv链接**：[http://arxiv.org/abs/2606.11584v1](http://arxiv.org/abs/2606.11584v1)
-
-### 摘要
-Altermagnetism establishes momentum-dependent spin splitting through non-symmorphic crystal symmetries, yet whether these same symmetries simultaneously govern spin and lattice collective excitations remains open. Here we show, using first-principles calculations and linear spin-wave theory, that monolayer CuF${}\_2$ hosts both chirality-split magnons and cycloidal phonons controlled by the same $P2\_1/c$ symmetry operations. The altermagnetic order drives strongly anisotropic magnon chirality via symmetric anisotropic exchange, with Dzyaloshinskii--Moriya interactions acting as a weak secondary modulation. Crucially, the phonon and magnon chiral responses are directionally complementary: cycloidal phonon angular momentum emerges precisely where magnon chirality is symmetry-suppressed, and vice versa. The magnon bands further carry quantized Chern numbers $C^M = \pm 2$, confirming non-trivial altermagnetic topology. These results establish monolayer CuF${}\_2$ as a platform where a single symmetry framework engineers magnonic, phononic, and topological responses, providing a direct connection between altermagnetism and spin-lattice chirality in two-dimensional materials.
 
 ---
 
