@@ -5,12 +5,34 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-13 至 2026-07-13**
-> 数据检索到 **22** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-14 至 2026-07-14**
+> 数据检索到 **24** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
+## 1. Stripe-Ordered Altermagnetism Emerging from Correlation-Driven Spin-Density-Wave Instability
+
+- **提交日期**：2026-07-13
+- **作者**：Zenghui Fan, Jingyao Meng, Tianxing Ma
+- **arXiv链接**：[http://arxiv.org/abs/2607.11532v1](http://arxiv.org/abs/2607.11532v1)
+
+### 摘要
+Altermagnetism is conventionally identified within the paradigm of collinear antiferromagnets. Its potential realization within other spin instabilities, such as a spin-density wave (SDW), remains a fundamentally compelling open question. Here, we combine Hartree-Fock mean-field and unbiased determinant quantum Monte Carlo methods to investigate a minimal Hubbard model relevant to iron pnictides. We reveal a novel $d\_{xy}$-wave stripe-ordered altermagnetic (SOAM) insulating phase driven fundamentally by the correlation-induced $(π,0)$ SDW instability. Within this phase, an introduced uniaxial staggered electric potential alters the underlying symmetry: it breaks the original combined time-reversal and spatial translation symmetry ($T\_{d}\mathcal{T}$) and retains a combined time-reversal and mirror invariance ($M\mathcal{T}$), thereby unlocking the pronounced nonrelativistic spin splitting. Crucially, the exact finite-size scaling from our determinant quantum Monte Carlo simulations confirms that this correlation-driven SOAM phase stably survives at accessible finite temperatures. Our study pushes the frontier of altermagnetism beyond the conventional antiferromagnetic paradigm into the realm of SDW instability, advancing the fundamental understanding of altermagnetism in strongly correlated electron systems.
+
+---
+
+## 2. Catalog of Altermagnetism in Magnetic Wallpaper/Space Groups and Nonsymmorphic Altermagnets
+
+- **提交日期**：2026-07-12
+- **作者**：Congcong Le, Fan Cui, Iao-Fai Io, Moritz Hirschmann, Xianxin Wu, Ching-Kai Chiu
+- **arXiv链接**：[http://arxiv.org/abs/2607.10857v1](http://arxiv.org/abs/2607.10857v1)
+
+### 摘要
+Conventional altermagnetism, characterized by compensated collinear spin alignment and spin splitting, exhibits identical spin states at opposite momenta. In this work, we employ a non-spatial global symmetry $S$, the spinless time-reversal symmetry, which effectively replaces inversion symmetry in preserving the spin-state equivalence; hence, we systematically extend the classification of altermagnetism to all possible non-centrosymmetric crystals. By analyzing the necessary symmetry conditions, we provide a complete catalog of altermagnetic orders for all 2D magnetic wallpaper groups and all 3D magnetic space groups, identifying 17 altermagnetic wallpaper groups (12 centrosymmetric and 5 non-centrosymmetric) and 422 altermagnetic space groups (160 centrosymmetric and 262 non-centrosymmetric). This catalog assigns each altermagnetic wallpaper and space group to one of the six altermagnetic wave types established in the literature and presents its distinct spin distribution in the Brillouin zone (BZ); notably, the low-energy wave-type description does not necessarily extend throughout the full BZ, since the spin-degenerate nodal lines and planes can be unpinned from the high-symmetry planes. Beyond the catalog, nonsymmorphic symmetries further bring new patterns of the altermagnetic BZs through the emergence of hourglass dispersions, which arise from the compatibility relations between two symmetry-protected degenerate manifolds: same-spin and opposite-spin degeneracies. In both the non-centrosymmetric altermagnetism and the emergence of the hourglass dispersion, the spinless time-reversal symmetry plays the key role. Our work extends the symmetry catalog of altermagnetism and reveals that nonsymmorphic symmetries are essential for realizing altermagnetic band structures beyond the six established wave types, such as an $i$-wave-like spin winding in a tetragonal BZ.
+
+---
+
+## 3. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
 
 - **提交日期**：2026-07-10
 - **作者**：Younes Ghorbani, Samuel Poage, Xuehsi Gao, Luka Mitrovic, Neha Wadehra, Benjamin Gregory, Suchismita Sarker, Betul Pamuk, Andrej Singer, Darrell G. Schlom, Chun Ning Lau, Kaveh Ahadi
@@ -21,7 +43,7 @@ The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet 
 
 ---
 
-## 2. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
+## 4. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
 
 - **提交日期**：2026-07-09
 - **作者**：Tobias Weber, Niclas Heinsdorf, Shane Smolenski, Sawyer Beltz, Alexandre Ivanov, Andrea Piovano, Victor Mecoli, Sean Knapp, Ruiqi Tang, Amir Henderson, A. K. M. Ashiquzzaman Shawon, Taylor Pierce-James, Na Hyun Jo, Denis Karaiskaj
@@ -32,7 +54,7 @@ Altermagnetic order gives rise to momentum-dependent spin splitting of electroni
 
 ---
 
-## 3. Anisotropic vacancy-induced magnetization textures in altermagnets
+## 5. Anisotropic vacancy-induced magnetization textures in altermagnets
 
 - **提交日期**：2026-07-08
 - **作者**：Ruben Burkard, Mathias S. Scheurer, Urban F. P. Seifert
@@ -43,7 +65,7 @@ We study magnetic textures induced by vacancies in altermagnets using microscopi
 
 ---
 
-## 4. Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice
+## 6. Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice
 
 - **提交日期**：2026-07-07
 - **作者**：Abhigya Rangari, Manna Paul, Sayandip Ghosh
@@ -54,7 +76,7 @@ Altermagnets, characterized by spin-split electronic bands with compensated magn
 
 ---
 
-## 5. Full Gate-Voltage Control of a Parity-Protected Superconducting Qubit with an Altermagnetic Josephson Junction
+## 7. Full Gate-Voltage Control of a Parity-Protected Superconducting Qubit with an Altermagnetic Josephson Junction
 
 - **提交日期**：2026-07-05
 - **作者**：Guo-Liang Guo
@@ -65,7 +87,7 @@ Parity-protected superconducting qubits offer intrinsically long coherence, but 
 
 ---
 
-## 6. Josephson effects in the spin-triplet superconductor/altermagnet/spin-triplet superconductor junctions: the detection of the intrinsic $\bf{d}$-vector
+## 8. Josephson effects in the spin-triplet superconductor/altermagnet/spin-triplet superconductor junctions: the detection of the intrinsic $\bf{d}$-vector
 
 - **提交日期**：2026-07-04
 - **作者**：Ya-Ting Han, Li-Juan Chen, Wen-Ting Liu, Qiang Cheng, Qing-Feng Sun
@@ -76,7 +98,7 @@ We study the Josephson effects in the spin-triplet superconductor/altermagnet/sp
 
 ---
 
-## 7. Unconventional Mixed-Parity Magnetism in Rare-Earth Tetraborides
+## 9. Unconventional Mixed-Parity Magnetism in Rare-Earth Tetraborides
 
 - **提交日期**：2026-07-02
 - **作者**：Dong-Choon Ryu, Jae-Ho Han, Bongjae Kim, Chang-Jong Kang
@@ -87,7 +109,7 @@ Altermagnetism has advanced the study of compensated magnets by revealing non-re
 
 ---
 
-## 8. Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe${}\_2$
+## 10. Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe${}\_2$
 
 - **提交日期**：2026-07-02
 - **作者**：Dirk Wulferding, Daehyeon An, Jiwon Choi, Dongmin Mun, Youngsu Choi, Sivasakthi Kuppusamy, Sritharan Krishnamoorthi, Raman Sankar, Myung Joon Han, Se Kwon Kim, Kwang-Yong Choi
@@ -98,7 +120,7 @@ Altermagnets constitute an emerging class of magnetic materials that combine com
 
 ---
 
-## 9. Giant perpendicular Edelstein polarization in 2D compensated magnets via bichromatic Floquet driving
+## 11. Giant perpendicular Edelstein polarization in 2D compensated magnets via bichromatic Floquet driving
 
 - **提交日期**：2026-06-30
 - **作者**：Mohsen Yarmohammadi, Daegeun Jo, Marco Berritta, Libor Šmejkal, James K. Freericks, Peter M. Oppeneer
@@ -109,7 +131,7 @@ While unconventional $p$-wave magnets can generate nonrelativistic Edelstein pol
 
 ---
 
-## 10. Unconventional superconductivity in $A$V${}\_2X\_2$O family of surface altermagnets
+## 12. Unconventional superconductivity in $A$V${}\_2X\_2$O family of surface altermagnets
 
 - **提交日期**：2026-06-29
 - **作者**：M. Franz
@@ -120,7 +142,7 @@ Motivated by the recent discovery of superconductivity at 16.3 K in layered oxyc
 
 ---
 
-## 11. Real-space identification of distinct magnetic configurations in a candidate d-wave altermagnet
+## 13. Real-space identification of distinct magnetic configurations in a candidate d-wave altermagnet
 
 - **提交日期**：2026-06-28
 - **作者**：Jin-Cheng Gu, Mingzhe Hu, Ziyin Song, Lihan Wang, Lihong Wang, Junming Zhang, Jiali Zhao, Hang Li, Shifeng Jin, Xin-Ding Zhang, Genfu Chen, Hongming Weng, Zhongxu Wei, Tian Qian
@@ -131,7 +153,7 @@ Altermagnetism is an emerging class of magnetic order characterized by momentum-
 
 ---
 
-## 12. Comment on "Altermagnetic and Dipolar Spitting of Magnons in FeF\_2" arXiv:2601.04303
+## 14. Comment on "Altermagnetic and Dipolar Spitting of Magnons in FeF\_2" arXiv:2601.04303
 
 - **提交日期**：2026-06-26
 - **作者**：S. W. Lovesey
@@ -142,7 +164,7 @@ Conclusions by Sears et al. (arXiv: 2601.04303) about dispersions of magnons in 
 
 ---
 
-## 13. Multiphoton Fingerprints of Altermagnetic Spin Splittings
+## 15. Multiphoton Fingerprints of Altermagnetic Spin Splittings
 
 - **提交日期**：2026-06-25
 - **作者**：Sayed Ali Akbar Ghorashi, Andrew M. Rappe
@@ -153,7 +175,7 @@ We systematically investigate multiphoton absorption as a polarization-resolved 
 
 ---
 
-## 14. Nonrelativistic Spin-Orbit-Coupling Effects in Odd-Parity Coplanar Magnets
+## 16. Nonrelativistic Spin-Orbit-Coupling Effects in Odd-Parity Coplanar Magnets
 
 - **提交日期**：2026-06-22
 - **作者**：Dongling Liu, Zheng-Yang Zhuang, Di Zhu, Zhigang Wu, Zhongbo Yan
@@ -164,7 +186,7 @@ Spin-orbit coupling (SOC) is a relativistic effect that underpins a broad spectr
 
 ---
 
-## 15. Floquet-induced anisotropic magnetoresistance and anomalous Hall effect in 2D $d$-wave altermagnets with Rashba spin-orbit coupling
+## 17. Floquet-induced anisotropic magnetoresistance and anomalous Hall effect in 2D $d$-wave altermagnets with Rashba spin-orbit coupling
 
 - **提交日期**：2026-06-19
 - **作者**：Mohsen Yarmohammadi, Pieter M. Gunnink, Jairo Sinova, James K. Freericks
@@ -175,7 +197,7 @@ Altermagnets (AMs) combine momentum-dependent spin splitting with zero net magne
 
 ---
 
-## 16. All-In-All-Out Pyrochlore Iridates as Noncollinear Spin-Orbit Coupled Counterparts of Altermagnets
+## 18. All-In-All-Out Pyrochlore Iridates as Noncollinear Spin-Orbit Coupled Counterparts of Altermagnets
 
 - **提交日期**：2026-06-18
 - **作者**：Yang Yang, Turan Birol, Rafael M. Fernandes, Natalia B. Perkins
@@ -186,7 +208,7 @@ Altermagnets are collinear magnetically ordered states that exhibit momentum-dep
 
 ---
 
-## 17. Spin transport in a normal meta-altermagnetic superconducting nanowire junction
+## 19. Spin transport in a normal meta-altermagnetic superconducting nanowire junction
 
 - **提交日期**：2026-06-18
 - **作者**：Xing-Jian Yi, Yi-Xin Dai, Yue Mao, Qing-Feng Sun
@@ -197,7 +219,7 @@ Spin triplet superconductors are considered a promising platform for dissipation
 
 ---
 
-## 18. Majorana modes in helical altermagnet without net magnetism and spin-orbit coupling
+## 20. Majorana modes in helical altermagnet without net magnetism and spin-orbit coupling
 
 - **提交日期**：2026-06-18
 - **作者**：Xing-Jian Yi, Yue Mao, Cheng-Ming Miao, Qing-Feng Sun
@@ -208,7 +230,7 @@ We propose a scheme to realize topological superconductor and Majorana bound sta
 
 ---
 
-## 19. $d$-wave altermagnetism revealed by resonant inelastic X-ray scattering
+## 21. $d$-wave altermagnetism revealed by resonant inelastic X-ray scattering
 
 - **提交日期**：2026-06-17
 - **作者**：Guangkai Zhang, Yuehong Li, Xubin Ye, Vincent C. Morano, Sze Tung Li, Jaewon Choi, Rebecca Scatena, Shuai Tang, Maocai Pi, Mengqi Ye, Mirian Garcia-Fernandez, Alessandro Bombardi, Xiaomei Qin, Zhao Pan, Daniel G. Mazzone, Qisi Wang, Yi Lu, Yao Shen, Youwen Long
@@ -219,7 +241,7 @@ Altermagnetism defines a third fundamental class of collinear magnetic order, fe
 
 ---
 
-## 20. Nonlinear Optical Probing of Ferroic-Octupolar Order Parameter in Collinear Altermagnet
+## 22. Nonlinear Optical Probing of Ferroic-Octupolar Order Parameter in Collinear Altermagnet
 
 - **提交日期**：2026-06-16
 - **作者**：P. A. Usachev, R. V. Pisarev, V. V. Pavlov
@@ -230,7 +252,7 @@ Altermagnetism as a new concept in condensed matter physics is currently being t
 
 ---
 
-## 21. Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
+## 23. Dynamical Steering and Unambiguous Signature of Majorana Corner Modes in Altermagnetic Josephson Junctions
 
 - **提交日期**：2026-06-15
 - **作者**：Yu-Xuan Li, Tao Zhou
@@ -241,7 +263,7 @@ Dynamical manipulation of Majorana zero modes and their unambiguous distinction 
 
 ---
 
-## 22. Evaluating the Structural Basis for Polar Altermagnet Candidate Ca${}\_{3}$(Ru,Ti)${}\_{2}$O${}\_{7}$
+## 24. Evaluating the Structural Basis for Polar Altermagnet Candidate Ca${}\_{3}$(Ru,Ti)${}\_{2}$O${}\_{7}$
 
 - **提交日期**：2026-06-15
 - **作者**：Akash Saha, Yihuang Xiong, Vladimir A. Stoica, Subin Mali, Aaron Pearre, Saugata Sarker, Huaiyu Wang, Yufei Zhao, Evguenia Karapetrova, Yu Wang, Jadupati Nag, Zachary W. Hazenstab, Seng Huat Lee, Long-Qing Chen, Geoffroy Hautier, Binghai Yan, Zhiqiang Mao, Venkatraman Gopalan
