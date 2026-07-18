@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-17 至 2026-07-17**
-> 数据检索到 **28** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-18 至 2026-07-18**
+> 数据检索到 **27** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -304,17 +304,6 @@ Spin triplet superconductors are considered a promising platform for dissipation
 
 ### 摘要
 We propose a scheme to realize topological superconductor and Majorana bound states (MBSs) in a one-dimensional metal nanowire on the surface of a helical altermagnet and in proximity to an s-wave superconductor, removing the requirement of conventional spin-orbit coupling and net magnetism. Through gauge transformation, we demonstrate that the helical frame naturally induces spin-momentum locking while the altermagnetism breaks time-reversal symmetry. The topological superconducting phase is well tuned by chemical potential, altermagnet strength, and helical frequency. Besides, our transport calculation results reveal quantized conductance signatures: a 2e2/h zero-bias peak at nanowire ends and a 4e2/h tunneling conductance at the domain wall of nanowires with opposite chirality, detected via metal lead and scanning tunneling microscopy, respectively. Our research offers new perspectives on finding MBSs.
-
----
-
-## 28. $d$-wave altermagnetism revealed by resonant inelastic X-ray scattering
-
-- **提交日期**：2026-06-17
-- **作者**：Guangkai Zhang, Yuehong Li, Xubin Ye, Vincent C. Morano, Sze Tung Li, Jaewon Choi, Rebecca Scatena, Shuai Tang, Maocai Pi, Mengqi Ye, Mirian Garcia-Fernandez, Alessandro Bombardi, Xiaomei Qin, Zhao Pan, Daniel G. Mazzone, Qisi Wang, Yi Lu, Yao Shen, Youwen Long
-- **arXiv链接**：[http://arxiv.org/abs/2606.18731v1](http://arxiv.org/abs/2606.18731v1)
-
-### 摘要
-Altermagnetism defines a third fundamental class of collinear magnetic order, featuring compensated magnetic moments with antiparallel spin alignment, yet lifted Kramers degeneracy without the need for relativistic spin-orbit coupling. Its ability to host spin-polarized electronic bands and unconventional chiral magnons makes it a promising platform for functional materials. However, experimental verification has proven challenging; while circular dichroism in resonant inelastic X-ray scattering (RIXS) has been suggested as a signature of chiral magnons, it remains controversial whether this effect is an intrinsic property of altermagnetism or an artifact of experimental geometry. In this work, we resolve this debate and provide unambiguous experimental evidence of $d$-wave altermagnetism in the strongly correlated Lieb-lattice magnet La${}\_2$O${}\_3$Mn${}\_2$Se${}\_2$. The RIXS spectra exhibit a $d$-wave-symmetry circular dichroism in the magnetic excitations that vanishes in the paramagnetic phase. Through RIXS-operator symmetry analysis and exact-diagonalization calculations, we prove that the observed dichroism is a direct consequence of altermagnetic symmetry constraints, independent of magnon branch splitting. Our results provide definitive evidence for the experimental realization of $d$-wave altermagnetism in La${}\_2$O${}\_3$Mn${}\_2$Se${}\_2$ and establish circularly polarized RIXS as a highly symmetry-sensitive spectroscopic framework for detecting magnetic phases that evade conventional probes.
 
 ---
 
