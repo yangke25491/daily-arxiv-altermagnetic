@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-18 至 2026-07-18**
-> 数据检索到 **27** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-19 至 2026-07-19**
+> 数据检索到 **24** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -271,39 +271,6 @@ Spin-orbit coupling (SOC) is a relativistic effect that underpins a broad spectr
 
 ### 摘要
 Altermagnets (AMs) combine momentum-dependent spin splitting with zero net magnetization, making them promising for spintronics. Periodic driving enables dynamic symmetry engineering beyond static, material-specific control. We show that Floquet engineering in 2D $d$-wave AMs with out-of-plane Néel order and Rashba spin-orbit coupling unlocks equilibrium-forbidden transport responses. Monochromatic driving produces purely out-of-plane magnetization, yielding longitudinal anisotropic magnetoresistance (AMR) and an anomalous Hall effect, whereas bichromatic driving generates both in-plane and out-of-plane magnetizations and additionally activates transverse AMR via the second harmonic of the secondary beam. Comparable static magnetic fields would require hundreds of tesla, avoided in Floquet driving. These effects persist across linear, circular, and mixed light polarizations and are tunable via light parameters. Our results establish multi-color Floquet engineering for controlling magnetization and symmetry-protected transport in AMs.
-
----
-
-## 25. All-In-All-Out Pyrochlore Iridates as Noncollinear Spin-Orbit Coupled Counterparts of Altermagnets
-
-- **提交日期**：2026-06-18
-- **作者**：Yang Yang, Turan Birol, Rafael M. Fernandes, Natalia B. Perkins
-- **arXiv链接**：[http://arxiv.org/abs/2606.20296v1](http://arxiv.org/abs/2606.20296v1)
-
-### 摘要
-Altermagnets are collinear magnetically ordered states that exhibit momentum-dependent spin splitting in the absence of net magnetization and spin-orbit coupling (SOC). Related spin-splitting patterns, however, can also emerge in noncollinear magnetic systems with large SOC. Here we show, via a microscopic model, that the all-in-all-out (AIAO) state in pyrochlore iridates constitutes a noncollinear counterpart of a $d$-wave altermagnet stabilized by strong SOC. Starting from a microscopic $j\_{\mathrm{eff}} = 1/2$ tight-binding model on the pyrochlore lattice, we demonstrate that electronic interactions favor the AIAO phase and analyze its symmetry properties. We show that the AIAO order parameter transforms as an $A\_{2g}^{-}$ octupolar magnetic moment, breaking time-reversal symmetry while preserving inversion and zero net magnetization. Using group-theory analysis and mean-field calculations, we demonstrate that this symmetry enforces both a spin-polarized momentum-dependent lifting of band degeneracies that is similar to that of a collinear $d$-wave cubic altermagnet, but also a band splitting at zero-momentum. We show that the latter feature is captured by a low-energy model similar to the   Luttinger-Kohn model for cubic semiconductors. Our results identify pyrochlore iridates as a platform for noncollinear counterparts of altermagnetism and provide a general symmetry framework for spin-split phenomena in spin-orbit coupled materials.
-
----
-
-## 26. Spin transport in a normal meta-altermagnetic superconducting nanowire junction
-
-- **提交日期**：2026-06-18
-- **作者**：Xing-Jian Yi, Yi-Xin Dai, Yue Mao, Qing-Feng Sun
-- **arXiv链接**：[http://arxiv.org/abs/2606.20279v1](http://arxiv.org/abs/2606.20279v1)
-
-### 摘要
-Spin triplet superconductors are considered a promising platform for dissipationless spin transport, where spin currents are carried by spin triplet Cooper pairs. In this paper, we propose that the spin triplet superconductivity and spin supercurrent can be engineered in an altermagnetic superconducting nanowire, where a one-dimensional nanowire is placed on the surface of an s-wave superconductor and in proximity to the altermagnet. Using the nonequilibrium Green's function method, we demonstrate a nonzero equal spin Andreev reflection coefficient at the normal metal-altermagnetic superconducting nanowire interface, thereby verifying the injection of spin triplet Cooper pairs. Furthermore, we systematically investigate the spin transport properties in this hybrid system under a spin bias. Our results demonstrate that these properties can be effectively tuned by the chemical potential and spin bias orientation. Our proposal provides a pathway toward realizing dissipationless spin transport.
-
----
-
-## 27. Majorana modes in helical altermagnet without net magnetism and spin-orbit coupling
-
-- **提交日期**：2026-06-18
-- **作者**：Xing-Jian Yi, Yue Mao, Cheng-Ming Miao, Qing-Feng Sun
-- **arXiv链接**：[http://arxiv.org/abs/2606.20259v1](http://arxiv.org/abs/2606.20259v1)
-
-### 摘要
-We propose a scheme to realize topological superconductor and Majorana bound states (MBSs) in a one-dimensional metal nanowire on the surface of a helical altermagnet and in proximity to an s-wave superconductor, removing the requirement of conventional spin-orbit coupling and net magnetism. Through gauge transformation, we demonstrate that the helical frame naturally induces spin-momentum locking while the altermagnetism breaks time-reversal symmetry. The topological superconducting phase is well tuned by chemical potential, altermagnet strength, and helical frequency. Besides, our transport calculation results reveal quantized conductance signatures: a 2e2/h zero-bias peak at nanowire ends and a 4e2/h tunneling conductance at the domain wall of nanowires with opposite chirality, detected via metal lead and scanning tunneling microscopy, respectively. Our research offers new perspectives on finding MBSs.
 
 ---
 
