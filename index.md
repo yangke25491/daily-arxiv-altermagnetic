@@ -5,12 +5,45 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-20 至 2026-07-20**
-> 数据检索到 **25** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-21 至 2026-07-21**
+> 数据检索到 **28** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Altermagnetism without a long-range order
+## 1. Stripe-Order Altermagnetism
+
+- **提交日期**：2026-07-20
+- **作者**：Zheng-Yang Zhuang, Zhongbo Yan
+- **arXiv链接**：[http://arxiv.org/abs/2607.17997v1](http://arxiv.org/abs/2607.17997v1)
+
+### 摘要
+Altermagnetism combines compensated magnetic order with nonrelativistic spin splitting, yet established mechanisms predominantly rely on spin-reversing rotations in Néel-order antiferromagnets. Here we establish stripe-order altermagnetism governed instead by a spin-reversing mirror, placing it outside the usual rotation-based $l$-wave classification. Using two-orbital models, we show that the interplay of stripe spin and orbital orders yields two phases: a stripe altermagnet with mirror-selected nematic spin splitting and a stripe anti-altermagnet with spin-degenerate bands. The latter can support ferroelectric-like electrical control of spin splitting in suitable buckled structures. Random-phase-approximation (RPA) calculations show that stripe-order altermagnetism is favored near half filling under strong hopping anisotropy. The spin-reversing mirror further enforces a purely transverse spin current for an electric field parallel or normal to the mirror plane, providing a direct transport diagnostic.
+
+---
+
+## 2. Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS${}\_\text{3}|$WS${}\_\text{2}$ van der Waals heterostructures
+
+- **提交日期**：2026-07-17
+- **作者**：Purba Dutta, Soumajyoti Bid, Nirmal Ganguli
+- **arXiv链接**：[http://arxiv.org/abs/2607.16454v1](http://arxiv.org/abs/2607.16454v1)
+
+### 摘要
+The deliberate breaking of inversion ($\mathcal{P}$) symmetry in antiferromagnets has recently emerged as an effective means to induce various features, such as the emergence of Berry curvature, spin-valley locking, magnetoelectric coupling, and the transition from conventional antiferromagnetism to altermagnetism. Conversely, in non-magnetic systems, inversion symmetry breaking in the presence of strong spin-orbit interaction (SOI) gives rise to momentum-dependent spin splitting via the Rashba effect, enabling tunable spin polarization through external electric fields. Motivated by recent advances in two-dimensional materials, we perform first-principles calculations based on density functional theory to investigate the van der Waals (vdW) heterostructure formed by a $\mathcal{P}$-symmetric MnPS${}\_3$ monolayer and a WS${}\_2$ monolayer. We demonstrate that the interface hosts a rich interplay of emergent phenomena, including an altermagnetic phase, Rashba spin splitting, spin-valley locking, and valley polarization. Our results demonstrate that the heterostructure exhibits semiconducting behavior with a direct band gap of approximately 1.65~eV and a type-I band alignment. Remarkably, the electronic structure and band alignment can be effectively tuned between type-I and type-II regimes via an external electric field and in-plane biaxial strain. Furthermore, field-induced modulation enables strong control over the altermagnetic phase and the valley splitting. These findings establish the proposed vdW heterostructure as a highly tunable platform with significant potential for spintronic and valleytronic applications.
+
+---
+
+## 3. $J\_{1} - J\_{2} - δ$ model on a square lattice: From Altermagnet to Columnar antiferromagnet via quantum disordered phase
+
+- **提交日期**：2026-07-17
+- **作者**：Subharthi Paul, Darshan G. Joshi
+- **arXiv链接**：[http://arxiv.org/abs/2607.16415v1](http://arxiv.org/abs/2607.16415v1)
+
+### 摘要
+Altermagnetism in the case of local-moment magnets is characterized by zero net magnetization and splitting of opposite chirality magnon bands in the absence of any spin-anisotropic interactions or external field. In this work we investigate the robustness of altermagnets against quantum fluctuations arising from magnetic frustration. We consider a Heisenberg model on a square lattice with two different types of second-neighbor interactions, as in a checkboard pattern, in addition to the nearest-neighbor interaction. This model continuously interpolates between the $J\_{1}-J\_{2}$ Heisenberg model on the square lattice and the Heisenberg model on the checkerboard lattice. For weaker second-neighbor interactions a Néel-type altermagnet phase is realized. On the other hand, for stronger second-neighbor interactions a columnar antiferromagnet emerges. Using linear spin-wave theory we calculate the magnon dispersion, order parameter, static and dynamical structure factors for the two magnetic phases. Further, we show that there is an intermediate quantum disordered phase separating the two magnetic phases, which is connected to the one realized in the $J\_{1}-J\_{2}$ model. The quantum disordered region is further stabilized as we tune towards the checkerboard lattice limit.
+
+---
+
+## 4. Altermagnetism without a long-range order
 
 - **提交日期**：2026-07-17
 - **作者**：V. E. Valiulin, A. V. Mikheyenkov, K. I. Kugel
@@ -21,7 +54,7 @@ The Kugel-Khomskii spin-pseudospin model, originally developed for transition-me
 
 ---
 
-## 2. First-Order Topological FFLO Transition and Superconducting Diode Sign Reversal in Altermagnetic Nanowires
+## 5. First-Order Topological FFLO Transition and Superconducting Diode Sign Reversal in Altermagnetic Nanowires
 
 - **提交日期**：2026-07-17
 - **作者**：Bo Fu, Kaizhi Bai, Chang-An Li, Shun-Qing Shen
@@ -32,7 +65,7 @@ Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state conventionally emerges via a secon
 
 ---
 
-## 3. Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques
+## 6. Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques
 
 - **提交日期**：2026-07-16
 - **作者**：Yasir Dar, Mathias S. Scheurer, Constantin Schrade
@@ -43,7 +76,7 @@ Motivated by the absence of sizable stray fields and the recently discovered hig
 
 ---
 
-## 4. Ridge-Spin-Layer Coupling and Emergent Ridgetronics in 2D Altermagnets
+## 7. Ridge-Spin-Layer Coupling and Emergent Ridgetronics in 2D Altermagnets
 
 - **提交日期**：2026-07-16
 - **作者**：Mu Tian, Run-Wu Zhang, Chaoxi Cui, Zhi-Ming Yu, Yugui Yao
@@ -54,7 +87,7 @@ Extending valleytronics from discrete points to continuous lines in momentum spa
 
 ---
 
-## 5. Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets
+## 8. Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets
 
 - **提交日期**：2026-07-15
 - **作者**：Dimos Chatzichrysafis, Alexander Mook
@@ -65,7 +98,7 @@ We theoretically demonstrate that axial phonons, lattice vibration quanta carryi
 
 ---
 
-## 6. Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems
+## 9. Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems
 
 - **提交日期**：2026-07-15
 - **作者**：Yuuga Takasu, Satoru Hayami
@@ -76,7 +109,7 @@ Magnetization control via magnetic octupole injection has recently been proposed
 
 ---
 
-## 7. Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS
+## 10. Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS
 
 - **提交日期**：2026-07-15
 - **作者**：Shovan Gayen, Sk. Soyeb Ali, S K Panda
@@ -87,7 +120,7 @@ We combine first-principles density-functional theory, Berry-curvature analysis,
 
 ---
 
-## 8. Phase-shifted multicomponent spin-charge nematicity in an altermagnet
+## 11. Phase-shifted multicomponent spin-charge nematicity in an altermagnet
 
 - **提交日期**：2026-07-14
 - **作者**：Christopher Candelora, Siyu Cheng, Muxian Xu, Keyu Zeng, Hengxin Tan, Younghun Hwang, Binghai Yan, Federico Mazzola, Ziqiang Wang, Ilija Zeljkovic
@@ -98,7 +131,7 @@ Altermagnets host spin-split Fermi surfaces without net magnetization. This intr
 
 ---
 
-## 9. Discovery of a symmetry-driven electronic cascade in a $d$-wave altermagnet
+## 12. Discovery of a symmetry-driven electronic cascade in a $d$-wave altermagnet
 
 - **提交日期**：2026-07-13
 - **作者**：Zhouyi Yin, Zheng Shi, Shuxuan Zhang, Changchao Liu, Xingkai Cheng, Fayuan Zhang, Han-Bin Deng, Jia-Xin Yin, Chaoyu Chen, Guang-Han Cao, Junwei Liu, Yue Zhao
@@ -109,7 +142,7 @@ Altermagnets host magnetic compensation together with non-relativistic spin-spli
 
 ---
 
-## 10. Stripe-Ordered Altermagnetism Emerging from Correlation-Driven Spin-Density-Wave Instability
+## 13. Stripe-Ordered Altermagnetism Emerging from Correlation-Driven Spin-Density-Wave Instability
 
 - **提交日期**：2026-07-13
 - **作者**：Zenghui Fan, Jingyao Meng, Tianxing Ma
@@ -120,7 +153,7 @@ Altermagnetism is conventionally identified within the paradigm of collinear ant
 
 ---
 
-## 11. Catalog of Altermagnetism in Magnetic Wallpaper/Space Groups and Nonsymmorphic Altermagnets
+## 14. Catalog of Altermagnetism in Magnetic Wallpaper/Space Groups and Nonsymmorphic Altermagnets
 
 - **提交日期**：2026-07-12
 - **作者**：Congcong Le, Fan Cui, Iao-Fai Io, Moritz Hirschmann, Xianxin Wu, Ching-Kai Chiu
@@ -131,7 +164,7 @@ Conventional altermagnetism, characterized by compensated collinear spin alignme
 
 ---
 
-## 12. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
+## 15. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
 
 - **提交日期**：2026-07-10
 - **作者**：Younes Ghorbani, Samuel Poage, Xuehsi Gao, Luka Mitrovic, Neha Wadehra, Benjamin Gregory, Suchismita Sarker, Betul Pamuk, Andrej Singer, Darrell G. Schlom, Chun Ning Lau, Kaveh Ahadi
@@ -142,7 +175,7 @@ The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet 
 
 ---
 
-## 13. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
+## 16. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
 
 - **提交日期**：2026-07-09
 - **作者**：Tobias Weber, Niclas Heinsdorf, Shane Smolenski, Sawyer Beltz, Alexandre Ivanov, Andrea Piovano, Victor Mecoli, Sean Knapp, Ruiqi Tang, Amir Henderson, A. K. M. Ashiquzzaman Shawon, Taylor Pierce-James, Na Hyun Jo, Denis Karaiskaj
@@ -153,7 +186,7 @@ Altermagnetic order gives rise to momentum-dependent spin splitting of electroni
 
 ---
 
-## 14. Anisotropic vacancy-induced magnetization textures in altermagnets
+## 17. Anisotropic vacancy-induced magnetization textures in altermagnets
 
 - **提交日期**：2026-07-08
 - **作者**：Ruben Burkard, Mathias S. Scheurer, Urban F. P. Seifert
@@ -164,7 +197,7 @@ We study magnetic textures induced by vacancies in altermagnets using microscopi
 
 ---
 
-## 15. Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice
+## 18. Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice
 
 - **提交日期**：2026-07-07
 - **作者**：Abhigya Rangari, Manna Paul, Sayandip Ghosh
@@ -175,7 +208,7 @@ Altermagnets, characterized by spin-split electronic bands with compensated magn
 
 ---
 
-## 16. Full Gate-Voltage Control of a Parity-Protected Superconducting Qubit with an Altermagnetic Josephson Junction
+## 19. Full Gate-Voltage Control of a Parity-Protected Superconducting Qubit with an Altermagnetic Josephson Junction
 
 - **提交日期**：2026-07-05
 - **作者**：Guo-Liang Guo
@@ -186,7 +219,7 @@ Parity-protected superconducting qubits offer intrinsically long coherence, but 
 
 ---
 
-## 17. Josephson effects in the spin-triplet superconductor/altermagnet/spin-triplet superconductor junctions: the detection of the intrinsic $\bf{d}$-vector
+## 20. Josephson effects in the spin-triplet superconductor/altermagnet/spin-triplet superconductor junctions: the detection of the intrinsic $\bf{d}$-vector
 
 - **提交日期**：2026-07-04
 - **作者**：Ya-Ting Han, Li-Juan Chen, Wen-Ting Liu, Qiang Cheng, Qing-Feng Sun
@@ -197,7 +230,7 @@ We study the Josephson effects in the spin-triplet superconductor/altermagnet/sp
 
 ---
 
-## 18. Unconventional Mixed-Parity Magnetism in Rare-Earth Tetraborides
+## 21. Unconventional Mixed-Parity Magnetism in Rare-Earth Tetraborides
 
 - **提交日期**：2026-07-02
 - **作者**：Dong-Choon Ryu, Jae-Ho Han, Bongjae Kim, Chang-Jong Kang
@@ -208,7 +241,7 @@ Altermagnetism has advanced the study of compensated magnets by revealing non-re
 
 ---
 
-## 19. Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe${}\_2$
+## 22. Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe${}\_2$
 
 - **提交日期**：2026-07-02
 - **作者**：Dirk Wulferding, Daehyeon An, Jiwon Choi, Dongmin Mun, Youngsu Choi, Sivasakthi Kuppusamy, Sritharan Krishnamoorthi, Raman Sankar, Myung Joon Han, Se Kwon Kim, Kwang-Yong Choi
@@ -219,7 +252,7 @@ Altermagnets constitute an emerging class of magnetic materials that combine com
 
 ---
 
-## 20. Giant perpendicular Edelstein polarization in 2D compensated magnets via bichromatic Floquet driving
+## 23. Giant perpendicular Edelstein polarization in 2D compensated magnets via bichromatic Floquet driving
 
 - **提交日期**：2026-06-30
 - **作者**：Mohsen Yarmohammadi, Daegeun Jo, Marco Berritta, Libor Šmejkal, James K. Freericks, Peter M. Oppeneer
@@ -230,7 +263,7 @@ While unconventional $p$-wave magnets can generate nonrelativistic Edelstein pol
 
 ---
 
-## 21. Unconventional superconductivity in $A$V${}\_2X\_2$O family of surface altermagnets
+## 24. Unconventional superconductivity in $A$V${}\_2X\_2$O family of surface altermagnets
 
 - **提交日期**：2026-06-29
 - **作者**：M. Franz
@@ -241,7 +274,7 @@ Motivated by the recent discovery of superconductivity at 16.3 K in layered oxyc
 
 ---
 
-## 22. Real-space identification of distinct magnetic configurations in a candidate d-wave altermagnet
+## 25. Real-space identification of distinct magnetic configurations in a candidate d-wave altermagnet
 
 - **提交日期**：2026-06-28
 - **作者**：Jin-Cheng Gu, Mingzhe Hu, Ziyin Song, Lihan Wang, Lihong Wang, Junming Zhang, Jiali Zhao, Hang Li, Shifeng Jin, Xin-Ding Zhang, Genfu Chen, Hongming Weng, Zhongxu Wei, Tian Qian
@@ -252,7 +285,7 @@ Altermagnetism is an emerging class of magnetic order characterized by momentum-
 
 ---
 
-## 23. Comment on "Altermagnetic and Dipolar Spitting of Magnons in FeF\_2" arXiv:2601.04303
+## 26. Comment on "Altermagnetic and Dipolar Spitting of Magnons in FeF\_2" arXiv:2601.04303
 
 - **提交日期**：2026-06-26
 - **作者**：S. W. Lovesey
@@ -263,7 +296,7 @@ Conclusions by Sears et al. (arXiv: 2601.04303) about dispersions of magnons in 
 
 ---
 
-## 24. Multiphoton Fingerprints of Altermagnetic Spin Splittings
+## 27. Multiphoton Fingerprints of Altermagnetic Spin Splittings
 
 - **提交日期**：2026-06-25
 - **作者**：Sayed Ali Akbar Ghorashi, Andrew M. Rappe
@@ -274,7 +307,7 @@ We systematically investigate multiphoton absorption as a polarization-resolved 
 
 ---
 
-## 25. Nonrelativistic Spin-Orbit-Coupling Effects in Odd-Parity Coplanar Magnets
+## 28. Nonrelativistic Spin-Orbit-Coupling Effects in Odd-Parity Coplanar Magnets
 
 - **提交日期**：2026-06-22
 - **作者**：Dongling Liu, Zheng-Yang Zhuang, Di Zhu, Zhigang Wu, Zhongbo Yan
