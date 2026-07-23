@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-22 至 2026-07-22**
-> 数据检索到 **31** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-23 至 2026-07-23**
+> 数据检索到 **30** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -337,17 +337,6 @@ Conclusions by Sears et al. (arXiv: 2601.04303) about dispersions of magnons in 
 
 ### 摘要
 We systematically investigate multiphoton absorption as a polarization-resolved nonlinear optical probe of planar altermagnets (ALMs). We show that the angular harmonic of the altermagnetic spin splitting fixes the lowest optical absorption at which a symmetry-selective response appears: two-photon absorption for $d$-wave order, four-photon absorption for $g$-wave order, and six-photon absorption for $i$-wave order. In each case, there exists a polarization channel locked to the symmetry harmonic of the altermagnetic texture in which the direct $n$-photon contribution to the transition matrix element is absent. This changes the frequency scaling of the absorption rate relative to other polarization channels and provides a direct optical fingerprint of the underlying altermagnetic harmonic. Our results establish a hierarchy of nonlinear spectroscopic signatures that distinguishes $d$-, $g$-, and $i$-wave altermagnetic spin splittings beyond linear response.
-
----
-
-## 31. Nonrelativistic Spin-Orbit-Coupling Effects in Odd-Parity Coplanar Magnets
-
-- **提交日期**：2026-06-22
-- **作者**：Dongling Liu, Zheng-Yang Zhuang, Di Zhu, Zhigang Wu, Zhongbo Yan
-- **arXiv链接**：[http://arxiv.org/abs/2606.23806v1](http://arxiv.org/abs/2606.23806v1)
-
-### 摘要
-Spin-orbit coupling (SOC) is a relativistic effect that underpins a broad spectrum of phenomena in condensed matter physics, from topological phases of matter to spintronic functionality. Its relativistic origin, however, restricts strong SOC to heavy-element materials and locks spin-momentum texture into a fixed, material-specific pattern. Here we show that odd-parity coplanar magnets offer a nonrelativistic pathway to highly tunable SOC effects. We construct a bilayer coplanar magnet via symmetry-guided stacking of two monolayer odd-parity altermagnets and demonstrate that Rashba, Weyl, and Dresselhaus spin textures can all be realized, and that the spin texture can be switched between these forms simply by tuning the layer Neel vector. Through the spin Edelstein effect and the realization of fully gapped chiral topological superconducting phases, we demonstrate that this nonrelativistic SOC achieves physical equivalence to its relativistic counterpart. Our findings identify a new class of odd-parity coplanar magnets as a versatile platform for engineering SOC effects.
 
 ---
 
