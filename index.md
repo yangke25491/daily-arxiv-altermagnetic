@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-06-25 至 2026-07-25**
-> 数据检索到 **31** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-06-26 至 2026-07-26**
+> 数据检索到 **30** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -337,17 +337,6 @@ Altermagnetism is an emerging class of magnetic order characterized by momentum-
 
 ### 摘要
 Conclusions by Sears et al. (arXiv: 2601.04303) about dispersions of magnons in rutile FeF\_2 are unsound because compulsory lattice vibrations are omitted in the analysis of their neutron scattering spectra. Hybridized magnon-phonon modes in magnetically ordered FeF\_2 were observed and successfully analysed half a century ago.
-
----
-
-## 31. Multiphoton Fingerprints of Altermagnetic Spin Splittings
-
-- **提交日期**：2026-06-25
-- **作者**：Sayed Ali Akbar Ghorashi, Andrew M. Rappe
-- **arXiv链接**：[http://arxiv.org/abs/2606.27548v1](http://arxiv.org/abs/2606.27548v1)
-
-### 摘要
-We systematically investigate multiphoton absorption as a polarization-resolved nonlinear optical probe of planar altermagnets (ALMs). We show that the angular harmonic of the altermagnetic spin splitting fixes the lowest optical absorption at which a symmetry-selective response appears: two-photon absorption for $d$-wave order, four-photon absorption for $g$-wave order, and six-photon absorption for $i$-wave order. In each case, there exists a polarization channel locked to the symmetry harmonic of the altermagnetic texture in which the direct $n$-photon contribution to the transition matrix element is absent. This changes the frequency scaling of the absorption rate relative to other polarization channels and provides a direct optical fingerprint of the underlying altermagnetic harmonic. Our results establish a hierarchy of nonlinear spectroscopic signatures that distinguishes $d$-, $g$-, and $i$-wave altermagnetic spin splittings beyond linear response.
 
 ---
 
