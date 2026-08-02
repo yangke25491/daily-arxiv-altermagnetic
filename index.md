@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-02 至 2026-08-01**
-> 数据检索到 **35** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-03 至 2026-08-02**
+> 数据检索到 **33** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -370,28 +370,6 @@ Parity-protected superconducting qubits offer intrinsically long coherence, but 
 
 ### 摘要
 We study the Josephson effects in the spin-triplet superconductor/altermagnet/spin-triplet superconductor junctions using the Green's function method. It is found that the current-phase difference relationships in the junctions strongly depend on the direction of the $\bf{d}$-vectors in the spin-triplet superconductors and the orientation angle of the altermagnet. For the given orientation angle, the $0$-$π$ transition can be obtained when the $\bf{d}$-vector is rotated. The variations of the critical current of the junctions with the direction of the $\bf{d}$-vector, the orientation angle and the strength of altermagnetism are systematically investigated. These Josephson effects can provide the distinguishable information about the direction of the $\bf{d}$-vector. Compared to the existing research, the proposed altermagnetic Josephson junctions can effectively avoid the negative influence of the magnetic field on the $\bf{d}$-vector and can serve as a feasible scheme for the detection of the intrinsic $\bf{d}$-vector. The obtained $0$-$π$ transition in the junctions can also have potential applications in the design of quantum devices.
-
----
-
-## 34. Unconventional Mixed-Parity Magnetism in Rare-Earth Tetraborides
-
-- **提交日期**：2026-07-02
-- **作者**：Dong-Choon Ryu, Jae-Ho Han, Bongjae Kim, Chang-Jong Kang
-- **arXiv链接**：[http://arxiv.org/abs/2607.02117v1](http://arxiv.org/abs/2607.02117v1)
-
-### 摘要
-Altermagnetism has advanced the study of compensated magnets by revealing non-relativistic spin splitting, traditionally classified into strictly even- or odd-parity spin textures. Here, we unveil a fundamentally different regime: component-resolved mixed-parity spin splitting in a fully three-dimensional compensated magnet. Using first-principles calculations, tight-binding and $\mathbf{k} \cdot \mathbf{p}$ models, along with spin-group symmetry analysis, we demonstrate that the non-coplanar ground state of $\mathrm{TbB}\_4$ enforces a unique momentum-space spin texture. The in-plane spin components exhibit odd-parity $p$- and $f$-wave-like textures, whereas the out-of-plane component retains an even-parity $d$-wave altermagnetic character. Crucially, the coexistence of the in-plane odd-parity textures is driven not by relativistic spin-orbit coupling, but by a staggered Berry phase arising from the inherent scalar spin chirality. This mixed-parity structure dictates distinct transport fingerprints, including bulk non-relativistic Edelstein and spin Hall responses, as well as a symmetry-allowed Berry curvature dipole. These results establish the rare-earth tetraborides as a robust platform for engineering complex spin-charge conversion phenomena.
-
----
-
-## 35. Plaid-Like Spin Splitting and Chirality of Magnon Bands in Antiferromagnetic MnTe${}\_2$
-
-- **提交日期**：2026-07-02
-- **作者**：Dirk Wulferding, Daehyeon An, Jiwon Choi, Dongmin Mun, Youngsu Choi, Sivasakthi Kuppusamy, Sritharan Krishnamoorthi, Raman Sankar, Myung Joon Han, Se Kwon Kim, Kwang-Yong Choi
-- **arXiv链接**：[http://arxiv.org/abs/2607.02114v1](http://arxiv.org/abs/2607.02114v1)
-
-### 摘要
-Altermagnets constitute an emerging class of magnetic materials that combine compensated antiferromagnetic order with spin-split excitations arising from crystalline symmetries. Despite strong theoretical interest, their experimental identification remains challenging. Here, we demonstrate that helicity- and angle-resolved Raman scattering measurements reveal reduced rotational symmetries of magnons and a pronounced imbalance between left- and right-circular polarization channels, indicating momentum-dependent magnon handedness. First-principles DFT+$U$ calculations combined with linear spin-wave theory uncover a characteristic plaid-like spin-splitting structure in momentum space. The resulting magnon spin textures are dictated by the unconventional sublattice symmetries of MnTe${}\_2$ and closely emulate those of altermagnetic electronic bands. Our work provides evidence of chiral spin-wave excitations unique to this non-coplanar antiferromagnet.
 
 ---
 
