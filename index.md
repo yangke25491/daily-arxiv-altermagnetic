@@ -5,12 +5,23 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-07 至 2026-08-06**
+> 检索时间范围：**2026-07-08 至 2026-08-07**
 > 数据检索到 **35** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Antisymmetric Dynamical Spin Correlations: Spin-Space-Group Constraints and Frequency-Moment Sum Rules
+## 1. Correlated topological-polarization surface states in the narrow-gap insulator FeSb2
+
+- **提交日期**：2026-08-06
+- **作者**：Takahiro Iwagaki, Hideki Matsuoka, Ginta Hoshino, Kanata Watanabe, Shungo Aoyagi, Shunsuke Kitou, Yuiga Nakamura, Motoaki Hirayama, Takashi Koretsune, Naoya Kanazawa
+- **arXiv链接**：[http://arxiv.org/abs/2608.05887v1](http://arxiv.org/abs/2608.05887v1)
+
+### 摘要
+Strong electron correlations and band topology each generate rich quantum phases, but conflicting elemental requirements have largely kept them apart. Topological polarization offers a route to unite them, producing polar surface states from bonding charge without spin-orbit coupling and thereby extending band topology to correlated 3d transition-metal compounds. Here we demonstrate that epitaxial thin films of the narrow-gap insulator FeSb2 host metallic polar surface states of topological-polarization origin, governed by the strong correlations of the bulk. Nonreciprocal surface transport emerges only below the onset temperature of a correlation-driven reconstruction of the bulk Fe 3d orbital occupation, providing direct evidence of bulk-edge correspondence in a correlated topological system. Moreover, electrostatic gating drives this correlated surface across a quantum phase transition into a ferromagnetic or possibly altermagnetic state. Our results establish topological polarization as a design principle for correlated topological phases in a broad range of materials.
+
+---
+
+## 2. Antisymmetric Dynamical Spin Correlations: Spin-Space-Group Constraints and Frequency-Moment Sum Rules
 
 - **提交日期**：2026-08-04
 - **作者**：Tsutomu Momoi
@@ -21,7 +32,7 @@ Polarized inelastic neutron scattering probes the handedness of magnetic excitat
 
 ---
 
-## 2. Emergence and Detection of Surface altermagnetism in KV${}\_2$Se${}\_2$O
+## 3. Emergence and Detection of Surface altermagnetism in KV${}\_2$Se${}\_2$O
 
 - **提交日期**：2026-08-04
 - **作者**：Rodrigo Jaeschke-Ubiergo, Xanthe H. Verbeek, Colin Lange, Sergio Rodriguez, Atasi Chakraborty, Alexander Mook, Jairo Sinov
@@ -32,7 +43,7 @@ We demonstrate the recent concept of emergent surface altermagnetism through its
 
 ---
 
-## 3. Magnetic circular dichroism of THz modes and selection rules of Raman-active optical phonons in the polar altermagnet candidate \ce\{Mn2Mo3O8\}
+## 4. Magnetic circular dichroism of THz modes and selection rules of Raman-active optical phonons in the polar altermagnet candidate \ce\{Mn2Mo3O8\}
 
 - **提交日期**：2026-08-02
 - **作者**：F. Schilberth, K. Vasin, M. Knauft, M. Kondákor, M. Vuckovic, N. Herrmann, K. Penc, M. Minola, B. Keimer, V. A. Martinez, K. Panda, A. A. Sirenko, L. Prodan, V. Tsurkan, A. A. Tsirlin, I. Kézsmárki, J. Deisenhofer
@@ -43,7 +54,7 @@ We investigated the magnetic and vibrational excitations in the collinear alterm
 
 ---
 
-## 4. Study of the Anomalous Hall effect by tuning the spin orientation in the Altermagnetic material CrSb
+## 5. Study of the Anomalous Hall effect by tuning the spin orientation in the Altermagnetic material CrSb
 
 - **提交日期**：2026-07-31
 - **作者**：Sreedevi Chintalapudi, Upasana Agrawal, Suvadip Das
@@ -54,7 +65,7 @@ Recent development in the field of altermagnetism, and increased demand for the 
 
 ---
 
-## 5. Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr${}\_2$S${}\_2$O
+## 6. Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr${}\_2$S${}\_2$O
 
 - **提交日期**：2026-07-30
 - **作者**：Chenchao Xu, Wansheng Bai, Guo-Xiang Zhi, Yi Liu, Xiaoqun Wang, Jianhui Dai, Chao Cao
@@ -65,7 +76,7 @@ A metal-insulator transition (MIT) driven by bond order (BO) coupled with a seco
 
 ---
 
-## 6. Thermal spin transport in easy-planar $d$-wave altermagnets controlled by magnetic field
+## 7. Thermal spin transport in easy-planar $d$-wave altermagnets controlled by magnetic field
 
 - **提交日期**：2026-07-30
 - **作者**：Yuliia I. Gusieva, Kostiantyn V. Yershov, Jeroen van den Brink, Volodymyr P. Kravchuk
@@ -76,7 +87,7 @@ Altermagnets constitute a novel class of collinear spin-compensated materials in
 
 ---
 
-## 7. Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr${}\_2$S${}\_2$O
+## 8. Orbital-Selective Mott Transition and Correlation-Amplified Charge Ordering in the Altermagnet CsCr${}\_2$S${}\_2$O
 
 - **提交日期**：2026-07-30
 - **作者**：Xiuhua Chen, Yilin Wang
@@ -87,7 +98,7 @@ Altermagnet CsCr${}\_2$S${}\_2$O undergoes a Verwey-type metal-to-insulator tran
 
 ---
 
-## 8. Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures
+## 9. Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures
 
 - **提交日期**：2026-07-29
 - **作者**：Ying Li, Augustin Davignon, Peng Rao, Runhan Li, Maia G. Vergniory, Roser Valentí, Johannes Knolle
@@ -98,7 +109,7 @@ Realizing altermagnetism in high-$T\_c$ cuprate-based systems would provide a di
 
 ---
 
-## 9. Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering
+## 10. Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering
 
 - **提交日期**：2026-07-29
 - **作者**：Xinyu Yang, Shuai Dong
@@ -109,7 +120,7 @@ Unconventional collinear magnets with almost zero magnetization but prominent no
 
 ---
 
-## 10. Stacking-dependent anisotropic altermagnetism in V${}\_{1/3}$NbS${}\_2$
+## 11. Stacking-dependent anisotropic altermagnetism in V${}\_{1/3}$NbS${}\_2$
 
 - **提交日期**：2026-07-28
 - **作者**：Chris J. Lygouras, Nathan Prouse, Jack H. Drouin, Youzhe Chen, Laura Garcia-Gassull, Zili Feng, Mingxuan Fu, Lü Fang, Alexander I. Kolesnikov, Christina Hoffman, Yiqing Hao, Huibo Cao, Maxime A. Siegler, Robert J. Birgeneau, Roser Valentí, Satoru Nakatsuji, Collin L. Broholm
@@ -120,7 +131,7 @@ We report profound impacts of the stacking sequence of triangular lattices of ma
 
 ---
 
-## 11. Chiral Magnons: Mechanisms and Research Progress
+## 12. Chiral Magnons: Mechanisms and Research Progress
 
 - **提交日期**：2026-07-27
 - **作者**：Wanxing Lin, Hanchen Deng, Bao-Tian Wang, Dao-Xin Yao
@@ -131,7 +142,7 @@ Chiral magnons are distinctive collective spin excitations in magnetic ordered s
 
 ---
 
-## 12. Pair-Density Wave from Doping an Altermagnetic Mott Insulator
+## 13. Pair-Density Wave from Doping an Altermagnetic Mott Insulator
 
 - **提交日期**：2026-07-26
 - **作者**：Shuai A. Chen, Qianqian Chen, Guangyu Yu, Zheng Zhu
@@ -142,7 +153,7 @@ Pair-density-wave (PDW) superconductivity is a state in which the superconductin
 
 ---
 
-## 13. Intrinsic single crystals of MnTe altermagnet
+## 14. Intrinsic single crystals of MnTe altermagnet
 
 - **提交日期**：2026-07-23
 - **作者**：Kim-Khuong Huynh, Michael Anthony Quintero, Martin Klanjšek, Tilen Knaflič, Yuta Ishii, Norimasa Sasabe, Nhu-Quynh T. Phan, Frej Søren Rattenborg, Yuichi Yamasaki, Denis Arčon, Bo Brummerstedt Iversen
@@ -153,7 +164,7 @@ We report the synthesis methodology, structure, and intrinsic properties of ultr
 
 ---
 
-## 14. Shiba duality and $η$-altermagnetism: Pairing and charge orders in bipartite attractive Hubbard models
+## 15. Shiba duality and $η$-altermagnetism: Pairing and charge orders in bipartite attractive Hubbard models
 
 - **提交日期**：2026-07-23
 - **作者**：Yu-Ping Lin
@@ -164,7 +175,7 @@ We show that Shiba duality maps the altermagnetic principle of momentum-dependen
 
 ---
 
-## 15. Pure Spin Bulk Photovoltaic Effect in an Altermagnetic Higher-Order Topological Insulator
+## 16. Pure Spin Bulk Photovoltaic Effect in an Altermagnetic Higher-Order Topological Insulator
 
 - **提交日期**：2026-07-21
 - **作者**：Sibgat Ulah, Ankan Bhattacharyya, Manisha Thakurathi
@@ -175,7 +186,7 @@ We investigate the bulk photovoltaic effect (BPVE) in a $PT$-symmetric two-dimen
 
 ---
 
-## 16. Coherent Magnons Driven by Photomodulated Anisotropy in Altermagnetic MnTe
+## 17. Coherent Magnons Driven by Photomodulated Anisotropy in Altermagnetic MnTe
 
 - **提交日期**：2026-07-20
 - **作者**：Dingbin Huang, Jonathon Kruppe, Resham Babu Regmi, Nirmal J. Ghimire, James Analytis, Joseph Orenstein
@@ -186,7 +197,7 @@ Manganese telluride ($\text{MnTe}$) has recently emerged as a prototypical $g$-w
 
 ---
 
-## 17. Exotic Electronic Order in a Parabolic Kagome Semimetal
+## 18. Exotic Electronic Order in a Parabolic Kagome Semimetal
 
 - **提交日期**：2026-07-20
 - **作者**：C. Alexander Baum, Jonas Issing, Sarbajit Mazumdar, Matteo Dürrnagel, Michael Klett, Ronny Thomale, Lennart Klebl
@@ -197,7 +208,7 @@ We study an interacting kagome-lattice realization of a quadratic band-touching 
 
 ---
 
-## 18. Stripe-Order Altermagnetism: Nematic Spin Splitting beyond the $l$-Wave Classification
+## 19. Stripe-Order Altermagnetism: Nematic Spin Splitting beyond the $l$-Wave Classification
 
 - **提交日期**：2026-07-20
 - **作者**：Zheng-Yang Zhuang, Zhongbo Yan
@@ -208,7 +219,7 @@ Altermagnetism combines compensated magnetic order with nonrelativistic spin spl
 
 ---
 
-## 19. Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS${}\_\text{3}|$WS${}\_\text{2}$ van der Waals heterostructures
+## 20. Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS${}\_\text{3}|$WS${}\_\text{2}$ van der Waals heterostructures
 
 - **提交日期**：2026-07-17
 - **作者**：Purba Dutta, Soumajyoti Bid, Nirmal Ganguli
@@ -219,7 +230,7 @@ The deliberate breaking of inversion ($\mathcal{P}$) symmetry in antiferromagnet
 
 ---
 
-## 20. $J\_{1} - J\_{2} - δ$ model on a square lattice: From Altermagnet to Columnar antiferromagnet via quantum disordered phase
+## 21. $J\_{1} - J\_{2} - δ$ model on a square lattice: From Altermagnet to Columnar antiferromagnet via quantum disordered phase
 
 - **提交日期**：2026-07-17
 - **作者**：Subharthi Paul, Darshan G. Joshi
@@ -230,7 +241,7 @@ Altermagnetism in the case of local-moment magnets is characterized by zero net 
 
 ---
 
-## 21. Altermagnetism without a long-range order
+## 22. Altermagnetism without a long-range order
 
 - **提交日期**：2026-07-17
 - **作者**：V. E. Valiulin, A. V. Mikheyenkov, K. I. Kugel
@@ -241,7 +252,7 @@ The Kugel-Khomskii spin-pseudospin model, originally developed for transition-me
 
 ---
 
-## 22. First-Order Topological FFLO Transition and Superconducting Diode Sign Reversal in Altermagnetic Nanowires
+## 23. First-Order Topological FFLO Transition and Superconducting Diode Sign Reversal in Altermagnetic Nanowires
 
 - **提交日期**：2026-07-17
 - **作者**：Bo Fu, Kaizhi Bai, Chang-An Li, Shun-Qing Shen
@@ -252,7 +263,7 @@ Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state conventionally emerges via a secon
 
 ---
 
-## 23. Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques
+## 24. Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques
 
 - **提交日期**：2026-07-16
 - **作者**：Yasir Dar, Mathias S. Scheurer, Constantin Schrade
@@ -263,7 +274,7 @@ Motivated by the absence of sizable stray fields and the recently discovered hig
 
 ---
 
-## 24. Ridge-Spin-Layer Coupling and Emergent Ridgetronics in 2D Altermagnets
+## 25. Ridge-Spin-Layer Coupling and Emergent Ridgetronics in 2D Altermagnets
 
 - **提交日期**：2026-07-16
 - **作者**：Mu Tian, Run-Wu Zhang, Chaoxi Cui, Zhi-Ming Yu, Yugui Yao
@@ -274,7 +285,7 @@ Extending valleytronics from discrete points to continuous lines in momentum spa
 
 ---
 
-## 25. Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets
+## 26. Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets
 
 - **提交日期**：2026-07-15
 - **作者**：Dimos Chatzichrysafis, Alexander Mook
@@ -285,7 +296,7 @@ We theoretically demonstrate that axial phonons, lattice vibration quanta carryi
 
 ---
 
-## 26. Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems
+## 27. Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems
 
 - **提交日期**：2026-07-15
 - **作者**：Yuuga Takasu, Satoru Hayami
@@ -296,7 +307,7 @@ Magnetization control via magnetic octupole injection has recently been proposed
 
 ---
 
-## 27. Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS
+## 28. Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS
 
 - **提交日期**：2026-07-15
 - **作者**：Shovan Gayen, Sk. Soyeb Ali, S K Panda
@@ -307,7 +318,7 @@ We combine first-principles density-functional theory, Berry-curvature analysis,
 
 ---
 
-## 28. Phase-shifted multicomponent spin-charge nematicity in an altermagnet
+## 29. Phase-shifted multicomponent spin-charge nematicity in an altermagnet
 
 - **提交日期**：2026-07-14
 - **作者**：Christopher Candelora, Siyu Cheng, Muxian Xu, Keyu Zeng, Hengxin Tan, Younghun Hwang, Binghai Yan, Federico Mazzola, Ziqiang Wang, Ilija Zeljkovic
@@ -318,7 +329,7 @@ Altermagnets host spin-split Fermi surfaces without net magnetization. This intr
 
 ---
 
-## 29. Discovery of a symmetry-driven electronic cascade in a $d$-wave altermagnet
+## 30. Discovery of a symmetry-driven electronic cascade in a $d$-wave altermagnet
 
 - **提交日期**：2026-07-13
 - **作者**：Zhouyi Yin, Zheng Shi, Shuxuan Zhang, Changchao Liu, Xingkai Cheng, Fayuan Zhang, Han-Bin Deng, Jia-Xin Yin, Chaoyu Chen, Guang-Han Cao, Junwei Liu, Yue Zhao
@@ -329,7 +340,7 @@ Altermagnets host magnetic compensation together with non-relativistic spin-spli
 
 ---
 
-## 30. Stripe-Ordered Altermagnetism Emerging from Correlation-Driven Spin-Density-Wave Instability
+## 31. Stripe-Ordered Altermagnetism Emerging from Correlation-Driven Spin-Density-Wave Instability
 
 - **提交日期**：2026-07-13
 - **作者**：Zenghui Fan, Jingyao Meng, Tianxing Ma
@@ -340,7 +351,7 @@ Altermagnetism is conventionally identified within the paradigm of collinear ant
 
 ---
 
-## 31. Catalog of Altermagnetism in Magnetic Wallpaper/Space Groups and Nonsymmorphic Altermagnets
+## 32. Catalog of Altermagnetism in Magnetic Wallpaper/Space Groups and Nonsymmorphic Altermagnets
 
 - **提交日期**：2026-07-12
 - **作者**：Congcong Le, Fan Cui, Iao-Fai Io, Moritz Hirschmann, Xianxin Wu, Ching-Kai Chiu
@@ -351,7 +362,7 @@ Conventional altermagnetism, characterized by compensated collinear spin alignme
 
 ---
 
-## 32. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
+## 33. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
 
 - **提交日期**：2026-07-10
 - **作者**：Younes Ghorbani, Samuel Poage, Xuehsi Gao, Luka Mitrovic, Neha Wadehra, Benjamin Gregory, Suchismita Sarker, Betul Pamuk, Andrej Singer, Darrell G. Schlom, Chun Ning Lau, Kaveh Ahadi
@@ -362,7 +373,7 @@ The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet 
 
 ---
 
-## 33. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
+## 34. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
 
 - **提交日期**：2026-07-09
 - **作者**：Tobias Weber, Niclas Heinsdorf, Shane Smolenski, Sawyer Beltz, Alexandre Ivanov, Andrea Piovano, Victor Mecoli, Sean Knapp, Ruiqi Tang, Amir Henderson, A. K. M. Ashiquzzaman Shawon, Taylor Pierce-James, Na Hyun Jo, Denis Karaiskaj
@@ -373,7 +384,7 @@ Altermagnetic order gives rise to momentum-dependent spin splitting of electroni
 
 ---
 
-## 34. Anisotropic vacancy-induced magnetization textures in altermagnets
+## 35. Anisotropic vacancy-induced magnetization textures in altermagnets
 
 - **提交日期**：2026-07-08
 - **作者**：Ruben Burkard, Mathias S. Scheurer, Urban F. P. Seifert
@@ -381,17 +392,6 @@ Altermagnetic order gives rise to momentum-dependent spin splitting of electroni
 
 ### 摘要
 We study magnetic textures induced by vacancies in altermagnets using microscopic simulations and low-energy field theory. We show that a vacancy generically produces a real-space anisotropic distortion of the magnetic order, whose structure encodes the symmetry of the underlying altermagnetic state. This impurity response offers a direct route to detecting altermagnetic order with locally resolved probes. We demonstrate this for both classical altermagnets, where vacancies generate anisotropic magnetization textures in a transverse magnetic field, and quantum models, where fluctuations induce longitudinal power-law decaying magnetic distortions even at zero field.
-
----
-
-## 35. Weak-coupling altermagnetism and chiral magnetic excitations in a checkerboard lattice
-
-- **提交日期**：2026-07-07
-- **作者**：Abhigya Rangari, Manna Paul, Sayandip Ghosh
-- **arXiv链接**：[http://arxiv.org/abs/2607.06106v1](http://arxiv.org/abs/2607.06106v1)
-
-### 摘要
-Altermagnets, characterized by spin-split electronic bands with compensated magnetic moments, have emerged as a new class of magnetic materials garnering attention in recent years. Here, using a minimal one-band Hubbard model, we show that the checkerboard lattice serves as a natural platform for altermagnetism for electrons. The instability towards altermagnetic order is denoted by diverging altermagnetic susceptibility at weak-coupling. Carrying out mean-field treatment of the Hubbard repulsion, we show phase transitions from the nonmagnetic to altermagnetic semimetal and then to altermagnetic insulating phase, allowing clear identification of spin-split states. We then examine magnetic excitations in the altermagnetic phases using a random-phase approximation treatment of the dynamical spin susceptibility. The altermagnetic order is found to be stable against spin-fluctuations with the excitation spectra showing well-defined magnon excitations, which decay into single-particle excitations with decreasing interaction strength. Remarkably, the magnetic excitations exhibit strong dependence on both chirality and direction, showing an alternating chirality splitting, similar to the alternating spin splitting of the electronic bands, which serves as a salient feature of altermagnetism.
 
 ---
 
