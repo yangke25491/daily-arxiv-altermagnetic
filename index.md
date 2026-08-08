@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-08 至 2026-08-07**
-> 数据检索到 **35** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-09 至 2026-08-08**
+> 数据检索到 **34** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -381,17 +381,6 @@ The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet 
 
 ### 摘要
 Altermagnetic order gives rise to momentum-dependent spin splitting of electronic and magnonic excitations even in the absence of a net magnetization. Here, we investigate the magnetic field dependence of the spin-wave spectrum of altermagnetic $α$-MnTe using inelastic neutron scattering and linear spin-wave theory. An in-plane magnetic field continuously reorients the Néel vector by overcoming the weak crystalline anisotropy, while remaining small compared with the dominant exchange scale. We find that this reorientation leaves the magnon energies and line widths essentially unchanged, but strongly modifies the measured spectral intensity through the transverse-momentum projection. Our results demonstrate a clear separation between the soft orientational degree of freedom of the antiferromagnetic order and the robust exchange-dominated chiral magnon spectrum. This combination establishes $α$-MnTe as a platform for reconfigurable magnon coupling, in which external fields tune how excitations interact with polarized probes without substantially altering their frequency or coherence.
-
----
-
-## 35. Anisotropic vacancy-induced magnetization textures in altermagnets
-
-- **提交日期**：2026-07-08
-- **作者**：Ruben Burkard, Mathias S. Scheurer, Urban F. P. Seifert
-- **arXiv链接**：[http://arxiv.org/abs/2607.07789v1](http://arxiv.org/abs/2607.07789v1)
-
-### 摘要
-We study magnetic textures induced by vacancies in altermagnets using microscopic simulations and low-energy field theory. We show that a vacancy generically produces a real-space anisotropic distortion of the magnetic order, whose structure encodes the symmetry of the underlying altermagnetic state. This impurity response offers a direct route to detecting altermagnetic order with locally resolved probes. We demonstrate this for both classical altermagnets, where vacancies generate anisotropic magnetization textures in a transverse magnetic field, and quantum models, where fluctuations induce longitudinal power-law decaying magnetic distortions even at zero field.
 
 ---
 
