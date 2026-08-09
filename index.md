@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-09 至 2026-08-08**
-> 数据检索到 **34** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-10 至 2026-08-09**
+> 数据检索到 **33** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -370,17 +370,6 @@ Conventional altermagnetism, characterized by compensated collinear spin alignme
 
 ### 摘要
 The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet candidate. The nature of superconductivity and its relation with neighboring orders, however, are not understood. To address this problem, we grew epitaxial RuO2 films on TiO2(100) and TiO2(110) single crystal substrates and studied the electronic transport and emergent superconductivity along various crystallographic directions. We show that the superconducting transition strongly depends on the growth orientation and the crystallographic direction of the transport in the RuO2 films. We also observe a strong violation of Pauli paramagnetic limit with in-plane applied magnetic field which we attribute to strong spin-orbit scattering. These results offer opportunities for epitaxially engineered superconductors.
-
----
-
-## 34. Magnetic Field Control of the Néel Vector and Magnon Visibility in Altermagnetic MnTe
-
-- **提交日期**：2026-07-09
-- **作者**：Tobias Weber, Niclas Heinsdorf, Shane Smolenski, Sawyer Beltz, Alexandre Ivanov, Andrea Piovano, Victor Mecoli, Sean Knapp, Ruiqi Tang, Amir Henderson, A. K. M. Ashiquzzaman Shawon, Taylor Pierce-James, Na Hyun Jo, Denis Karaiskaj
-- **arXiv链接**：[http://arxiv.org/abs/2607.08829v1](http://arxiv.org/abs/2607.08829v1)
-
-### 摘要
-Altermagnetic order gives rise to momentum-dependent spin splitting of electronic and magnonic excitations even in the absence of a net magnetization. Here, we investigate the magnetic field dependence of the spin-wave spectrum of altermagnetic $α$-MnTe using inelastic neutron scattering and linear spin-wave theory. An in-plane magnetic field continuously reorients the Néel vector by overcoming the weak crystalline anisotropy, while remaining small compared with the dominant exchange scale. We find that this reorientation leaves the magnon energies and line widths essentially unchanged, but strongly modifies the measured spectral intensity through the transverse-momentum projection. Our results demonstrate a clear separation between the soft orientational degree of freedom of the antiferromagnetic order and the robust exchange-dominated chiral magnon spectrum. This combination establishes $α$-MnTe as a platform for reconfigurable magnon coupling, in which external fields tune how excitations interact with polarized probes without substantially altering their frequency or coherence.
 
 ---
 
