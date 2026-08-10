@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-10 至 2026-08-09**
-> 数据检索到 **33** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-11 至 2026-08-10**
+> 数据检索到 **32** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -359,17 +359,6 @@ Altermagnetism is conventionally identified within the paradigm of collinear ant
 
 ### 摘要
 Conventional altermagnetism, characterized by compensated collinear spin alignment and spin splitting, exhibits identical spin states at opposite momenta. In this work, we employ a non-spatial global symmetry $S$, the spinless time-reversal symmetry, which effectively replaces inversion symmetry in preserving the spin-state equivalence; hence, we systematically extend the classification of altermagnetism to all possible non-centrosymmetric crystals. By analyzing the necessary symmetry conditions, we provide a complete catalog of altermagnetic orders for all 2D magnetic wallpaper groups and all 3D magnetic space groups, identifying 17 altermagnetic wallpaper groups (12 centrosymmetric and 5 non-centrosymmetric) and 422 altermagnetic space groups (160 centrosymmetric and 262 non-centrosymmetric). This catalog assigns each altermagnetic wallpaper and space group to one of the six altermagnetic wave types established in the literature and presents its distinct spin distribution in the Brillouin zone (BZ); notably, the low-energy wave-type description does not necessarily extend throughout the full BZ, since the spin-degenerate nodal lines and planes can be unpinned from the high-symmetry planes. Beyond the catalog, nonsymmorphic symmetries further bring new patterns of the altermagnetic BZs through the emergence of hourglass dispersions, which arise from the compatibility relations between two symmetry-protected degenerate manifolds: same-spin and opposite-spin degeneracies. In both the non-centrosymmetric altermagnetism and the emergence of the hourglass dispersion, the spinless time-reversal symmetry plays the key role. Our work extends the symmetry catalog of altermagnetism and reveals that nonsymmorphic symmetries are essential for realizing altermagnetic band structures beyond the six established wave types, such as an $i$-wave-like spin winding in a tetragonal BZ.
-
----
-
-## 33. Anisotropic Superconductivity with Enhanced Critical Field in Strained RuO2
-
-- **提交日期**：2026-07-10
-- **作者**：Younes Ghorbani, Samuel Poage, Xuehsi Gao, Luka Mitrovic, Neha Wadehra, Benjamin Gregory, Suchismita Sarker, Betul Pamuk, Andrej Singer, Darrell G. Schlom, Chun Ning Lau, Kaveh Ahadi
-- **arXiv链接**：[http://arxiv.org/abs/2607.09437v1](http://arxiv.org/abs/2607.09437v1)
-
-### 摘要
-The superconductivity in RuO2 emerges under strain. RuO2 is also an altermagnet candidate. The nature of superconductivity and its relation with neighboring orders, however, are not understood. To address this problem, we grew epitaxial RuO2 films on TiO2(100) and TiO2(110) single crystal substrates and studied the electronic transport and emergent superconductivity along various crystallographic directions. We show that the superconducting transition strongly depends on the growth orientation and the crystallographic direction of the transport in the RuO2 films. We also observe a strong violation of Pauli paramagnetic limit with in-plane applied magnetic field which we attribute to strong spin-orbit scattering. These results offer opportunities for epitaxially engineered superconductors.
 
 ---
 
