@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-14 至 2026-08-13**
-> 数据检索到 **35** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-15 至 2026-08-14**
+> 数据检索到 **34** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -381,17 +381,6 @@ Magnetization control via magnetic octupole injection has recently been proposed
 
 ### 摘要
 We combine first-principles density-functional theory, Berry-curvature analysis, semiclassical Boltzmann transport, and atomistic spin dynamics to establish hexagonal NiS as a compensated 3d altermagnetic semimetal in which topology, magnetism, and lattice dynamics are intrinsically intertwined. The rotational coset symmetry of the NiAs lattice produces momentum-dependent spin splitting characteristic of altermagnetism. With spin-orbit coupling, gapped Dirac-like crossings generate intense Berry-curvature hot spots and nearly compensated electron-hole pockets. This leads to a large and anisotropic intrinsic spin Hall conductivity comparable to that of several 4d, 5d metals, a symmetry-allowed anomalous Hall response despite zero net magnetization, and nonsaturating magnetoresistance exceeding 10000 percent. On the magnetic side, first-principles determination of the exchange tensor reveals dominant long-range superexchange and sizable anisotropic interactions, quantitatively reproducing the experimental Neel temperature. Our results identify NiS as a model 3d platform in which carrier compensation, altermagnetic symmetry, Berry-curvature driven transport, and lattice-sensitive magnetism coexist within a single symmetry framework, offering a design principle for multi-functional quantum responses in correlated transition-metal compounds.
-
----
-
-## 35. Phase-shifted multicomponent spin-charge nematicity in an altermagnet
-
-- **提交日期**：2026-07-14
-- **作者**：Christopher Candelora, Siyu Cheng, Muxian Xu, Keyu Zeng, Hengxin Tan, Younghun Hwang, Binghai Yan, Federico Mazzola, Ziqiang Wang, Ilija Zeljkovic
-- **arXiv链接**：[http://arxiv.org/abs/2607.12824v1](http://arxiv.org/abs/2607.12824v1)
-
-### 摘要
-Altermagnets host spin-split Fermi surfaces without net magnetization. This intrinsically multicomponent electronic setting raises the possibility that familiar correlated electron phases acquire unconventional spin-charge structure. Here we report the discovery of altermagnetic nematicity in Co0.25NbSe2. Using spectroscopic-imaging scanning tunneling microscopy and spin-polarized scanning tunneling microscopy, we find that the three nominally C3-related directions lose rotational equivalence in the zero-field state, in both charge and spin-sensitive tunneling channels. Strikingly, the dominant spin-sensitive component is shifted by one C3 sector relative to the dominant charge component, revealing a phase-shifted spin-charge nematic response. A phenomenological theory shows that altermagnetic order favors a finite relative phase between the charge and spin-sensitive nematic components -- C3 lattice pinning frustrates this preferred offset and selects the observed phase locking. These results establish altermagnetic nematicity as a new form of multicomponent electronic liquid-crystal order and point to a potentially generic route by which altermagnets can transform conventional correlated phases into symmetry-engineered spin-charge orders.
 
 ---
 
