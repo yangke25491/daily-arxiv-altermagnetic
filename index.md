@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-15 至 2026-08-14**
-> 数据检索到 **34** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-17 至 2026-08-16**
+> 数据检索到 **29** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -326,61 +326,6 @@ The Kugel-Khomskii spin-pseudospin model, originally developed for transition-me
 
 ### 摘要
 Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state conventionally emerges via a second-order phase transition driven by finite magnetization. Here we show that a spin-orbit-coupled nanowire proximitized to $d$-wave altermagnets -- with zero net magnetization -- can realize topological FFLO states through a first-order transition, marked by a sharp sign-reversing superconducting diode effect. The altermagnetic field generates band-resolved competing pairing channels, giving rise to a double-valley free energy landscape whose global minimum switches discontinuously. It consequently leads to a first-order topological FFLO transition with simultaneous jumps in the Cooper pairing amplitude and finite center-of-mass momentum. Remarkably, this discontinuous topological reconfiguration substantially enhances the diode efficiency and drives a characteristic sharp sign reversal across the transition. The mechanism of such exotic phenomena is captured by Ginzburg--Landau theory. Our results provide a field-free altermagnetic route to topological FFLO states and identify their direct transport fingerprint.
-
----
-
-## 30. Altermagnetic spin textures coupled to superconductors: Domain wall spin-triplet superconductivity and supercurrent-induced torques
-
-- **提交日期**：2026-07-16
-- **作者**：Yasir Dar, Mathias S. Scheurer, Constantin Schrade
-- **arXiv链接**：[http://arxiv.org/abs/2607.15249v1](http://arxiv.org/abs/2607.15249v1)
-
-### 摘要
-Motivated by the absence of sizable stray fields and the recently discovered highly non-trivial impact of altermagnetic textures on itinerant electrons, we here study the form of Cooper pairs in spatially varying altermagnets coupled to conventional $s$-wave superconductors. As a consequence of the detrimental impact of altermagnetism on spin-singlet pairing and the local symmetry reduction caused by textures in the magnetic order parameter, we show that superconductivity predominantly impacts the regions between altermagnetic domains. Focusing on a planar radial domain wall for concreteness, we show that emergent Zeeman and spin-orbit fields create spatially separated triplet hotspots and transitions between nodal and fully gapped superconducting regions, whose structure is set by both the domain wall and the altermagnetic order parameter. We also identify a reciprocal effect, where a supercurrent generates a quasiparticle-mediated quadrupolar torque that inherits the symmetry of the altermagnetic order. Our results show that accounting for spatial inhomogeneities in the altermagnetic order parameter is essential for an understanding of the superconducting proximity effect and suggest that hybrid systems of altermagnetic textures and superconductors offer unique opportunities for local engineering of Cooper pairs and for detecting altermagnetic order.
-
----
-
-## 31. Ridge-Spin-Layer Coupling and Emergent Ridgetronics in 2D Altermagnets
-
-- **提交日期**：2026-07-16
-- **作者**：Mu Tian, Run-Wu Zhang, Chaoxi Cui, Zhi-Ming Yu, Yugui Yao
-- **arXiv链接**：[http://arxiv.org/abs/2607.15009v1](http://arxiv.org/abs/2607.15009v1)
-
-### 摘要
-Extending valleytronics from discrete points to continuous lines in momentum space transforms dispersionless bands into a controllable degree of freedom. Here we introduce ridge--spin--layer coupling (RSLC) in two-dimensional (2D) altermagnets, where a one-dimensional continuous line of dispersionless electronic states (a ridge) in momentum space locks to both spin polarization and atomic sublayer. This ridge-induced quenching of kinetic energy mimics flat-band physics, yet crucially, RSLC grants external control, allowing for layer-selective switching of ridge orientation in reciprocal space, spin-filtered transport in real space, and a distinct electric Hall response. Guided by collinear spin layer group symmetry, we identify three 2D candidate materials, namely Mg${}\_2$Mo${}\_2$(PO${}\_5$)${}\_2$, Ca(FeP)${}\_2$, and Mg${}\_2$V${}\_2$(SO${}\_5$)${}\_2$, each featuring a crossed-ridge structure with two ridges, one per spin channel and sublayer. Our work establishes ridgetronics as a controllable platform for direction-discriminating currents, bridging dispersionless bands with multifunctional device operation.
-
----
-
-## 32. Angular momentum splitter effect of $d$-wave axial phonons in orbital altermagnets
-
-- **提交日期**：2026-07-15
-- **作者**：Dimos Chatzichrysafis, Alexander Mook
-- **arXiv链接**：[http://arxiv.org/abs/2607.13923v1](http://arxiv.org/abs/2607.13923v1)
-
-### 摘要
-We theoretically demonstrate that axial phonons, lattice vibration quanta carrying finite angular momentum, can host a $d$-wave angular momentum texture in orbital altermagnets in the absence of spin-orbit coupling. We consider a minimal electronic tight-binding model with $d$-wave loop-current order that breaks time-reversal symmetry. Within the Born-Oppenheimer approximation, we incorporate electron-phonon coupling via the molecular Berry curvature and show that the underlying $d$-wave orbital magnetic moment texture of the electronic state is transferred to the phonons without requiring the relativistic spin-orbit coupling. Our results expand the range of platforms available for engineering axial phonons and point to functionality unique to $d$-wave textures, including angular-momentum Seebeck and splitter effects, corresponding to longitudinal and transverse angular-momentum currents driven by a temperature gradient.
-
----
-
-## 33. Magnetic quadrupole current generation and accumulation in noncentrosymmetric systems
-
-- **提交日期**：2026-07-15
-- **作者**：Yuuga Takasu, Satoru Hayami
-- **arXiv链接**：[http://arxiv.org/abs/2607.13680v1](http://arxiv.org/abs/2607.13680v1)
-
-### 摘要
-Magnetization control via magnetic octupole injection has recently been proposed for a new class of centrosymmetric antiferromagnets, namely $d$-wave altermagnets, where the magnetic octupole is the lowest-rank magnetic multipole allowed by symmetry and serves as an alternative carrier to spin injection. In contrast, in noncentrosymmetric antiferromagnets, the magnetic quadrupole (MQ) constitutes the lowest-rank symmetry-allowed magnetic multipole, suggesting that MQ currents can provide an efficient route toward magnetization control through MQ injection. Here, we establish the symmetry conditions for MQ-current generation by constructing the multipole representation of the MQ conductivity tensor and show that MQ currents are generically allowed in noncentrosymmetric crystallographic point groups. As a representative example, we demonstrate MQ-current generation in the linear-response regime associated with symmetry lowering from the centrosymmetric point group ($mmm$) to its noncentrosymmetric subgroup ($mm2$). Furthermore, we reveal MQ accumulation near sample edges, analogous to spin accumulation induced by the spin Hall effect. This edge accumulation provides direct evidence of MQ-current generation and constitutes a key prerequisite for realizing MQ injection and MQ-based magnetization control in noncentrosymmetric antiferromagnets.
-
----
-
-## 34. Dirac topology, anomalous Hall response, and giant magnetoresistance in carrier-compensated altermagnetic semimetal NiS
-
-- **提交日期**：2026-07-15
-- **作者**：Shovan Gayen, Sk. Soyeb Ali, S K Panda
-- **arXiv链接**：[http://arxiv.org/abs/2607.13400v1](http://arxiv.org/abs/2607.13400v1)
-
-### 摘要
-We combine first-principles density-functional theory, Berry-curvature analysis, semiclassical Boltzmann transport, and atomistic spin dynamics to establish hexagonal NiS as a compensated 3d altermagnetic semimetal in which topology, magnetism, and lattice dynamics are intrinsically intertwined. The rotational coset symmetry of the NiAs lattice produces momentum-dependent spin splitting characteristic of altermagnetism. With spin-orbit coupling, gapped Dirac-like crossings generate intense Berry-curvature hot spots and nearly compensated electron-hole pockets. This leads to a large and anisotropic intrinsic spin Hall conductivity comparable to that of several 4d, 5d metals, a symmetry-allowed anomalous Hall response despite zero net magnetization, and nonsaturating magnetoresistance exceeding 10000 percent. On the magnetic side, first-principles determination of the exchange tensor reveals dominant long-range superexchange and sizable anisotropic interactions, quantitatively reproducing the experimental Neel temperature. Our results identify NiS as a model 3d platform in which carrier compensation, altermagnetic symmetry, Berry-curvature driven transport, and lattice-sensitive magnetism coexist within a single symmetry framework, offering a design principle for multi-functional quantum responses in correlated transition-metal compounds.
 
 ---
 
