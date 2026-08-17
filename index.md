@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-17 至 2026-08-16**
-> 数据检索到 **29** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-18 至 2026-08-17**
+> 数据检索到 **25** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -282,50 +282,6 @@ We study an interacting kagome-lattice realization of a quadratic band-touching 
 
 ### 摘要
 Altermagnetism combines compensated magnetic order with nonrelativistic spin splitting, yet established mechanisms predominantly rely on spin-reversing rotations in Néel-order antiferromagnets. Here we establish stripe-order altermagnetism governed instead by a spin-reversing mirror, placing it outside the usual rotation-based $l$-wave classification. Using two-orbital models, we show that the interplay between stripe spin and orbital orders can yield a stripe altermagnet with mirror-constrained nematic spin splitting or a stripe anti-altermagnet with spin-degenerate bands. The latter can support ferroelectric-like electrical control of spin splitting in suitable buckled structures. Random-phase-approximation (RPA) calculations show that stripe-order altermagnetism is favored near half filling under strong hopping anisotropy. The spin-reversing mirror further enforces a purely transverse Drude spin current for an electric field parallel or normal to the mirror plane, while spin-resolved mirror and rotation probes distinguish this response from that of rotation-governed $l$-wave altermagnets.
-
----
-
-## 26. Valley polarization, Rashba interaction, and weak altermagnetism in inversion-asymmetric MnPS${}\_\text{3}|$WS${}\_\text{2}$ van der Waals heterostructures
-
-- **提交日期**：2026-07-17
-- **作者**：Purba Dutta, Soumajyoti Bid, Nirmal Ganguli
-- **arXiv链接**：[http://arxiv.org/abs/2607.16454v1](http://arxiv.org/abs/2607.16454v1)
-
-### 摘要
-The deliberate breaking of inversion ($\mathcal{P}$) symmetry in antiferromagnets has recently emerged as an effective means to induce various features, such as the emergence of Berry curvature, spin-valley locking, magnetoelectric coupling, and the transition from conventional antiferromagnetism to altermagnetism. Conversely, in non-magnetic systems, inversion symmetry breaking in the presence of strong spin-orbit interaction (SOI) gives rise to momentum-dependent spin splitting via the Rashba effect, enabling tunable spin polarization through external electric fields. Motivated by recent advances in two-dimensional materials, we perform first-principles calculations based on density functional theory to investigate the van der Waals (vdW) heterostructure formed by a $\mathcal{P}$-symmetric MnPS${}\_3$ monolayer and a WS${}\_2$ monolayer. We demonstrate that the interface hosts a rich interplay of emergent phenomena, including an altermagnetic phase, Rashba spin splitting, spin-valley locking, and valley polarization. Our results demonstrate that the heterostructure exhibits semiconducting behavior with a direct band gap of approximately 1.65~eV and a type-I band alignment. Remarkably, the electronic structure and band alignment can be effectively tuned between type-I and type-II regimes via an external electric field and in-plane biaxial strain. Furthermore, field-induced modulation enables strong control over the altermagnetic phase and the valley splitting. These findings establish the proposed vdW heterostructure as a highly tunable platform with significant potential for spintronic and valleytronic applications.
-
----
-
-## 27. $J\_{1} - J\_{2} - δ$ model on a square lattice: From Altermagnet to Columnar antiferromagnet via quantum disordered phase
-
-- **提交日期**：2026-07-17
-- **作者**：Subharthi Paul, Darshan G. Joshi
-- **arXiv链接**：[http://arxiv.org/abs/2607.16415v1](http://arxiv.org/abs/2607.16415v1)
-
-### 摘要
-Altermagnetism in the case of local-moment magnets is characterized by zero net magnetization and splitting of opposite chirality magnon bands in the absence of any spin-anisotropic interactions or external field. In this work we investigate the robustness of altermagnets against quantum fluctuations arising from magnetic frustration. We consider a Heisenberg model on a square lattice with two different types of second-neighbor interactions, as in a checkboard pattern, in addition to the nearest-neighbor interaction. This model continuously interpolates between the $J\_{1}-J\_{2}$ Heisenberg model on the square lattice and the Heisenberg model on the checkerboard lattice. For weaker second-neighbor interactions a Néel-type altermagnet phase is realized. On the other hand, for stronger second-neighbor interactions a columnar antiferromagnet emerges. Using linear spin-wave theory we calculate the magnon dispersion, order parameter, static and dynamical structure factors for the two magnetic phases. Further, we show that there is an intermediate quantum disordered phase separating the two magnetic phases, which is connected to the one realized in the $J\_{1}-J\_{2}$ model. The quantum disordered region is further stabilized as we tune towards the checkerboard lattice limit.
-
----
-
-## 28. Altermagnetism without a long-range order
-
-- **提交日期**：2026-07-17
-- **作者**：V. E. Valiulin, A. V. Mikheyenkov, K. I. Kugel
-- **arXiv链接**：[http://arxiv.org/abs/2607.15954v1](http://arxiv.org/abs/2607.15954v1)
-
-### 摘要
-The Kugel-Khomskii spin-pseudospin model, originally developed for transition-metal compounds with orbital degrees of freedom, has recently been reinterpreted in the context of altermagnetism. In this work, we theoretically investigate the emergence of altermagnetic behavior in the absence of long-range magnetic or orbital order. Using the rotation-invariant Green's function method for the SU(2) x SU(2) symmetric model on a square lattice and on a linear chain, we analyze spin-spin and spin-pseudospin correlation functions, excitation spectra, heat capacity, and susceptibilities. We show that beyond a critical intersubsystem exchange Kc(T), a composite state arises with nonzero spin-pseudospin correlations, even though the average spin and pseudospin at each site are zero. The excitation spectrum splits into acoustic and optical branches, with nodal lines along qx = qy - a direct signature of altermagnetic symmetry. A peak in heat capacity and a jump in susceptibility are observed at the phase boundary. In 1D, the phase boundary is nonmonotonic and demonstrates reentrant transition. These results establish the concept of an "altermagnetic paramagnet" or "altermagnetic liquid" without long-range order, relevant for low-dimensional and strongly fluctuating systems.
-
----
-
-## 29. First-Order Topological FFLO Transition and Superconducting Diode Sign Reversal in Altermagnetic Nanowires
-
-- **提交日期**：2026-07-17
-- **作者**：Bo Fu, Kaizhi Bai, Chang-An Li, Shun-Qing Shen
-- **arXiv链接**：[http://arxiv.org/abs/2607.15720v1](http://arxiv.org/abs/2607.15720v1)
-
-### 摘要
-Fulde-Ferrell-Larkin-Ovchinnikov (FFLO) state conventionally emerges via a second-order phase transition driven by finite magnetization. Here we show that a spin-orbit-coupled nanowire proximitized to $d$-wave altermagnets -- with zero net magnetization -- can realize topological FFLO states through a first-order transition, marked by a sharp sign-reversing superconducting diode effect. The altermagnetic field generates band-resolved competing pairing channels, giving rise to a double-valley free energy landscape whose global minimum switches discontinuously. It consequently leads to a first-order topological FFLO transition with simultaneous jumps in the Cooper pairing amplitude and finite center-of-mass momentum. Remarkably, this discontinuous topological reconfiguration substantially enhances the diode efficiency and drives a characteristic sharp sign reversal across the transition. The mechanism of such exotic phenomena is captured by Ginzburg--Landau theory. Our results provide a field-free altermagnetic route to topological FFLO states and identify their direct transport fingerprint.
 
 ---
 
