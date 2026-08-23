@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-23 至 2026-08-22**
-> 数据检索到 **27** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-24 至 2026-08-23**
+> 数据检索到 **25** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -282,28 +282,6 @@ Chiral magnons are distinctive collective spin excitations in magnetic ordered s
 
 ### 摘要
 Pair-density-wave (PDW) superconductivity is a state in which the superconducting order parameter modulates at a finite wavevector. Using large-scale density matrix renormalization group, we study the doped altermagnetic Mott insulator in the checkerboard $t$-$J$ model, where altermagnetic exchange anisotropy is encoded microscopically through anisotropic ferromagnetic next-nearest-neighbor exchange. By mapping the ground-state phase diagram as a function of doping and altermagnetic anisotropy, mainly on six-leg cylinders, we identify a transition from a uniform $d$-wave superconducting regime with charge modulation to a PDW regime coexisting with stripe order. In the PDW regime, we report an unconventional wave-vector locking $\mathbf Q\_{\mathrm{PDW}}\approx 2\mathbf Q\_{\mathrm{Stripe}}$ along the cylinder direction, in contrast to the conventional relation. Pair correlations reveal a two-scale structure, consisting of short-distance local $d$-wave pairing and long-distance finite-momentum PDW correlations. A symmetry-based Ginzburg--Landau analysis is presented for the observed locking. Our results identify altermagnetism as a strong-coupling, microscopically grounded route to finite-momentum superconductivity in doped Mott insulators.
-
----
-
-## 26. Intrinsic single crystals of MnTe altermagnet
-
-- **提交日期**：2026-07-23
-- **作者**：Kim-Khuong Huynh, Michael Anthony Quintero, Martin Klanjšek, Tilen Knaflič, Yuta Ishii, Norimasa Sasabe, Nhu-Quynh T. Phan, Frej Søren Rattenborg, Yuichi Yamasaki, Denis Arčon, Bo Brummerstedt Iversen
-- **arXiv链接**：[http://arxiv.org/abs/2607.21803v1](http://arxiv.org/abs/2607.21803v1)
-
-### 摘要
-We report the synthesis methodology, structure, and intrinsic properties of ultra-high quality single crystals of MnTe, an archetypal altermagnet. The crystals, obtained from self-flux method, are nearly free from crystal imperfections and disproportionate chemical compositions as seen by various investigation methods. In measurements under quasi free-standing configuration minimizing stress induced effects, the crystals exhibit complex and anisotropic domain kinetics in both superheating and supercooling regimes around the altermagnetic transition at $T\_{\mathrm{N}} = 310\,\mathrm{K}$. An Anderson insulating state is observed below $T\_{\mathrm{MI}}\approx 150\,\mathrm{K}$ with a carrier density of about $1.6\times 10^{17}\,\mathrm{cm}^{-3}$, being sharply contrast to metallic states usually seen in Te-deficit samples. Nevertheless, hallmarks of altermagnetism, anomalous Hall effect and X-ray magnetic circular dichroism signal, are robust in this intrinsic limit, however with significantly reduced magnitudes.
-
----
-
-## 27. Shiba duality and $η$-altermagnetism: Pairing and charge orders in bipartite attractive Hubbard models
-
-- **提交日期**：2026-07-23
-- **作者**：Yu-Ping Lin
-- **arXiv链接**：[http://arxiv.org/abs/2607.21430v1](http://arxiv.org/abs/2607.21430v1)
-
-### 摘要
-We show that Shiba duality maps the altermagnetic principle of momentum-dependent band splitting from spin to $η$-pseudospin, defining $η$-altermagnetism ($η$-ALM) as a Bogoliubov-de Gennes (BdG) counterpart of ALM in pairing and charge orders. In half-filled pure Hubbard models on bipartite lattices, the duality relates repulsion-driven antiferromagnetism (AFM) to attraction-driven $η$-AFM with uniform singlet pairing and staggered charge-density modulation. In the BdG bands, the Shiba-dual parity-time-reversal $\mathcal{\tilde{P}}\mathcal{\tilde{T}}$ symmetry protects a Kramers degeneracy of $η$-pseudospin. Anisotropic second-neighbor hopping breaks this degeneracy and generates $η$-ALM. Odd-parity $η$-ALM shows $η$-pseudospin splitting, whereas even-parity $η$-ALM has spin-$η$-locked splitting. Hartree-Fock-Bogoliubov computations on checkerboard and honeycomb lattices find $η$-ALMs with $p$-, $d$-, and $f$-wave splitting structures. Possible generalizations and experimental probes are discussed.
 
 ---
 
