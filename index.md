@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-29 至 2026-08-28**
-> 数据检索到 **29** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-30 至 2026-08-29**
+> 数据检索到 **27** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -304,28 +304,6 @@ Altermagnets constitute a novel class of collinear spin-compensated materials in
 
 ### 摘要
 Altermagnet CsCr${}\_2$S${}\_2$O undergoes a Verwey-type metal-to-insulator transition (MIT), accompanied by a lattice distortion and stripe charge order on the Cr sublattice. Intriguingly, the atomic distortions occur exclusively at the ligand sites rather than the Cr sites, leaving the origin of the pronounced Cr charge disproportionation unresolved. Using density functional theory plus dynamical mean-field theory (DFT+DMFT) calculations, we identify an orbital-selective Mott state in which the correlated metallic $d\_{yz}$ orbital governs the low-energy physics. We show that S-site distortions produces only a small bare charge asymmetry between the Cr sublattices through Cr-$d\_{yz}$--S-$p$ hybridization. Dynamical electronic correlations, however, dramatically amplify this asymmetry, producing pronounced differentiation in both the charge occupancy and correlation strength of the $d\_{yz}$ orbitals. The resulting site-dependent spin polarization ultimately drives the MIT. In contrast, replacing S with Te substantially weakens this correlation-amplification effect and preserves a metallic state. Our work reveals a hidden, correlation-amplified feedback loop between ligand instabilities and electronic symmetry breaking in this altermagnetic family, highlighting ligand engineering as an effective route toward robust metallic altermagnetism.
-
----
-
-## 28. Altermagnetism from a Cu-Fe Lieb Lattice in FeSe/Cuprate Heterostructures
-
-- **提交日期**：2026-07-29
-- **作者**：Ying Li, Augustin Davignon, Peng Rao, Runhan Li, Maia G. Vergniory, Roser Valentí, Johannes Knolle
-- **arXiv链接**：[http://arxiv.org/abs/2607.27331v1](http://arxiv.org/abs/2607.27331v1)
-
-### 摘要
-Realizing altermagnetism in high-$T\_c$ cuprate-based systems would provide a direct route for studying spin-split electronic bands in the absence of net magnetization and investigate their interplay with unconventional superconductivity. Here, we propose that FeSe/cuprate heterostructures offer such a platform, where a 45$^\circ$ twist of Cu and Fe layers creates an effective CuFe${}\_2$ Lieb lattice in which Fe magnetic order and Cu-Fe hybridization through the ligands induces altermagnetic $d$-wave spin splitting. A minimal tight-binding model shows that this mechanism is generic. Furthermore, a substrate-induced inequivalence of the two Se sites in FeSe provides a second route in which altermagnetism originates in the Fe layer and is transferred to the cuprate layer by proximity. Density functional theory calculations for FeSe/Bi${}\_2$Sr${}\_2$CuO${}\_6$ heterostructures confirm the viability of both mechanisms and reveal ways to enhance the spin splitting. These results establish superconducting cuprate/transition metal chalcogenide heterostructures as a promising setting for engineering altermagnetism and studying its coupling to unconventional superconductivity.
-
----
-
-## 29. Ferroelectric switchable altermagnetic-like compensated ferrimagnets with charge ordering
-
-- **提交日期**：2026-07-29
-- **作者**：Xinyu Yang, Shuai Dong
-- **arXiv链接**：[http://arxiv.org/abs/2607.26971v1](http://arxiv.org/abs/2607.26971v1)
-
-### 摘要
-Unconventional collinear magnets with almost zero magnetization but prominent nonrelativistic spin-splitting, such as altermagnets, can inherit the advantages of both ferromagnets and antiferromagnets. By incorporating more degrees of freedom such as ferroelectricity and charge ordering, these unconventional magnets can be even more interesting and functionalized. With this design principle, the Fe${}\_3$O${}\_5$ monolayer is predicted to exhibit a hybrid spin-splitting mechanism, with the superposition of the altermagnetic-like $k$-path alternating splitting and ferrimagnet-like Zeeman splitting. Benefiting from the hidden magnetoelectricity based on the spin-charge coupling, such spin-splitting can be fully switched by an electric field. Its conductivity is highly spin-polarized, with a polarization ratio above $99\%$, comparable to half-metals but with zero magnetization.
 
 ---
 
