@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-30 至 2026-08-29**
-> 数据检索到 **27** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-07-31 至 2026-08-30**
+> 数据检索到 **24** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -271,39 +271,6 @@ We investigated the magnetic and vibrational excitations in the collinear alterm
 
 ### 摘要
 Recent development in the field of altermagnetism, and increased demand for the search of applications of anomalous hall effect have ushered in a new era for novel quantum phases in materials. Quantum materials previously anticipated to be scientifically predictable have unfolded novel properties that brought them into the spotlight. These manifestations have led us to rethink our understanding of existing classification of magnetic materials and preexisting notions about anomalous hall effect in the light of topologically nontrivial phases of matter. One such recent de- velopment lies in the novel class of alter-magnetic materials with prospect for quantum computing. In this article, we delineate the spin and orbital resolved electronic spectrum, mode-decomposed phonon dispersion relations, geometrical berry curvature and topological surface states and their implications on anomalous Hall conductivity in the promising altermagnetic compound CrSb. We further utilize first principles calculations coupled with computationally efficient maximally localized wannier states of numerous magnetic configurations of the altermagnet to simulate the effect of external fields and elucidate the fact that the linear behaviour of anomalous hall conductivity with magnetization does not necessarily hold true for all magnetic classes, such as altermagnets.
-
----
-
-## 25. Coupled Spin-Density-Wave and Bond-Order Driven Metal-Insulator Transition in Altermagnetic CsCr${}\_2$S${}\_2$O
-
-- **提交日期**：2026-07-30
-- **作者**：Chenchao Xu, Wansheng Bai, Guo-Xiang Zhi, Yi Liu, Xiaoqun Wang, Jianhui Dai, Chao Cao
-- **arXiv链接**：[http://arxiv.org/abs/2607.28329v1](http://arxiv.org/abs/2607.28329v1)
-
-### 摘要
-A metal-insulator transition (MIT) driven by bond order (BO) coupled with a secondary spin-density wave (SDW) is identified in CsCr${}\_2$S${}\_2$O. Such coupling is enabled as a result of the broken time-reversal symmetry due to the pre-existing C-type antiferromagnetic (C-AFM) order. First-principles calculations reveal an orbital-selective physics that Cr-$d\_{yz}$ orbitals form local moments and establish the altermagnetic order, while the Cr-$d\_{xz}$ orbitals remain metallic and hybridize with S-$p\_z$. Thus the low-energy physics is governed by the Cr-$d\_{xz}$ and S-$p\_z$ orbitals. On-site interactions then enhance a secondary SDW ($s$SDW) instability of the itinerant $d\_{xz}$ electrons, which couples to the Cr-$d\_{xz}$-S-$p\_z$ bonding order. The resulting coupled $s$SDW-BO simultaneously produces experimentally observed structural distortion, charge disproportionation, local Cr-moment modulation, and gap opening. Our results establish an orbital-selective mechanism upon which pre-existing altermagnetism and electronic correlations cooperate to drive a structural MIT.
-
----
-
-## 26. Thermal spin transport in easy-planar $d$-wave altermagnets controlled by magnetic field
-
-- **提交日期**：2026-07-30
-- **作者**：Yuliia I. Gusieva, Kostiantyn V. Yershov, Jeroen van den Brink, Volodymyr P. Kravchuk
-- **arXiv链接**：[http://arxiv.org/abs/2607.28085v1](http://arxiv.org/abs/2607.28085v1)
-
-### 摘要
-Altermagnets constitute a novel class of collinear spin-compensated materials in which magnon branches are spin-split even in the non-relativistic limit. The latter is the result of a more complex symmetry operation (compared to conventional antiferromagnets) that connects the two sublattices. Altermagnetic splitting strongly affects the magnon transport properties, leading, in particular, to the thermal magnon splitter effect in easy-axial $d$-wave altermagnets. Whether this effect also appears in easy-planar systems is not obvious, since the magnon branches do not carry a constant magnetic moment in this case. Here, we consider the easy-planar $d$-wave altermagnet of a rutile-type, e.g., NiF${}\_2$, and demonstrate the emergence of the altermagnetically generated magnon magnetic moment, which is momentum-dependent and possesses $d$-wave symmetry. This then leads to the spin-splitter effect, i.e., the emergence of a magnon-driven spin current (the flow of magnetic moment) in response to the applied temperature gradient. We also demonstrate that the corresponding thermal spin conductivity can be effectively tuned by an external magnetic field perpendicular to the easy plane.
-
----
-
-## 27. Many-Body Amplification of Ligand Instabilities Driving Verwey-Type Transitions in Altermagnet CsCr${}\_2$S${}\_2$O
-
-- **提交日期**：2026-07-30
-- **作者**：Xiuhua Chen, Yilin Wang
-- **arXiv链接**：[http://arxiv.org/abs/2607.28029v2](http://arxiv.org/abs/2607.28029v2)
-
-### 摘要
-Altermagnet CsCr${}\_2$S${}\_2$O undergoes a Verwey-type metal-to-insulator transition (MIT), accompanied by a lattice distortion and stripe charge order on the Cr sublattice. Intriguingly, the atomic distortions occur exclusively at the ligand sites rather than the Cr sites, leaving the origin of the pronounced Cr charge disproportionation unresolved. Using density functional theory plus dynamical mean-field theory (DFT+DMFT) calculations, we identify an orbital-selective Mott state in which the correlated metallic $d\_{yz}$ orbital governs the low-energy physics. We show that S-site distortions produces only a small bare charge asymmetry between the Cr sublattices through Cr-$d\_{yz}$--S-$p$ hybridization. Dynamical electronic correlations, however, dramatically amplify this asymmetry, producing pronounced differentiation in both the charge occupancy and correlation strength of the $d\_{yz}$ orbitals. The resulting site-dependent spin polarization ultimately drives the MIT. In contrast, replacing S with Te substantially weakens this correlation-amplification effect and preserves a metallic state. Our work reveals a hidden, correlation-amplified feedback loop between ligand instabilities and electronic symmetry breaking in this altermagnetic family, highlighting ligand engineering as an effective route toward robust metallic altermagnetism.
 
 ---
 
