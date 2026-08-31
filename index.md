@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-07-31 至 2026-08-30**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-01 至 2026-08-31**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -25,7 +25,7 @@ The inverse Lieb lattice has recently emerged as a promising platform for alterm
 
 - **提交日期**：2026-08-27
 - **作者**：Guowen Jiang, Feilong Wang, Yunhua Wang, Fawei Zheng, Bin Xi, Hong-Gang Luo, Jize Zhao
-- **arXiv链接**：[http://arxiv.org/abs/2608.26540v1](http://arxiv.org/abs/2608.26540v1)
+- **arXiv链接**：[http://arxiv.org/abs/2608.26540v2](http://arxiv.org/abs/2608.26540v2)
 
 ### 摘要
 MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prototypical altermagnet, yet the sublattice-odd exchange that defines this identity remains under active debate: it enters the magnon splitting only in quadrature with the dipole--dipole interaction, its magnitude suppressed and its sign erased. An overdetermined first-principles total-energy mapping resolves this scale as a seventh-neighbor imbalance $δ{J\_7}\simeq+8~μ$eV. The resulting Hamiltonian, with the dipole--dipole interaction included explicitly, reproduces the low-energy gap and the visible finite-momentum splitting. A longitudinal field $B\parallel c$ then acts as a linear amplifier of the hidden scale, opening two signed, field-linear readouts. The first is the compensation field $B^\ast(\mathbf Q)$, the position of minimum splitting, which is equal and opposite at the rotation-related partner momenta: a shift from zero field is itself evidence of a finite imbalance, its side gives the sign, and its magnitude, $|B^\ast|\simeq0.34$~T here, gives the scale. The second is the fixed-field contrast of the partner splittings, $\simeq0.14$~meV at $1$~T, six times the zero-field excess: a sign check from just two spectra. Both readouts survive a $0.12$~meV energy resolution, and the construction carries over to any easy-axis collinear altermagnet, bringing $μ$eV altermagnetic exchange within present instrumental reach.
@@ -260,17 +260,6 @@ We demonstrate the recent concept of emergent surface altermagnetism through its
 
 ### 摘要
 We investigated the magnetic and vibrational excitations in the collinear altermagnet candidate \ce\{Mn2Mo3O8\} by temperature dependent Raman scattering and magneto-optical THz time-domain transmission spectroscopy. By comparison to ab initio calculations accurately capturing the eigenfrequencies of the vibrational eigenmodes, we identify all optical phonons, including the lowest-lying Raman modes of $A\_1$ and $E\_2$ type, which had remained elusive in a previous Raman study. Moreover, we compare the selection rules for optically active phonons in the paramagnetic and the magnetically ordered phases of \ce\{Mn2Mo3O8\} and analyze the Raman selection rules with respect to pseudo-angular momentum conservation. No evidence of the expected splitting of the degenerate paramagnetic $E\_2$ optical phonons into modes with circular polarization upon magnetic ordering could be resolved, likely due to weak spin-orbit coupling typical for Mn$^{2+}$. In contrast, we observe strong magnetic circular dichroism at a broad THz excitation band, emerging in the magnetically ordered state. This band, potentially originating from two-magnon excitations, is only electric-dipole active and features a field-dependent two-component fine structure. Its magnetic circular dichroism vanishes above the spin-flop transition at 4~T.
-
----
-
-## 24. Study of the Anomalous Hall effect by tuning the spin orientation in the Altermagnetic material CrSb
-
-- **提交日期**：2026-07-31
-- **作者**：Sreedevi Chintalapudi, Upasana Agrawal, Suvadip Das
-- **arXiv链接**：[http://arxiv.org/abs/2607.29646v1](http://arxiv.org/abs/2607.29646v1)
-
-### 摘要
-Recent development in the field of altermagnetism, and increased demand for the search of applications of anomalous hall effect have ushered in a new era for novel quantum phases in materials. Quantum materials previously anticipated to be scientifically predictable have unfolded novel properties that brought them into the spotlight. These manifestations have led us to rethink our understanding of existing classification of magnetic materials and preexisting notions about anomalous hall effect in the light of topologically nontrivial phases of matter. One such recent de- velopment lies in the novel class of alter-magnetic materials with prospect for quantum computing. In this article, we delineate the spin and orbital resolved electronic spectrum, mode-decomposed phonon dispersion relations, geometrical berry curvature and topological surface states and their implications on anomalous Hall conductivity in the promising altermagnetic compound CrSb. We further utilize first principles calculations coupled with computationally efficient maximally localized wannier states of numerous magnetic configurations of the altermagnet to simulate the effect of external fields and elucidate the fact that the linear behaviour of anomalous hall conductivity with magnetization does not necessarily hold true for all magnetic classes, such as altermagnets.
 
 ---
 
