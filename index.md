@@ -5,12 +5,23 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-02 至 2026-09-01**
+> 检索时间范围：**2026-08-03 至 2026-09-02**
 > 数据检索到 **26** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
+## 1. Correlation-Driven Nonlinear Magnetoelectric Response in an Altermagnet: A Dynamical Mean-Field Study
+
+- **提交日期**：2026-09-01
+- **作者**：Robert Peters, Jun Ōiké
+- **arXiv链接**：[http://arxiv.org/abs/2609.00697v1](http://arxiv.org/abs/2609.00697v1)
+
+### 摘要
+We investigate the optical nonlinear magnetoelectric effect (NMEE) in a strongly correlated altermagnet using dynamical mean-field theory. Unlike effective band descriptions with an imposed spin splitting, our approach determines the altermagnetic order, electronic spectrum, and optical nonlinear response self-consistently. We find that the NMEE is finite in the altermagnetic phase and vanishes in the paramagnetic phase. Its frequency dependence reflects the spin-resolved spectral structure and provides an estimate of the characteristic altermagnetic spin-splitting scale. Interaction and temperature tuning produce qualitatively different behavior: at low temperature, reducing the interaction strength toward the interaction-driven magnetic phase boundary enhances the response, whereas increasing the temperature suppresses it and drives it to zero above the critical temperature. These results establish the optical NMEE as a probe of correlated altermagnetic order and suggest that tuning parameters such as pressure, strain, or chemical substitution toward an interaction-driven phase boundary may provide a promising route to maximizing the response.
+
+---
+
+## 2. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
 
 - **提交日期**：2026-08-30
 - **作者**：Narges Kia, Saeed H. Abedinpour, Zahra Faraei
@@ -21,7 +32,7 @@ The interplay between twist-angle engineering and unconventional magnetism provi
 
 ---
 
-## 2. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
+## 3. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
 
 - **提交日期**：2026-08-30
 - **作者**：Jianqi Zhong, Teng-Fei Ying, Jinyu Zou, Benjamin T. Zhou
@@ -32,7 +43,7 @@ The recent discovery of long-sought dice flat band in layered YCl electride has 
 
 ---
 
-## 3. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
+## 4. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
 
 - **提交日期**：2026-08-29
 - **作者**：Iurii Kibalin, Dalila Bounoua, José A. Rodriguez Velamazán, Oscar Fabelo, Navid Qureshi, Quentin Faure, Philippe Bourges, Victor Balédent, Jian-Rui Soh, Jeffrey Rau, Paul McClarty, Arsen Gukasov
@@ -43,7 +54,7 @@ Altermagnets are unconventional spin split magnets arising from the zero spin-or
 
 ---
 
-## 4. Multi-orbital physics in inverse Lieb lattice altermagnets
+## 5. Multi-orbital physics in inverse Lieb lattice altermagnets
 
 - **提交日期**：2026-08-27
 - **作者**：Mercè Roig, Jannik Gondolf, Andreas Kreisel, Brian M. Andersen, Daniel F. Agterberg
@@ -54,7 +65,7 @@ The inverse Lieb lattice has recently emerged as a promising platform for alterm
 
 ---
 
-## 5. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
+## 6. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
 
 - **提交日期**：2026-08-27
 - **作者**：Guowen Jiang, Feilong Wang, Yunhua Wang, Fawei Zheng, Bin Xi, Hong-Gang Luo, Jize Zhao
@@ -65,7 +76,7 @@ MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prot
 
 ---
 
-## 6. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
+## 7. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
 
 - **提交日期**：2026-08-26
 - **作者**：R. Ramazashvili, V. Shablenko, Ya. B. Bazaliy
@@ -76,7 +87,7 @@ We predict electric-dipole spin resonance (EDSR) in altermagnetic conductors: in
 
 ---
 
-## 7. Altermagnetic Anomalous Hall Effect and Spin--Edge-Locked Chiral Modes in a Modified Kane--Mele--Hubbard Model
+## 8. Altermagnetic Anomalous Hall Effect and Spin--Edge-Locked Chiral Modes in a Modified Kane--Mele--Hubbard Model
 
 - **提交日期**：2026-08-25
 - **作者**：Mohsen Hafez-Torbati, Alireza Qaiumzadeh
@@ -87,7 +98,7 @@ We establish a correlation-driven route to the altermagnetic anomalous Hall effe
 
 ---
 
-## 8. Two Microscopic Mechanisms of Piezomagnetism in CoF${}\_2$ from First-Principles Calculations
+## 9. Two Microscopic Mechanisms of Piezomagnetism in CoF${}\_2$ from First-Principles Calculations
 
 - **提交日期**：2026-08-25
 - **作者**：Hiroshi Katsumoto, Tamio Oguchi, Kunihiko Yamauchi
@@ -98,7 +109,7 @@ Rutile-structured CoF${}\_2$ has long been recognized as a prototypical piezomag
 
 ---
 
-## 9. Interaction-mediated Co-existence of Altermagnetism and Topology
+## 10. Interaction-mediated Co-existence of Altermagnetism and Topology
 
 - **提交日期**：2026-08-24
 - **作者**：Jasmin Bedow, Nitin Kaushal, Marcel Franz
@@ -109,7 +120,7 @@ We study an extended Hubbard model on Lieb lattice at electron filling 2 and 4, 
 
 ---
 
-## 10. Berry-Curvature Effect in Anomalous Transport
+## 11. Berry-Curvature Effect in Anomalous Transport
 
 - **提交日期**：2026-08-21
 - **作者**：V. P. Mineev
@@ -120,7 +131,7 @@ A theory of the Berry-phase effect in anomalous transport in ferromagnets driven
 
 ---
 
-## 11. Anti-spin Laue groups: classification of anti-altermagnets and their representative minimal models
+## 12. Anti-spin Laue groups: classification of anti-altermagnets and their representative minimal models
 
 - **提交日期**：2026-08-19
 - **作者**：Colin Lange, Rodrigo Jaeschke-Ubiergo, Alexander Mook, Jairo Sinova
@@ -131,7 +142,7 @@ Anti-altermagnets exhibit odd-parity nonrelativistic spin splitting, yet unlike 
 
 ---
 
-## 12. Topological Altermagnetic Insulators
+## 13. Topological Altermagnetic Insulators
 
 - **提交日期**：2026-08-16
 - **作者**：Jasmin Bedow, Nitin Kaushal, Marcel Franz
@@ -142,7 +153,7 @@ We study the emergence of altermagnetic topological phases stabilized by Ising s
 
 ---
 
-## 13. Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement
+## 14. Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement
 
 - **提交日期**：2026-08-16
 - **作者**：Subhadeep Bandyopadhyay, Rossitza Pentcheva
@@ -153,7 +164,7 @@ The discovery of altermagnetism has initiated intensive research and opened new 
 
 ---
 
-## 14. Antiferroquadrupolar Order in Altermagnetic CoF${}\_2$
+## 15. Antiferroquadrupolar Order in Altermagnetic CoF${}\_2$
 
 - **提交日期**：2026-08-14
 - **作者**：Daniel Halliday, Laura Pöysti, Chung Xu, Daniel A. Mayoh, Didier Wermeille, Dharmalingam Prabhakaran, David R. Bowler, Roger D. Johnson
@@ -164,7 +175,7 @@ Altermagnets host non-relativistic spin-split electronic states whose microscopi
 
 ---
 
-## 15. Rapid supercurrent decay in Mn${}\_5$Si${}\_3$ Josephson junctions
+## 16. Rapid supercurrent decay in Mn${}\_5$Si${}\_3$ Josephson junctions
 
 - **提交日期**：2026-08-14
 - **作者**：Arjun Sapkota, Kurt Lorenzen, Tyler Kuhn, Juan Gomez, Demet Korucu, Robert M. Klaes, Reza Loloee, Norman O. Birge, Nathan Satchell
@@ -175,7 +186,7 @@ Theoretical work predicts that Josephson junctions containing metallic altermagn
 
 ---
 
-## 16. Two routes to quantum anomalous Hall states in altermagnets
+## 17. Two routes to quantum anomalous Hall states in altermagnets
 
 - **提交日期**：2026-08-12
 - **作者**：Makoto Naka, Shuntaro Sumita, Yukitoshi Motome, Hitoshi Seo
@@ -186,7 +197,7 @@ We theoretically propose two possible routes to realizing quantum anomalous Hall
 
 ---
 
-## 17. Spin-polarized supercurrents and Josephson diode effect in altermagnets
+## 18. Spin-polarized supercurrents and Josephson diode effect in altermagnets
 
 - **提交日期**：2026-08-12
 - **作者**：Janus F. Niebuhr, Matthias Eschrig, Danilo Nikolić
@@ -197,7 +208,7 @@ We present a systematic theoretical study of the Josephson effect in junctions c
 
 ---
 
-## 18. Spin Splitter without Spin-Split Bands: A Reconfigurable Altermagnetic Texture
+## 19. Spin Splitter without Spin-Split Bands: A Reconfigurable Altermagnetic Texture
 
 - **提交日期**：2026-08-11
 - **作者**：Bin Xi, Jie Lu, Qiang Luo, Ken Chen, Jia-Wei Mei, Hong-Gang Luo, Jize Zhao
@@ -208,7 +219,7 @@ The altermagnetic spin-splitter effect converts an electric field into a transve
 
 ---
 
-## 19. Quantum Mechanism of Piezomagnetism in Higher-Spin Altermagnets
+## 20. Quantum Mechanism of Piezomagnetism in Higher-Spin Altermagnets
 
 - **提交日期**：2026-08-11
 - **作者**：Daisuke Yamamoto, Makoto Naka
@@ -219,7 +230,7 @@ We investigate piezomagnetism in higher-spin altermagnets with easy-plane single
 
 ---
 
-## 20. A spin-bond theory unifying non-relativistic spin splitting and emergent spin-orbit textures
+## 21. A spin-bond theory unifying non-relativistic spin splitting and emergent spin-orbit textures
 
 - **提交日期**：2026-08-10
 - **作者**：S. Allende, R. M. Otxoa
@@ -230,7 +241,7 @@ Magnetic order with vanishing net magnetization can produce non-relativistic spi
 
 ---
 
-## 21. Magnetotransport evolution and nonlinear Hall effect in altermagnetic MnTe
+## 22. Magnetotransport evolution and nonlinear Hall effect in altermagnetic MnTe
 
 - **提交日期**：2026-08-10
 - **作者**：Wei Zhou, Zhifeng Xue, Yunxing Li, Nannan Tang, Ye Tao, Dingyong Zhong, Jiawei Luo, Donghui Guo, Huichao Wang
@@ -241,7 +252,7 @@ Hexagonal MnTe is a prototypical semiconducting altermagnet whose properties are
 
 ---
 
-## 22. Microscopic Origin of Spin Splitting in Altermagnetic CrSb Thin Films
+## 23. Microscopic Origin of Spin Splitting in Altermagnetic CrSb Thin Films
 
 - **提交日期**：2026-08-09
 - **作者**：Dai Mingyang, Song Hongquan, Kang Zhuo, Xu Yuanji, Tian Fuyang
@@ -252,7 +263,7 @@ Altermagnets have recently emerged as promising materials for spintronic applica
 
 ---
 
-## 23. Correlated topological-polarization surface states in the narrow-gap insulator FeSb2
+## 24. Correlated topological-polarization surface states in the narrow-gap insulator FeSb2
 
 - **提交日期**：2026-08-06
 - **作者**：Takahiro Iwagaki, Hideki Matsuoka, Ginta Hoshino, Kanata Watanabe, Shungo Aoyagi, Shunsuke Kitou, Yuiga Nakamura, Motoaki Hirayama, Takashi Koretsune, Naoya Kanazawa
@@ -263,7 +274,7 @@ Strong electron correlations and band topology each generate rich quantum phases
 
 ---
 
-## 24. Antisymmetric Dynamical Spin Correlations: Spin-Space-Group Constraints and Frequency-Moment Sum Rules
+## 25. Antisymmetric Dynamical Spin Correlations: Spin-Space-Group Constraints and Frequency-Moment Sum Rules
 
 - **提交日期**：2026-08-04
 - **作者**：Tsutomu Momoi
@@ -274,7 +285,7 @@ Polarized inelastic neutron scattering probes the handedness of magnetic excitat
 
 ---
 
-## 25. Emergence and Detection of Surface altermagnetism in KV${}\_2$Se${}\_2$O
+## 26. Emergence and Detection of Surface altermagnetism in KV${}\_2$Se${}\_2$O
 
 - **提交日期**：2026-08-04
 - **作者**：Rodrigo Jaeschke-Ubiergo, Xanthe H. Verbeek, Colin Lange, Sergio Rodriguez, Atasi Chakraborty, Alexander Mook, Jairo Sinov
@@ -282,17 +293,6 @@ Polarized inelastic neutron scattering probes the handedness of magnetic excitat
 
 ### 摘要
 We demonstrate the recent concept of emergent surface altermagnetism through its unique signatures in \KVSO. We show that for bulk antiferromagnetically ordered \KVSO, the (001) surface exhibits $d$-wave altermagnetism. Our results fully explain the recent seemingly contradicgting experimental evidence, independently showing both an antiferromagnetically ordered bulk from neutron diffraction, and $d$-wave spin splitting from photoemission spectroscopy. To fully verify this conecept, we predict, as a key experimental signature, a large nonlinear Edelstein response, which is localized at the surface, and follows the $d$-wave altermagnetic symmetry. These results are not only relevant for the metallic and room-temperature magnet \KVSO, but also for several other Lieb lattice systems. Our work expands the pool of techniques that can be used to detect altermagnetism emerging at the surfaces of antiferromagnets.
-
----
-
-## 26. Magnetic circular dichroism of THz modes and selection rules of Raman-active optical phonons in the polar altermagnet candidate \ce\{Mn2Mo3O8\}
-
-- **提交日期**：2026-08-02
-- **作者**：F. Schilberth, K. Vasin, M. Knauft, M. Kondákor, M. Vuckovic, N. Herrmann, K. Penc, M. Minola, B. Keimer, V. A. Martinez, K. Panda, A. A. Sirenko, L. Prodan, V. Tsurkan, A. A. Tsirlin, I. Kézsmárki, J. Deisenhofer
-- **arXiv链接**：[http://arxiv.org/abs/2608.01062v1](http://arxiv.org/abs/2608.01062v1)
-
-### 摘要
-We investigated the magnetic and vibrational excitations in the collinear altermagnet candidate \ce\{Mn2Mo3O8\} by temperature dependent Raman scattering and magneto-optical THz time-domain transmission spectroscopy. By comparison to ab initio calculations accurately capturing the eigenfrequencies of the vibrational eigenmodes, we identify all optical phonons, including the lowest-lying Raman modes of $A\_1$ and $E\_2$ type, which had remained elusive in a previous Raman study. Moreover, we compare the selection rules for optically active phonons in the paramagnetic and the magnetically ordered phases of \ce\{Mn2Mo3O8\} and analyze the Raman selection rules with respect to pseudo-angular momentum conservation. No evidence of the expected splitting of the degenerate paramagnetic $E\_2$ optical phonons into modes with circular polarization upon magnetic ordering could be resolved, likely due to weak spin-orbit coupling typical for Mn$^{2+}$. In contrast, we observe strong magnetic circular dichroism at a broad THz excitation band, emerging in the magnetically ordered state. This band, potentially originating from two-magnon excitations, is only electric-dipole active and features a field-dependent two-component fine structure. Its magnetic circular dichroism vanishes above the spin-flop transition at 4~T.
 
 ---
 
