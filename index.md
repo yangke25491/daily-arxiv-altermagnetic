@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-06 至 2026-09-05**
-> 数据检索到 **29** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-07 至 2026-09-06**
+> 数据检索到 **28** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -315,17 +315,6 @@ Hexagonal MnTe is a prototypical semiconducting altermagnet whose properties are
 
 ### 摘要
 Altermagnets have recently emerged as promising materials for spintronic applications owing to their momentum-dependent spin splitting. Among them, metallic CrSb is particularly attractive owing to its giant spin splitting and high Néel temperature. However, the microscopic origin of the distinct spin-splitting behaviors in bulk and thin-film CrSb remains unresolved. Here, we systematically investigate the electronic structures of CrSb slabs with different surface orientations using first-principles calculations. Although all considered slabs preserve spin-group symmetries compatible with altermagnetism, they exhibit markedly different electronic structures: the (2$\bar{1}\bar{1}$0) slab retains pronounced altermagnetic spin splitting, whereas the (0001) and (10$\bar{1}$0) slabs display nearly spin-degenerate bands. We demonstrate that dimensional reduction fundamentally changes the microscopic origin of altermagnetic spin splitting. Unlike bulk CrSb, altermagnetic spin splitting in thin films requires long-range inter-unit-cell coplanar Cr--Sb hopping, while Sb--Sb hopping provides an additional contribution. The preservation or suppression of these hopping pathways explains the strong surface dependence of the spin splitting. Our findings establish a microscopic mechanism for understanding altermagnetism in reduced dimensions and provide a general principle for engineering spin splitting in low-dimensional altermagnetic materials.
-
----
-
-## 29. Correlated topological-polarization surface states in the narrow-gap insulator FeSb2
-
-- **提交日期**：2026-08-06
-- **作者**：Takahiro Iwagaki, Hideki Matsuoka, Ginta Hoshino, Kanata Watanabe, Shungo Aoyagi, Shunsuke Kitou, Yuiga Nakamura, Motoaki Hirayama, Takashi Koretsune, Naoya Kanazawa
-- **arXiv链接**：[http://arxiv.org/abs/2608.05887v1](http://arxiv.org/abs/2608.05887v1)
-
-### 摘要
-Strong electron correlations and band topology each generate rich quantum phases, but conflicting elemental requirements have largely kept them apart. Topological polarization offers a route to unite them, producing polar surface states from bonding charge without spin-orbit coupling and thereby extending band topology to correlated 3d transition-metal compounds. Here we demonstrate that epitaxial thin films of the narrow-gap insulator FeSb2 host metallic polar surface states of topological-polarization origin, governed by the strong correlations of the bulk. Nonreciprocal surface transport emerges only below the onset temperature of a correlation-driven reconstruction of the bulk Fe 3d orbital occupation, providing direct evidence of bulk-edge correspondence in a correlated topological system. Moreover, electrostatic gating drives this correlated surface across a quantum phase transition into a ferromagnetic or possibly altermagnetic state. Our results establish topological polarization as a design principle for correlated topological phases in a broad range of materials.
 
 ---
 
