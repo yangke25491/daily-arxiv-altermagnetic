@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-12 至 2026-09-11**
-> 数据检索到 **29** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-13 至 2026-09-12**
+> 数据检索到 **27** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -304,28 +304,6 @@ Altermagnets host non-relativistic spin-split electronic states whose microscopi
 
 ### 摘要
 Theoretical work predicts that Josephson junctions containing metallic altermagnetic barriers should display $0$-$π$ transitions of the critical current as a function of both barrier thickness and temperature, with the decay and oscillation period of the supercurrent depending on the orientation of the crystal axes relative to the transport direction. Motivated by these predictions, and by reports of a compensated magnetic phase attributed to altermagnetism in epitaxial Mn${}\_5$Si${}\_3$ thin films, we fabricate and measure Nb/Pt/Mn${}\_5$Si${}\_3$/Pt/Nb Josephson junctions varying the thickness of the Mn${}\_5$Si${}\_3$ barrier. The critical current decays as a single exponential over more than four orders of magnitude with decay length $ξ\_{\text{Mn}\_5\text{Si}\_3} = 0.31 \pm 0.03$ nm, shorter than reported for Josephson junctions containing the metallic antiferromagnets FeMn, Cr, and NiMn. The Mn${}\_5$Si${}\_3$ barrier has an estimated current-perpendicular-to-plane resistivity of $320 \pm 10 μΩ\,$cm. No $0$-$π$ transition is resolved at the sampled barrier thicknesses, and the temperature dependence of the critical current of a junction with a 1 nm barrier is smooth and monotonic. We discuss the absence of resolvable transitions in terms of the microstructure of the barrier, its uncertain magnetic phase, and the narrow thickness window imposed by the rapid decay, and identify barriers with well-defined crystalline orientation as the key requirement for future tests of altermagnetic Josephson physics.
-
----
-
-## 28. Two routes to quantum anomalous Hall states in altermagnets
-
-- **提交日期**：2026-08-12
-- **作者**：Makoto Naka, Shuntaro Sumita, Yukitoshi Motome, Hitoshi Seo
-- **arXiv链接**：[http://arxiv.org/abs/2608.12124v1](http://arxiv.org/abs/2608.12124v1)
-
-### 摘要
-We theoretically propose two possible routes to realizing quantum anomalous Hall states in altermagnetic materials. We consider a minimal square-lattice Hubbard model with antisymmetric spin-orbit coupling associated with an orthorhombic crystal structure, which supports a topologically trivial altermagnetic state. By incorporating Rashba-type spin-orbit coupling and external perturbations, we demonstrate that this trivial state can be turned into topological altermagnetic phases in two distinct ways. The first route is driven by a staggered potential that breaks the symmetry connecting crystallographically equivalent sublattices, leading to a topological altermagnetic ground state characterized by a quantized Hall conductivity $\left| σ\_{xy} \right|=e^2/h$ and a Chern number $C=1$. The second route is realized by applying a magnetic field perpendicular to the two-dimensional plane. The resulting topological state appears as a metastable state in the magnetic hysteresis loop, exhibiting a quantized Hall conductivity $\left| σ\_{xy} \right|=2e^2/h$ associated with a Chern number $C=2$. We show that these topological transitions are accompanied by characteristic gap closings at the Brillouin-zone boundary, with the number of gap-closing points determining the Chern number. Ribbon-geometry calculations reveal chiral edge states consistent with the bulk topological invariants and demonstrate distinct spin polarizations between the $C=1$ and $C=2$ states. Our results establish experimentally accessible routes to quantized anomalous Hall responses in altermagnets.
-
----
-
-## 29. Spin-polarized supercurrents and Josephson diode effect in altermagnets
-
-- **提交日期**：2026-08-12
-- **作者**：Janus F. Niebuhr, Matthias Eschrig, Danilo Nikolić
-- **arXiv链接**：[http://arxiv.org/abs/2608.11906v1](http://arxiv.org/abs/2608.11906v1)
-
-### 摘要
-We present a systematic theoretical study of the Josephson effect in junctions consisting of a d-wave altermagnet (AM) placed between two BCS superconductors (SC). In general, the SC/AM interfaces are spin-active and modeled by spin-dependent $δ$ potentials, allowing for an arbitrary direction of the local exchange field vector. The model is formulated within the fully quantum (Gor'kov) and quasiclassical (Eilenberger) Green's function technique, applied to two distinct cases of (i) a weakly spin-polarized AM (exchange field much smaller compared to the Fermi energy) and (ii) a strongly spin-polarized AM (exchange field comparable to the Fermi energy). We apply our model to the SC/AM/SC geometry, accounting for the Josephson current-phase relation (CPR). In the weakly spin-polarized regime, the CPR displays the normal Josephson effect. Irrespective of the orientation of the altermagnet, the junction undergoes the $0-π$ transition. Depending on the orientation, the system displays the features similar to those of a ferromagnetic or an antiferromagnetic junction. To investigate the spin-polarized currents and nonreciprocal transport as the central results of the present work, we put the main focus on the strongly spin-polarized regime. Within this regime, we distinguish two cases. A coplanar exchange field profile across the junctions displays the normal Josephson effect; however, with a pure and stable long-range second harmonic in the CPR. In contrast, a noncoplanar exchange field profile gives rise to the so-called quantum geometric phases across the junction, leading to the absence of the phase-inversion center in the Josephson CPR. As a result, a Josephson diode effect emerges with a significant charge diode efficiency larger than 30% and a perfect spin diode efficiency of 100%.
 
 ---
 
