@@ -5,12 +5,78 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-13 至 2026-09-12**
-> 数据检索到 **27** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-17 至 2026-09-16**
+> 数据检索到 **29** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Piezomagnetism in a model cubic noncollinear altermagnet
+## 1. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
+
+- **提交日期**：2026-09-14
+- **作者**：Motohiko Ezawa
+- **arXiv链接**：[http://arxiv.org/abs/2609.16084v1](http://arxiv.org/abs/2609.16084v1)
+
+### 摘要
+We study superconductors coupled with $X$-wave magnets with $X=p,d,f,g,i$. They are essentially different between altermagnets with $X=d,g,i$ and odd-parity magnets $X=p,f$ due to the compatibility of the spin-singlet formation of the $s$-wave superconductor. The altermagnets and odd-parity magnets show rich superconducting phase diagrams depending on the strength of the magnetic order, the chemical potential and the ratio of the on-site and nearest-neighbor interactions. Especially, we find that the altermagnetic order stabilizes the chiral ($p\_{x}+ip\_{y}$)-wave superconductor, which is a class D topological superconductor hosting Majorana chiral edge states. It is characterized by the Chern number. Especially, there emerge two chiral edge modes in the $i$-wave altermagnet, which are characterized by the Chern number 2. On the other hand, the $p$ ($f$)-wave odd-parity magnetic order stabilizes the $p$ ($f$)-wave topological superconductor, which is a class DIII topological superconductor hosting Majorana flat bands. It is characterized by the winding number. Majorana flat bands are robust in the presence of the mixing with the $s$-wave superconductivity, which is inevitable for odd-parity magnets although the magnitude of the mixing is tiny.
+
+---
+
+## 2. Altermagnetism across the BCS-BEC crossover
+
+- **提交日期**：2026-09-13
+- **作者**：Iogann Tolbatov, Luca Salasnich
+- **arXiv链接**：[http://arxiv.org/abs/2609.14613v1](http://arxiv.org/abs/2609.14613v1)
+
+### 摘要
+We study a two-dimensional paired Fermi system in which altermagnetism produces a spin splitting that depends on momentum. The interaction strength is described through the two-body binding energy, so that the chemical potential and pairing gap evolve self-consistently from the weak-coupling Bardeen-Cooper-Schrieffer (BCS) regime to the strong-coupling Bose-Einstein-condensate (BEC) regime at fixed density. The stability of the uniform paired state is examined by giving the pairs a small center-of-mass momentum and following the resulting change in free energy. We show that at zero temperature, the phase stiffness follows a universal quadratic suppression, $J/J\_0 = 1 - (α/α\_0)^2$, across the entire fully gapped crossover regime. Deviations from this relation emerge only on the BCS side upon the opening of gapless Bogoliubov pockets, which rapidly reduce the stiffness and can trigger an instability toward finite-momentum pairing. In the BEC regime, this universal quadratic correction corresponds to the altered effective mass of the tightly bound composite bosons. The model therefore provides a simple setting in which to compare altermagnetic pair breaking on the BCS and BEC sides of the crossover.
+
+---
+
+## 3. Vestigial altermagnetism
+
+- **提交日期**：2026-09-13
+- **作者**：Peng Rao, Johannes Knolle
+- **arXiv链接**：[http://arxiv.org/abs/2609.14228v1](http://arxiv.org/abs/2609.14228v1)
+
+### 摘要
+Interaction effects and fluctuations govern the phase diagram of systems with multiple competing phases. In particular, as individual phases are destroyed by increasing temperature, fluctuations can still produce a composite `vestigial' order given by a product of individual order parameters. Here, we describe vestigial Altermagnetism (AM) from the thermal melting of antiferromagnetic (AFM) and orbital orders (OO) on the square lattice. The coexistence of AFM and OO can give rise to conventional AM with ordering wave vector $\mathbf{Q}=(π,π)$. We show that a distinct `vestigial AM' phase with $\mathbf{Q}=0$ can arise from thermal melting of AFM and OO, and investigate its generic phase diagram. We find that the transition from the high-temperature disordered phase into the vestigial AM phase can be either first or second order, depending on the AFM and OO bare susceptibilities and their interactions. We then investigate the unique experimental signatures by calculating the electron spectral function for a minimal two-orbital model. Despite the fact that the vestigial AM order parameter does not couple to electrons directly, fluctuations dominate the self-energy corrections giving rise to a spin- and orbital-dependent quasi-particle lifetime with the AM symmetry.
+
+---
+
+## 4. Topological superconductivity in an altermagnet-superconductor heterostructure
+
+- **提交日期**：2026-09-11
+- **作者**：Michael Liudeng, Hrishikesh Patel, Marcel Franz, Niclas Heinsdorf
+- **arXiv链接**：[http://arxiv.org/abs/2609.13408v1](http://arxiv.org/abs/2609.13408v1)
+
+### 摘要
+Fully gapped spin-triplet superconductors offer a natural setting for topological edge transport and Majorana excitations. Here we propose a heterostructure that interfaces altermagnetic monolayer V${}\_2$Se${}\_2$O with a conventional $s$-wave superconductor. Starting from an ab-initio description of V${}\_2$Se${}\_2$O, we construct a low-energy model of its spin-split Fermi surface and study the superconducting instability of the coupled stack. We find that the momentum-dependent exchange splitting of the altermagnet strongly favors equal-spin pairing and converts the proximity-induced order into a fully gapped $p$-wave state. Over a broad range of interface parameters, the resulting Bogoliubov-de Gennes bands carry a nonzero Chern number, and slab spectra exhibit chiral Majorana edge modes traversing the bulk gap. We further quantify the inverse proximity effect and show how the induced gap evolves across a finite multilayer stack. These results establish a route to topological triplet superconductivity by interfacing a conventional superconductor with an experimentally available altermagnetic semiconductor, and provide practical guidance for interface fabrication and experimental detection.
+
+---
+
+## 5. Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices
+
+- **提交日期**：2026-09-11
+- **作者**：Börge Göbel, Ersoy Şaşıoğlu, Samir Lounis
+- **arXiv链接**：[http://arxiv.org/abs/2609.12956v1](http://arxiv.org/abs/2609.12956v1)
+
+### 摘要
+Altermagnets combine compensated antiferromagnetic order with ferromagnet-like signatures such as spin-polarized bands and, under appropriate conditions, an anomalous Hall response. Their characteristic momentum-dependent spin splitting originates from the interplay of magnetic order and crystal structure and therefore does not require spin-orbit coupling (SOC), whereas the anomalous Hall effect relies on SOC. This raises the question whether the ferromagnet-like transport character of altermagnets can manifest already in the nonrelativistic limit. Here, we investigate the transport of orbital angular momentum in magnetic Lieb lattices. We show that a collinear antiferromagnetic texture realizes a d-wave altermagnetic state and simultaneously generates an orbital Hall effect, both in the complete absence of SOC. In this nonrelativistic limit, the orbital Hall response closely resembles that of the corresponding ferromagnet. When SOC is included, the orbital Hall effect is accompanied by a spin Hall response, while the altermagnetic spin texture acquires a corresponding orbital texture, realizing orbital altermagnetism. In contrast, an anomalous, or crystal, Hall effect requires SOC and is additionally subject to crystal-symmetry constraints. We extend the analysis from d-wave altermagnetism to odd-parity p-wave magnetism, where the orbital Hall effect becomes anisotropic and the orbital conductivity tensor develops a symmetric transverse component analogous to the planar Hall response in charge transport. Our results establish the orbital Hall effect as a nonrelativistic transport manifestation of the close relation between altermagnets and ferromagnets and extend this connection to unconventional magnetic orders beyond altermagnetism.
+
+---
+
+## 6. Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism
+
+- **提交日期**：2026-09-11
+- **作者**：Joo Yull Rhee
+- **arXiv链接**：[http://arxiv.org/abs/2609.12931v1](http://arxiv.org/abs/2609.12931v1)
+
+### 摘要
+The spin splitting of collinear altermagnets is usually attributed to the crystal symmetry relating the opposite-spin sublattices --- a rotation or mirror in place of the translation or inversion of a conventional antiferromagnet. We show that this symmetry organizes the splitting but does not produce it; its origin is the anisotropic arrangement of the magnetic orbitals and their ligands, which also fixes the symmetry itself. Two results establish this. A triclinic ($P1$) \ce\{Mn\} oxide, a fully compensated ferrimagnet whose two inequivalent sublattices are related by no symmetry, is spin split throughout the Brillouin zone; repositioning the same ligands, atom for atom, to restore an inversion centre relating the two metal sites collapses the splitting to a residual two orders of magnitude smaller, so the splitting follows from the arrangement rather than the symmetry. Symmetry, we show formally, can only ever reverse or forbid a splitting that already exists: it cannot create one between sublattices an arrangement has left electronically identical, nor where the underlying orbitals carry no anisotropy to arrange in the first place. Organizing the analysis through an operation-resolved symmetry hierarchy and reading the crystal classes as a single axis, the enforced nodal planes fall from two to one to zero across the orthorhombic, monoclinic, and triclinic classes while the arrangement-generated splitting persists to the base. The altermagnet and the fully compensated ferrimagnet are thus the two ends of one axis --- the same splitting, organized by symmetry at one end and unorganized at the other --- and the search for compensated spin-split magnets is a search over orbital arrangements rather than symmetry labels.
+
+---
+
+## 7. Piezomagnetism in a model cubic noncollinear altermagnet
 
 - **提交日期**：2026-09-10
 - **作者**：Sudarshan Sharma, Luca Buiarelli, Richard Spieker, Ivan Jakovac, Damjan Pelc, Turan Birol, Martin Greven
@@ -21,18 +87,18 @@ Altermagnets constitute a distinct class of magnetic materials that combine comp
 
 ---
 
-## 2. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
+## 8. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
 
 - **提交日期**：2026-09-10
 - **作者**：Hao Dong, Xun-Jiang Luo, Xiao-Hong Pan, Xin Liu
-- **arXiv链接**：[http://arxiv.org/abs/2609.11633v1](http://arxiv.org/abs/2609.11633v1)
+- **arXiv链接**：[http://arxiv.org/abs/2609.11633v2](http://arxiv.org/abs/2609.11633v2)
 
 ### 摘要
-We exploit facet-dependent Andreev phase shifts to control topological superconductivity with a phase bias in a three-dimensional altermagnetic topological-insulator Josephson junction. In the weak link between two conventional s-wave superconductors, the d-wave altermagnetic order produces facet-dependent momentum shifts of the surface Dirac cones. The resulting net momentum of the states involved in Andreev reflection generates additional propagation phases that differ between facets. Consequently, the facet-resolved Andreev spectra exhibit gap closings at distinct phase biases, giving rise to topological superconducting regimes that host Majorana zero modes(MZMs). We further show that tuning the phase bias controls the spatial localization of these modes. The associated topological superconducting transitions are only weakly affected by moderate variations in the chemical potential, obviating the need for fine-tuning to the Dirac point. Our results establish a platform for realizing and spatially controlling MZMs by tuning the superconducting phase bias in altermagnetic topological-insulator Josephson junctions.
+We exploit facet-dependent Andreev phase shifts to control topological superconductivity with a phase bias in a three-dimensional altermagnetic topological-insulator Josephson junction. In the weak link between two conventional $s$-wave superconductors, the $d$-wave altermagnetic order produces anisotropic momentum shifts of the surface Dirac cones. The resulting net momentum of the states involved in Andreev reflection generates additional propagation phases that differ between facets. Consequently, the facet-resolved Andreev spectra exhibit gap closings at distinct phase biases, giving rise to topological superconducting regimes that host Majorana zero modes (MZMs). We further show that the spatial locations of the MZMs can be controlled by the phase bias. Moreover, these topological superconducting transitions are only weakly affected by moderate variations in the chemical potential, obviating the need for fine-tuning to the Dirac point. Our results establish a platform for realizing and spatially controlling MZMs by tuning the superconducting phase bias in altermagnetic topological-insulator Josephson junctions.
 
 ---
 
-## 3. A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets
+## 9. A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets
 
 - **提交日期**：2026-09-09
 - **作者**：Bishal Das, Chanchal K. Barman, Aftab Alam
@@ -43,7 +109,7 @@ Altermagnetism has recently emerged as a distinct collinear magnetic phase exhib
 
 ---
 
-## 4. Two-magnon response from light scattering in altermagnets
+## 10. Two-magnon response from light scattering in altermagnets
 
 - **提交日期**：2026-09-08
 - **作者**：Shuyi Li, Lexu Zhao, Chunjing Jia
@@ -54,7 +120,7 @@ Altermagnetism is a recently established class of magnetic order that combines f
 
 ---
 
-## 5. $g$-wave altermagnetic order parameter in hematite
+## 11. $g$-wave altermagnetic order parameter in hematite
 
 - **提交日期**：2026-09-08
 - **作者**：Tianren Wang, Yuehong Li, Yu Feng, Andong Liu, Yuetong Wu, Qian Zhao, Yujie Yan, Wei Luo, Xin Tong, Yi Lu, Yao Shen, Stefano Agrestini, Jaewon Choi, Qisi Wang
@@ -65,7 +131,7 @@ Altermagnets combine the vanishing net magnetization of antiferromagnets with mo
 
 ---
 
-## 6. Pair density wave order from non-symmorphic momentum symmetry
+## 12. Pair density wave order from non-symmorphic momentum symmetry
 
 - **提交日期**：2026-09-04
 - **作者**：Matteo Dürrnagel, C. Alexander Baum, Michael Klett, Lennart Klebl, Ronny Thomale
@@ -76,7 +142,7 @@ We develop a class of microscopic lattice models in which pair density wave orde
 
 ---
 
-## 7. Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF${}\_3$
+## 13. Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF${}\_3$
 
 - **提交日期**：2026-09-03
 - **作者**：C. A. Crawford, C. I. Hiley, N. C. Bristowe, C. Stock, J. Gainza, C. Ritter, M. R. Lees, R. I. Walton, M. S. Senn
@@ -87,7 +153,7 @@ Phase transitions are typically driven by symmetry-breaking structural distortio
 
 ---
 
-## 8. Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape
+## 14. Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape
 
 - **提交日期**：2026-09-03
 - **作者**：Tianxiao Liang, Fanhan Kong, Jijun Zhao, Xue Jiang
@@ -98,18 +164,18 @@ Rutile RuO2 is a prominent candidate for altermagnetism, yet its magnetic ground
 
 ---
 
-## 9. Moiré-induced altermagnetism from nonmagnetic constituents
+## 15. Moiré-induced altermagnetism from nonmagnetic constituents
 
 - **提交日期**：2026-09-03
 - **作者**：Jingtian Shi, Maxim Khodas, Ivar Martin
-- **arXiv链接**：[http://arxiv.org/abs/2609.03271v1](http://arxiv.org/abs/2609.03271v1)
+- **arXiv链接**：[http://arxiv.org/abs/2609.03271v2](http://arxiv.org/abs/2609.03271v2)
 
 ### 摘要
 We propose a mechanism for nonmagnetic materials to develop altermagnetic order by moiré interference with nonmagnetic substrate, which is driven by structural relaxation and spontaneous twirls in moiré domain walls of lattice-mismatched moiré square lattices. When doped with one electron per moiré domain, a correlated insulating gap is opened by electron interaction. Depending on the location of the moiré potential minima, the moiré bands can show d-wave or g-wave altermagnetic splitting. The former can be enhanced by a finite twist angle; the latter is sensitive to strains that drive a transition to d-wave.
 
 ---
 
-## 10. Anomalous Superfluid Response in Altermagnetic Superconductors
+## 16. Anomalous Superfluid Response in Altermagnetic Superconductors
 
 - **提交日期**：2026-09-02
 - **作者**：Christian Wiedemann, Danilo Nikolić, Matthias Eschrig, Wolfgang Belzig
@@ -120,7 +186,7 @@ We report on the emergence of the anomalous (paramagnetic) superfluid response i
 
 ---
 
-## 11. Observation of g-wave altermagnetic multipole
+## 17. Observation of g-wave altermagnetic multipole
 
 - **提交日期**：2026-09-02
 - **作者**：Ryo Misawa, Rikuto Oiwa, Shunsuke Kitou, Tatsuya Miki, Motohiko Ezawa, Weiyi Yun, Rinsuke Yamada, Chihaya Koyama, J. Alberto Rodríguez Velamazán, Kamil K. Kolincio, Navid Qureshi, Elina Zhakina, Yuiga Nakamura, Jan Masell, Ilya Belopolski, Taka-hisa Arima, Yusuke Nomura, Satoru Hayami, Max Hirschberger
@@ -131,7 +197,7 @@ Over the past few years, altermagnets have emerged as a new class of collinear m
 
 ---
 
-## 12. Correlation-Driven Nonlinear Magnetoelectric Response in an Altermagnet: A Dynamical Mean-Field Study
+## 18. Correlation-Driven Nonlinear Magnetoelectric Response in an Altermagnet: A Dynamical Mean-Field Study
 
 - **提交日期**：2026-09-01
 - **作者**：Robert Peters, Jun Ōiké
@@ -142,7 +208,7 @@ We investigate the optical nonlinear magnetoelectric effect (NMEE) in a strongly
 
 ---
 
-## 13. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
+## 19. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
 
 - **提交日期**：2026-08-30
 - **作者**：Narges Kia, Saeed H. Abedinpour, Zahra Faraei
@@ -153,7 +219,7 @@ The interplay between twist-angle engineering and unconventional magnetism provi
 
 ---
 
-## 14. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
+## 20. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
 
 - **提交日期**：2026-08-30
 - **作者**：Jianqi Zhong, Teng-Fei Ying, Jinyu Zou, Benjamin T. Zhou
@@ -164,7 +230,7 @@ The recent discovery of long-sought dice flat band in layered YCl electride has 
 
 ---
 
-## 15. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
+## 21. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
 
 - **提交日期**：2026-08-29
 - **作者**：Iurii Kibalin, Dalila Bounoua, José A. Rodriguez Velamazán, Oscar Fabelo, Navid Qureshi, Quentin Faure, Philippe Bourges, Victor Balédent, Jian-Rui Soh, Jeffrey Rau, Paul McClarty, Arsen Gukasov
@@ -175,7 +241,7 @@ Altermagnets are unconventional spin split magnets arising from the zero spin-or
 
 ---
 
-## 16. Multi-orbital physics in inverse Lieb lattice altermagnets
+## 22. Multi-orbital physics in inverse Lieb lattice altermagnets
 
 - **提交日期**：2026-08-27
 - **作者**：Mercè Roig, Jannik Gondolf, Andreas Kreisel, Brian M. Andersen, Daniel F. Agterberg
@@ -186,7 +252,7 @@ The inverse Lieb lattice has recently emerged as a promising platform for alterm
 
 ---
 
-## 17. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
+## 23. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
 
 - **提交日期**：2026-08-27
 - **作者**：Guowen Jiang, Feilong Wang, Yunhua Wang, Fawei Zheng, Bin Xi, Hong-Gang Luo, Jize Zhao
@@ -197,7 +263,7 @@ MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prot
 
 ---
 
-## 18. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
+## 24. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
 
 - **提交日期**：2026-08-26
 - **作者**：R. Ramazashvili, V. Shablenko, Ya. B. Bazaliy
@@ -208,7 +274,7 @@ We predict electric-dipole spin resonance (EDSR) in altermagnetic conductors: in
 
 ---
 
-## 19. Altermagnetic Anomalous Hall Effect and Spin--Edge-Locked Chiral Modes in a Modified Kane--Mele--Hubbard Model
+## 25. Altermagnetic Anomalous Hall Effect and Spin--Edge-Locked Chiral Modes in a Modified Kane--Mele--Hubbard Model
 
 - **提交日期**：2026-08-25
 - **作者**：Mohsen Hafez-Torbati, Alireza Qaiumzadeh
@@ -219,7 +285,7 @@ We establish a correlation-driven route to the altermagnetic anomalous Hall effe
 
 ---
 
-## 20. Two Microscopic Mechanisms of Piezomagnetism in CoF${}\_2$ from First-Principles Calculations
+## 26. Two Microscopic Mechanisms of Piezomagnetism in CoF${}\_2$ from First-Principles Calculations
 
 - **提交日期**：2026-08-25
 - **作者**：Hiroshi Katsumoto, Tamio Oguchi, Kunihiko Yamauchi
@@ -230,7 +296,7 @@ Rutile-structured CoF${}\_2$ has long been recognized as a prototypical piezomag
 
 ---
 
-## 21. Interaction-mediated Co-existence of Altermagnetism and Topology
+## 27. Interaction-mediated Co-existence of Altermagnetism and Topology
 
 - **提交日期**：2026-08-24
 - **作者**：Jasmin Bedow, Nitin Kaushal, Marcel Franz
@@ -241,7 +307,7 @@ We study an extended Hubbard model on Lieb lattice at electron filling 2 and 4, 
 
 ---
 
-## 22. Berry-Curvature Effect in Anomalous Transport
+## 28. Berry-Curvature Effect in Anomalous Transport
 
 - **提交日期**：2026-08-21
 - **作者**：V. P. Mineev
@@ -252,7 +318,7 @@ A theory of the Berry-phase effect in anomalous transport in ferromagnets driven
 
 ---
 
-## 23. Anti-spin Laue groups: classification of anti-altermagnets and their representative minimal models
+## 29. Anti-spin Laue groups: classification of anti-altermagnets and their representative minimal models
 
 - **提交日期**：2026-08-19
 - **作者**：Colin Lange, Rodrigo Jaeschke-Ubiergo, Alexander Mook, Jairo Sinova
@@ -260,50 +326,6 @@ A theory of the Berry-phase effect in anomalous transport in ferromagnets driven
 
 ### 摘要
 Anti-altermagnets exhibit odd-parity nonrelativistic spin splitting, yet unlike even-parity altermagnets, their momentum-space symmetries lack a reduced classification analogous to spin Laue groups. Here, we introduce anti-spin Laue groups, organized into three distinct classes, and identify 21 groups describing the odd-parity partial wave character of this unconventional class. Together with the 10 spin Laue groups of altermagnets, they complete the classification of nonrelativistic unconventional magnets with collinear momentum-space spin polarization. Anti-spin Laue groups also provide a many-to-one reduction of spin space (point) groups by retaining only their action on the collinear momentum-space spin polarization, thereby directly encoding the symmetry-enforced nodal spin-splitting character. Based on this we develop a systematic model-construction algorithm yielding minimal, material-oriented four-band models. This framework places odd- and even-parity unconventional magnets on equal footing within a unified momentum-space symmetry description.
-
----
-
-## 24. Topological Altermagnetic Insulators
-
-- **提交日期**：2026-08-16
-- **作者**：Jasmin Bedow, Nitin Kaushal, Marcel Franz
-- **arXiv链接**：[http://arxiv.org/abs/2608.15811v1](http://arxiv.org/abs/2608.15811v1)
-
-### 摘要
-We study the emergence of altermagnetic topological phases stabilized by Ising spin-orbit coupling in a prototypical Lieb lattice model of a correlated altermagnet. Treating the electron interactions within the Hartree-Fock and the exact diagonalization techniques, we establish the co-existence of a quantum spin Hall effect with altermagnetic spin order over a wide region of the parameter space for average electron densities of 2 and 4 per unit cell. We explore how the magnetic structure along edges influences the electronic behavior of the associated topological edge modes, demonstrating their robustness against inversion-symmetry breaking terms.
-
----
-
-## 25. Design of altermagnetism in oxide superlattices exploiting interface effects and quantum confinement
-
-- **提交日期**：2026-08-16
-- **作者**：Subhadeep Bandyopadhyay, Rossitza Pentcheva
-- **arXiv链接**：[http://arxiv.org/abs/2608.15765v1](http://arxiv.org/abs/2608.15765v1)
-
-### 摘要
-The discovery of altermagnetism has initiated intensive research and opened new avenues for spin- tronic and transport applications. While current efforts are mostly focused on bulk materials which are typically insulating, here we propose design strategies to achieve a combination of altermag- netism and metallicity in oxide superlattices by exploiting symmetry breaking, electrostatic doping and confinement. While bulk SrCrO3 does not exhibit altermagnetism due to compensating effects between adjacent layers our density functional theory calculations with a Hubbard U parameter re- veal, that a single SrCrO3 layer confined in a (SrCrO3)1/(SrTiO3)1(001) superlattice (SL) exhibits a sizable non-relativistic spin splitting (NRSS) up to 350 meV with bulk d-wave nature due to the coexistence of orbital ordering and octahedral rotations (OORs). Since this system is insulating, we extend to SrCrO3/LaCrO3(001) SLs. In the (SrCrO3)4/(LaCrO3)4(001) SL the combination of a polar discontinuity at the interface and stronger OORs promotes metallic d-wave altermagnetism. The NRSS of up to 120 meV is contributed by the interfacial Cr d bands at the Fermi level with indications for a spin-selective Fermi surface nesting. These findings establish oxide superlattices as a promising platform to realize and explore altermagnetism for quantum transport and spintronic functionalities
-
----
-
-## 26. Antiferroquadrupolar Order in Altermagnetic CoF${}\_2$
-
-- **提交日期**：2026-08-14
-- **作者**：Daniel Halliday, Laura Pöysti, Chung Xu, Daniel A. Mayoh, Didier Wermeille, Dharmalingam Prabhakaran, David R. Bowler, Roger D. Johnson
-- **arXiv链接**：[http://arxiv.org/abs/2608.14889v1](http://arxiv.org/abs/2608.14889v1)
-
-### 摘要
-Altermagnets host non-relativistic spin-split electronic states whose microscopic origin is theoretically linked to a hidden charge order, yet experimental studies of this charge order are limited. We therefore investigate charge order within CoF${}\_2$, a $d$-wave altermagnetic compound with a rutile crystal structure and $Γ$-point antiferromagnetism. Combining resonant elastic X-ray scattering, symmetry analysis and ab initio calculations, we directly observe charge ordering and identify it as antiferroquadrupolar in nature. Via electronic structure calculations, we show that the experimentally observed antiferroquadrupolar order gives rise to the characteristic altermagnetic spin-splitting, thereby establishing empirical evidence for the decomposition of the altermagnetic order parameter into magnetic and charge degrees of freedom. We hence demonstrate that antiferroquadrupolar order is the microscopic origin of altermagnetism in CoF${}\_2$, with implications to the wider family of rutile altermagnets. Furthermore, our approach is applicable to studying altermagnetism in general, having demonstrated that resonant elastic X-ray scattering can serve as a direct probe of the charge multipoles that underpin spin-split electronic states in these materials.
-
----
-
-## 27. Rapid supercurrent decay in Mn${}\_5$Si${}\_3$ Josephson junctions
-
-- **提交日期**：2026-08-14
-- **作者**：Arjun Sapkota, Kurt Lorenzen, Tyler Kuhn, Juan Gomez, Demet Korucu, Robert M. Klaes, Reza Loloee, Norman O. Birge, Nathan Satchell
-- **arXiv链接**：[http://arxiv.org/abs/2608.14842v1](http://arxiv.org/abs/2608.14842v1)
-
-### 摘要
-Theoretical work predicts that Josephson junctions containing metallic altermagnetic barriers should display $0$-$π$ transitions of the critical current as a function of both barrier thickness and temperature, with the decay and oscillation period of the supercurrent depending on the orientation of the crystal axes relative to the transport direction. Motivated by these predictions, and by reports of a compensated magnetic phase attributed to altermagnetism in epitaxial Mn${}\_5$Si${}\_3$ thin films, we fabricate and measure Nb/Pt/Mn${}\_5$Si${}\_3$/Pt/Nb Josephson junctions varying the thickness of the Mn${}\_5$Si${}\_3$ barrier. The critical current decays as a single exponential over more than four orders of magnitude with decay length $ξ\_{\text{Mn}\_5\text{Si}\_3} = 0.31 \pm 0.03$ nm, shorter than reported for Josephson junctions containing the metallic antiferromagnets FeMn, Cr, and NiMn. The Mn${}\_5$Si${}\_3$ barrier has an estimated current-perpendicular-to-plane resistivity of $320 \pm 10 μΩ\,$cm. No $0$-$π$ transition is resolved at the sampled barrier thicknesses, and the temperature dependence of the critical current of a junction with a 1 nm barrier is smooth and monotonic. We discuss the absence of resolvable transitions in terms of the microstructure of the barrier, its uncertain magnetic phase, and the narrow thickness window imposed by the rapid decay, and identify barriers with well-defined crystalline orientation as the key requirement for future tests of altermagnetic Josephson physics.
 
 ---
 
