@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-21 至 2026-09-20**
-> 数据检索到 **30** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-22 至 2026-09-21**
+> 数据检索到 **29** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -326,17 +326,6 @@ Rutile-structured CoF${}\_2$ has long been recognized as a prototypical piezomag
 
 ### 摘要
 We study an extended Hubbard model on Lieb lattice at electron filling 2 and 4, and demonstrate that the interactions lead to the simultaneous emergence of altermagnetic order and a topological gap. Using unrestricted Hartree-Fock theory, we evaluate both the altermagnetic and topological order parameters and show that they co-exist with an associated quantum spin Hall effect in a large region of the phase diagram, which we further support using exact diagonalization. Moreover, we demonstrate that inversion-symmetry breaking terms can also mediate second-order topological phases with associated corner modes.
-
----
-
-## 30. Berry-Curvature Effect in Anomalous Transport
-
-- **提交日期**：2026-08-21
-- **作者**：V. P. Mineev
-- **arXiv链接**：[http://arxiv.org/abs/2608.21161v1](http://arxiv.org/abs/2608.21161v1)
-
-### 摘要
-A theory of the Berry-phase effect in anomalous transport in ferromagnets driven by statistical forces such as the gradient of temperature or chemical potential has been developed by Di Xiao et al in Phys. Rev. Lett. 97, 026603 (2006) based on a field-dependent density of states generating an additional contribution to the current density. We present an alternative derivation of the Berry- phase effect in anomalous transport in altermagnets and noncentrosymmertric metals based on quasiclassic matrix kinetic equation. Along with anomalous Hall effect an anomalous heat flow and anomalous thermalelectric currents are also derived.
 
 ---
 
