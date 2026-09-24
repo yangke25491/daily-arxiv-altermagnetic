@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-24 至 2026-09-23**
-> 数据检索到 **33** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-25 至 2026-09-24**
+> 数据检索到 **32** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -359,17 +359,6 @@ We establish a correlation-driven route to the altermagnetic anomalous Hall effe
 
 ### 摘要
 Rutile-structured CoF${}\_2$ has long been recognized as a prototypical piezomagnetic material. Recently, it has attracted renewed interest as an altermagnet, exhibiting spin-split electronic bands even in the absence of spin-orbit coupling. Although the piezomagnetic response of CoF${}\_2$ has been extensively discussed from the viewpoint of magnetic symmetry, its microscopic origin has remained elusive. First-principles calculations reveal two distinct microscopic mechanisms of piezomagnetism in CoF${}\_2$. Under $xy$ shear strain, the local volumes of the CoF${}\_6$ octahedra surrounding the two Co sites become different, leading to unequal magnetic moments on the two sublattices and hence a net magnetization. In contrast, under $yz$ shear strain, the piezomagnetic response originates from spin canting induced by the Dzyaloshinskii--Moriya interaction through spin-orbit coupling. The presence of two distinct microscopic mechanisms may be a general feature of piezomagnetic antiferromagnets.
-
----
-
-## 33. Interaction-mediated Co-existence of Altermagnetism and Topology
-
-- **提交日期**：2026-08-24
-- **作者**：Jasmin Bedow, Nitin Kaushal, Marcel Franz
-- **arXiv链接**：[http://arxiv.org/abs/2608.23442v1](http://arxiv.org/abs/2608.23442v1)
-
-### 摘要
-We study an extended Hubbard model on Lieb lattice at electron filling 2 and 4, and demonstrate that the interactions lead to the simultaneous emergence of altermagnetic order and a topological gap. Using unrestricted Hartree-Fock theory, we evaluate both the altermagnetic and topological order parameters and show that they co-exist with an associated quantum spin Hall effect in a large region of the phase diagram, which we further support using exact diagonalization. Moreover, we demonstrate that inversion-symmetry breaking terms can also mediate second-order topological phases with associated corner modes.
 
 ---
 
