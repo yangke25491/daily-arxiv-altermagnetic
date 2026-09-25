@@ -5,12 +5,23 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-25 至 2026-09-24**
-> 数据检索到 **32** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-26 至 2026-09-25**
+> 数据检索到 **31** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
+## 1. Altermagnetic Kondo Logic via Floquet Symmetry Conversion
+
+- **提交日期**：2026-09-23
+- **作者**：Haojie Shen, Xinchen Zhou, Baigeng Wang, Rui Wang
+- **arXiv链接**：[http://arxiv.org/abs/2609.28680v1](http://arxiv.org/abs/2609.28680v1)
+
+### 摘要
+A common belief in Kondo physics is that a magnetic impurity can act as an efficient probe of key properties of its host bath. In altermagnets, however, this intuition fails in a symmetry-enforced way: the momentum-dependent spin splitting cancels in the local impurity spectrum, making a conventional single-impurity Kondo resonance essentially blind to the altermagnetic form factor. Here, we overcome this constraint by introducing Floquet symmetry conversion. We show that an in-plane AC field converts the hidden altermagnetic spin splitting into a locally detectable spin-dependent hybridization channel, which is further amplified by Kondo correlations into a novel altermagnetic Kondo effect. Remarkably, the Kondo splitting exhibits a nontrivial dependence on the field orientation and inherits the same crystalline form factor as the altermagnetic host, thereby serving as Kondo tomography of altermagnetic spin splitting. This field-controlled response further provides a natural route to symmetry-controlled Kondo logic gates. Our results establish a field-controllable altermagnetic Kondo effect, linking symmetry-resolved impurity spectroscopy to Kondo logic functionality.
+
+---
+
+## 2. Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
 
 - **提交日期**：2026-09-22
 - **作者**：Jian-Lin Li, Chien-Te Wu, Klaus Halterman
@@ -21,7 +32,7 @@ When ferromagnets are brought into contact with a superconductor, superconductin
 
 ---
 
-## 2. Comment on "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb"
+## 3. Comment on "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb"
 
 - **提交日期**：2026-09-21
 - **作者**：Igor I. Mazin, Maxim Khodas, Boris Nadgorny
@@ -32,7 +43,7 @@ Zhang et al. [Phys. Rev. Lett. 137, 016701 (2026)] report momentum-dependent spi
 
 ---
 
-## 3. Superconducting qubit based on altermagnets
+## 4. Superconducting qubit based on altermagnets
 
 - **提交日期**：2026-09-21
 - **作者**：Xue-Feng Pan, Xin-Lei Hei, Franco Nori, Peng-Bo Li
@@ -43,7 +54,7 @@ Altermagnets, characterized by vanishing net magnetization and momentum-dependen
 
 ---
 
-## 4. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
+## 5. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
 
 - **提交日期**：2026-09-19
 - **作者**：Marnin J. Di Nunzio, Frank Lechermann, Ilya M. Eremin
@@ -54,7 +65,7 @@ Altermagnets combine vanishing net magnetization with a momentum-dependent spin-
 
 ---
 
-## 5. Spacetime Dynamics of Altermagnetic Magnons
+## 6. Spacetime Dynamics of Altermagnetic Magnons
 
 - **提交日期**：2026-09-17
 - **作者**：Ali Emami Kopaei, Karthik Subramaniam Eswaran, Krzysztof Wohlfeld
@@ -65,7 +76,7 @@ Distinguishing altermagnetism from conventional ferromagnetism and antiferromagn
 
 ---
 
-## 6. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
+## 7. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
 
 - **提交日期**：2026-09-17
 - **作者**：Zhosan I. A., Lomachuk Yu. V., Maltsev D. A., Moiseev I. A., Andreev O. Yu
@@ -76,7 +87,7 @@ We present a multiconfigurational, relativistic embedded-cluster study of the lo
 
 ---
 
-## 7. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
+## 8. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
 
 - **提交日期**：2026-09-14
 - **作者**：Motohiko Ezawa
@@ -87,7 +98,7 @@ We study superconductors coupled with $X$-wave magnets with $X=p,d,f,g,i$. They 
 
 ---
 
-## 8. Altermagnetism across the BCS-BEC crossover
+## 9. Altermagnetism across the BCS-BEC crossover
 
 - **提交日期**：2026-09-13
 - **作者**：Iogann Tolbatov, Luca Salasnich
@@ -98,7 +109,7 @@ We study a two-dimensional paired Fermi system in which altermagnetism produces 
 
 ---
 
-## 9. Vestigial altermagnetism
+## 10. Vestigial altermagnetism
 
 - **提交日期**：2026-09-13
 - **作者**：Peng Rao, Johannes Knolle
@@ -109,7 +120,7 @@ Interaction effects and fluctuations govern the phase diagram of systems with mu
 
 ---
 
-## 10. Topological superconductivity in an altermagnet-superconductor heterostructure
+## 11. Topological superconductivity in an altermagnet-superconductor heterostructure
 
 - **提交日期**：2026-09-11
 - **作者**：Michael Liudeng, Hrishikesh Patel, Marcel Franz, Niclas Heinsdorf
@@ -120,7 +131,7 @@ Fully gapped spin-triplet superconductors offer a natural setting for topologica
 
 ---
 
-## 11. Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices
+## 12. Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices
 
 - **提交日期**：2026-09-11
 - **作者**：Börge Göbel, Ersoy Şaşıoğlu, Samir Lounis
@@ -131,7 +142,7 @@ Altermagnets combine compensated antiferromagnetic order with ferromagnet-like s
 
 ---
 
-## 12. Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism
+## 13. Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism
 
 - **提交日期**：2026-09-11
 - **作者**：Joo Yull Rhee
@@ -142,7 +153,7 @@ The spin splitting of collinear altermagnets is usually attributed to the crysta
 
 ---
 
-## 13. Piezomagnetism in a model cubic noncollinear altermagnet
+## 14. Piezomagnetism in a model cubic noncollinear altermagnet
 
 - **提交日期**：2026-09-10
 - **作者**：Sudarshan Sharma, Luca Buiarelli, Richard Spieker, Ivan Jakovac, Damjan Pelc, Turan Birol, Martin Greven
@@ -153,7 +164,7 @@ Altermagnets constitute a distinct class of magnetic materials that combine comp
 
 ---
 
-## 14. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
+## 15. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
 
 - **提交日期**：2026-09-10
 - **作者**：Hao Dong, Xun-Jiang Luo, Xiao-Hong Pan, Xin Liu
@@ -164,7 +175,7 @@ We exploit facet-dependent Andreev phase shifts to control topological supercond
 
 ---
 
-## 15. A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets
+## 16. A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets
 
 - **提交日期**：2026-09-09
 - **作者**：Bishal Das, Chanchal K. Barman, Aftab Alam
@@ -175,7 +186,7 @@ Altermagnetism has recently emerged as a distinct collinear magnetic phase exhib
 
 ---
 
-## 16. Two-magnon response from light scattering in altermagnets
+## 17. Two-magnon response from light scattering in altermagnets
 
 - **提交日期**：2026-09-08
 - **作者**：Shuyi Li, Lexu Zhao, Chunjing Jia
@@ -186,7 +197,7 @@ Altermagnetism is a recently established class of magnetic order that combines f
 
 ---
 
-## 17. $g$-wave altermagnetic order parameter in hematite
+## 18. $g$-wave altermagnetic order parameter in hematite
 
 - **提交日期**：2026-09-08
 - **作者**：Tianren Wang, Yuehong Li, Yu Feng, Andong Liu, Yuetong Wu, Qian Zhao, Yujie Yan, Wei Luo, Xin Tong, Yi Lu, Yao Shen, Stefano Agrestini, Jaewon Choi, Qisi Wang
@@ -197,7 +208,7 @@ Altermagnets combine the vanishing net magnetization of antiferromagnets with mo
 
 ---
 
-## 18. Pair density wave order from non-symmorphic momentum symmetry
+## 19. Pair density wave order from non-symmorphic momentum symmetry
 
 - **提交日期**：2026-09-04
 - **作者**：Matteo Dürrnagel, C. Alexander Baum, Michael Klett, Lennart Klebl, Ronny Thomale
@@ -208,7 +219,7 @@ We develop a class of microscopic lattice models in which pair density wave orde
 
 ---
 
-## 19. Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF${}\_3$
+## 20. Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF${}\_3$
 
 - **提交日期**：2026-09-03
 - **作者**：C. A. Crawford, C. I. Hiley, N. C. Bristowe, C. Stock, J. Gainza, C. Ritter, M. R. Lees, R. I. Walton, M. S. Senn
@@ -219,7 +230,7 @@ Phase transitions are typically driven by symmetry-breaking structural distortio
 
 ---
 
-## 20. Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape
+## 21. Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape
 
 - **提交日期**：2026-09-03
 - **作者**：Tianxiao Liang, Fanhan Kong, Jijun Zhao, Xue Jiang
@@ -230,7 +241,7 @@ Rutile RuO2 is a prominent candidate for altermagnetism, yet its magnetic ground
 
 ---
 
-## 21. Moiré-induced altermagnetism from nonmagnetic constituents
+## 22. Moiré-induced altermagnetism from nonmagnetic constituents
 
 - **提交日期**：2026-09-03
 - **作者**：Jingtian Shi, Maxim Khodas, Ivar Martin
@@ -241,7 +252,7 @@ We propose a mechanism for nonmagnetic materials to develop altermagnetic order 
 
 ---
 
-## 22. Anomalous Superfluid Response in Altermagnetic Superconductors
+## 23. Anomalous Superfluid Response in Altermagnetic Superconductors
 
 - **提交日期**：2026-09-02
 - **作者**：Christian Wiedemann, Danilo Nikolić, Matthias Eschrig, Wolfgang Belzig
@@ -252,7 +263,7 @@ We report on the emergence of the anomalous (paramagnetic) superfluid response i
 
 ---
 
-## 23. Observation of g-wave altermagnetic multipole
+## 24. Observation of g-wave altermagnetic multipole
 
 - **提交日期**：2026-09-02
 - **作者**：Ryo Misawa, Rikuto Oiwa, Shunsuke Kitou, Tatsuya Miki, Motohiko Ezawa, Weiyi Yun, Rinsuke Yamada, Chihaya Koyama, J. Alberto Rodríguez Velamazán, Kamil K. Kolincio, Navid Qureshi, Elina Zhakina, Yuiga Nakamura, Jan Masell, Ilya Belopolski, Taka-hisa Arima, Yusuke Nomura, Satoru Hayami, Max Hirschberger
@@ -263,7 +274,7 @@ Over the past few years, altermagnets have emerged as a new class of collinear m
 
 ---
 
-## 24. Correlation-Driven Nonlinear Magnetoelectric Response in an Altermagnet: A Dynamical Mean-Field Study
+## 25. Correlation-Driven Nonlinear Magnetoelectric Response in an Altermagnet: A Dynamical Mean-Field Study
 
 - **提交日期**：2026-09-01
 - **作者**：Robert Peters, Jun Ōiké
@@ -274,7 +285,7 @@ We investigate the optical nonlinear magnetoelectric effect (NMEE) in a strongly
 
 ---
 
-## 25. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
+## 26. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
 
 - **提交日期**：2026-08-30
 - **作者**：Narges Kia, Saeed H. Abedinpour, Zahra Faraei
@@ -285,7 +296,7 @@ The interplay between twist-angle engineering and unconventional magnetism provi
 
 ---
 
-## 26. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
+## 27. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
 
 - **提交日期**：2026-08-30
 - **作者**：Jianqi Zhong, Teng-Fei Ying, Jinyu Zou, Benjamin T. Zhou
@@ -296,7 +307,7 @@ The recent discovery of long-sought dice flat band in layered YCl electride has 
 
 ---
 
-## 27. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
+## 28. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
 
 - **提交日期**：2026-08-29
 - **作者**：Iurii Kibalin, Dalila Bounoua, José A. Rodriguez Velamazán, Oscar Fabelo, Navid Qureshi, Quentin Faure, Philippe Bourges, Victor Balédent, Jian-Rui Soh, Jeffrey Rau, Paul McClarty, Arsen Gukasov
@@ -307,7 +318,7 @@ Altermagnets are unconventional spin split magnets arising from the zero spin-or
 
 ---
 
-## 28. Multi-orbital physics in inverse Lieb lattice altermagnets
+## 29. Multi-orbital physics in inverse Lieb lattice altermagnets
 
 - **提交日期**：2026-08-27
 - **作者**：Mercè Roig, Jannik Gondolf, Andreas Kreisel, Brian M. Andersen, Daniel F. Agterberg
@@ -318,7 +329,7 @@ The inverse Lieb lattice has recently emerged as a promising platform for alterm
 
 ---
 
-## 29. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
+## 30. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
 
 - **提交日期**：2026-08-27
 - **作者**：Guowen Jiang, Feilong Wang, Yunhua Wang, Fawei Zheng, Bin Xi, Hong-Gang Luo, Jize Zhao
@@ -329,7 +340,7 @@ MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prot
 
 ---
 
-## 30. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
+## 31. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
 
 - **提交日期**：2026-08-26
 - **作者**：R. Ramazashvili, V. Shablenko, Ya. B. Bazaliy
@@ -337,28 +348,6 @@ MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prot
 
 ### 摘要
 We predict electric-dipole spin resonance (EDSR) in altermagnetic conductors: in a magnetic field ${\mathbf H}\_\perp$, perpendicular to the magnetization axis, an AC electric field will induce a spin resonance peak above the lower threshold frequency $ω\_- = 2H\_\perp$. In sufficiently clean samples, this peak shall be clearly visible on the background of ohmic absorption. EDSR can thus serve as a diagnostic of altermagnetism in conducting materials and as a means to distinguish it from higher-symmetry antiferromagnetic order.
-
----
-
-## 31. Altermagnetic Anomalous Hall Effect and Spin--Edge-Locked Chiral Modes in a Modified Kane--Mele--Hubbard Model
-
-- **提交日期**：2026-08-25
-- **作者**：Mohsen Hafez-Torbati, Alireza Qaiumzadeh
-- **arXiv链接**：[http://arxiv.org/abs/2608.24408v1](http://arxiv.org/abs/2608.24408v1)
-
-### 摘要
-We establish a correlation-driven route to the altermagnetic anomalous Hall effect (AHE) and its associated spin--edge-locked edge states in a modified Kane--Mele--Hubbard model. Using dynamical mean-field theory (DMFT), we show that, at half-filling, increasing the Hubbard interaction drives the system from a metallic paramagnetic phase hosting antichiral edge states into an insulating in-plane Néel-type antiferromagnetic phase, in which a residual antiunitary symmetry forbids the AHE. Hole doping induces a spin-flop transition to an out-of-plane Néel-type antiferromagnetic phase, thereby breaking this symmetry and generating a finite anomalous Hall conductivity that persists into the strongly correlated regime. Distinct from a conventional spin-polarized Hall response in ferromagnets, the altermagnetic AHE receives equal and additive contributions from the two symmetry-related spin sectors and is accompanied by spin--edge-locked chiral states. Our results demonstrate that carrier doping and spin-rotationally invariant Hubbard interactions are sufficient to realize the altermagnetic AHE, without invoking an explicitly Ising-like interaction, and provide a realistic microscopic route toward its realization in correlated transition metal dichalcogenides monolayers.
-
----
-
-## 32. Two Microscopic Mechanisms of Piezomagnetism in CoF${}\_2$ from First-Principles Calculations
-
-- **提交日期**：2026-08-25
-- **作者**：Hiroshi Katsumoto, Tamio Oguchi, Kunihiko Yamauchi
-- **arXiv链接**：[http://arxiv.org/abs/2608.24227v1](http://arxiv.org/abs/2608.24227v1)
-
-### 摘要
-Rutile-structured CoF${}\_2$ has long been recognized as a prototypical piezomagnetic material. Recently, it has attracted renewed interest as an altermagnet, exhibiting spin-split electronic bands even in the absence of spin-orbit coupling. Although the piezomagnetic response of CoF${}\_2$ has been extensively discussed from the viewpoint of magnetic symmetry, its microscopic origin has remained elusive. First-principles calculations reveal two distinct microscopic mechanisms of piezomagnetism in CoF${}\_2$. Under $xy$ shear strain, the local volumes of the CoF${}\_6$ octahedra surrounding the two Co sites become different, leading to unequal magnetic moments on the two sublattices and hence a net magnetization. In contrast, under $yz$ shear strain, the piezomagnetic response originates from spin canting induced by the Dzyaloshinskii--Moriya interaction through spin-orbit coupling. The presence of two distinct microscopic mechanisms may be a general feature of piezomagnetic antiferromagnets.
 
 ---
 
