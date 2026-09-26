@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-26 至 2026-09-25**
-> 数据检索到 **31** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-27 至 2026-09-26**
+> 数据检索到 **30** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -337,17 +337,6 @@ The inverse Lieb lattice has recently emerged as a promising platform for alterm
 
 ### 摘要
 MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prototypical altermagnet, yet the sublattice-odd exchange that defines this identity remains under active debate: it enters the magnon splitting only in quadrature with the dipole--dipole interaction, its magnitude suppressed and its sign erased. An overdetermined first-principles total-energy mapping resolves this scale as a seventh-neighbor imbalance $δ{J\_7}\simeq+8~μ$eV. The resulting Hamiltonian, with the dipole--dipole interaction included explicitly, reproduces the low-energy gap and the visible finite-momentum splitting. A longitudinal field $B\parallel c$ then acts as a linear amplifier of the hidden scale, opening two signed, field-linear readouts. The first is the compensation field $B^\ast(\mathbf Q)$, the position of minimum splitting, which is equal and opposite at the rotation-related partner momenta: a shift from zero field is itself evidence of a finite imbalance, its side gives the sign, and its magnitude, $|B^\ast|\simeq0.34$~T here, gives the scale. The second is the fixed-field contrast of the partner splittings, $\simeq0.14$~meV at $1$~T, six times the zero-field excess: a sign check from just two spectra. Both readouts survive a $0.12$~meV energy resolution, and the construction carries over to any easy-axis collinear altermagnet, bringing $μ$eV altermagnetic exchange within present instrumental reach.
-
----
-
-## 31. Electric excitation of spin resonance in altermagnetic and antiferromagnetic conductors
-
-- **提交日期**：2026-08-26
-- **作者**：R. Ramazashvili, V. Shablenko, Ya. B. Bazaliy
-- **arXiv链接**：[http://arxiv.org/abs/2608.25265v1](http://arxiv.org/abs/2608.25265v1)
-
-### 摘要
-We predict electric-dipole spin resonance (EDSR) in altermagnetic conductors: in a magnetic field ${\mathbf H}\_\perp$, perpendicular to the magnetization axis, an AC electric field will induce a spin resonance peak above the lower threshold frequency $ω\_- = 2H\_\perp$. In sufficiently clean samples, this peak shall be clearly visible on the background of ohmic absorption. EDSR can thus serve as a diagnostic of altermagnetism in conducting materials and as a means to distinguish it from higher-symmetry antiferromagnetic order.
 
 ---
 
