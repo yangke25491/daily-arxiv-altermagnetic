@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-27 至 2026-09-26**
-> 数据检索到 **30** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-28 至 2026-09-27**
+> 数据检索到 **28** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -315,28 +315,6 @@ The recent discovery of long-sought dice flat band in layered YCl electride has 
 
 ### 摘要
 Altermagnets are unconventional spin split magnets arising from the zero spin-orbit coupled limit. They host a magnetic multipolar order parameter yet direct real-space observation of these multipoles has remained elusive. Here we use polarized-neutron diffraction to reconstruct the three-dimensional magnetization density of the prototypical altermagnet MnF${}\_2$. By exploiting symmetry-selective magnetic reflections, we separate the dominant spherical Mn$^{2+}$ contribution from the much weaker anisotropic Mn magnetization and the covalent spin polarization of the fluorine ligands. The reconstructed spin density reveals a finite fluorine ion moment together with an anisotropic Mn magnetization consistent with the symmetry-allowed altermagnetic rank-5 magnetic multipole $O\_{52}$(magnetic triacontadipole). These results provide direct real-space evidence of ferroic multipolar order in an altermagnet and establish polarized-neutron diffraction as a powerful probe of hidden magnetic multipoles in quantum materials.
-
----
-
-## 29. Multi-orbital physics in inverse Lieb lattice altermagnets
-
-- **提交日期**：2026-08-27
-- **作者**：Mercè Roig, Jannik Gondolf, Andreas Kreisel, Brian M. Andersen, Daniel F. Agterberg
-- **arXiv链接**：[http://arxiv.org/abs/2608.27200v1](http://arxiv.org/abs/2608.27200v1)
-
-### 摘要
-The inverse Lieb lattice has recently emerged as a promising platform for altermagnetism, with several materials with this structure proposed as $d$-wave altermagnetic candidates. Here, we develop a symmetry-based microscopic Hamiltonian for these materials that includes both sublattice and orbital degrees of freedom, going beyond the sublattice-only minimal models that have been extensively used to study such altermagnets. We apply these models to examine multi-orbital electron correlation physics in the vanadium oxychalcogenide family altermagnets, which contain dominant $xy$ and $xz/yz$ orbitals character at the Fermi level in the altermagnetic state. We demonstrate that $xy$ orbitals are crucial to stabilize the altermagnetic state observed within a single V${}\_2$O layer, and altermagnetic order in the $xz/yz$ orbitals is induced through Hund's coupling. Additionally, we show that these multi-orbital models reveal topological regimes in which topological edge states are naturally orbital selective.
-
----
-
-## 30. Field-amplified readouts of weak altermagnetic exchange in MnF${}\_2$
-
-- **提交日期**：2026-08-27
-- **作者**：Guowen Jiang, Feilong Wang, Yunhua Wang, Fawei Zheng, Bin Xi, Hong-Gang Luo, Jize Zhao
-- **arXiv链接**：[http://arxiv.org/abs/2608.26540v2](http://arxiv.org/abs/2608.26540v2)
-
-### 摘要
-MnF${}\_2$, the textbook two-sublattice antiferromagnet, has reemerged as a prototypical altermagnet, yet the sublattice-odd exchange that defines this identity remains under active debate: it enters the magnon splitting only in quadrature with the dipole--dipole interaction, its magnitude suppressed and its sign erased. An overdetermined first-principles total-energy mapping resolves this scale as a seventh-neighbor imbalance $δ{J\_7}\simeq+8~μ$eV. The resulting Hamiltonian, with the dipole--dipole interaction included explicitly, reproduces the low-energy gap and the visible finite-momentum splitting. A longitudinal field $B\parallel c$ then acts as a linear amplifier of the hidden scale, opening two signed, field-linear readouts. The first is the compensation field $B^\ast(\mathbf Q)$, the position of minimum splitting, which is equal and opposite at the rotation-related partner momenta: a shift from zero field is itself evidence of a finite imbalance, its side gives the sign, and its magnitude, $|B^\ast|\simeq0.34$~T here, gives the scale. The second is the fixed-field contrast of the partner splittings, $\simeq0.14$~meV at $1$~T, six times the zero-field excess: a sign check from just two spectra. Both readouts survive a $0.12$~meV energy resolution, and the construction carries over to any easy-axis collinear altermagnet, bringing $μ$eV altermagnetic exchange within present instrumental reach.
 
 ---
 
