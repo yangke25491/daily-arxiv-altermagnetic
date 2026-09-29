@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-29 至 2026-09-28**
-> 数据检索到 **30** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-30 至 2026-09-29**
+> 数据检索到 **29** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -326,17 +326,6 @@ The interplay between twist-angle engineering and unconventional magnetism provi
 
 ### 摘要
 The recent discovery of long-sought dice flat band in layered YCl electride has opened up rich possibilities of correlation and topological physics in dice lattice systems [Nature Communications 17, 2213 (2026), arXiv:2509.05958]. Here, we reveal a plethora of distinctive correlated topological phases in a generic layered dice lattice system at band filling of $ν=4$ under on-site Hubbard interactions: (i) the system is an intrinsic sublattice anti-ferromagnetic (AFM) quantum spin-valley Hall insulator; (ii) a circularly polarized light (CPL) drives the AFM spin-valley insulator into a Floquet odd-parity $f$-wave altermagnet(AM) insulator; (iii) a vertical displacement field turns the Floquet $f$-wave AM insulator into a spin-valley-layer-polarized Chern insulator, with the sign of spin, valley and Chern number all controlled by the direction of the displacement field. Our results not only establish the layered dice lattice as a versatile platform for electrically switchable magnetic and topological phases, but also provide an all-electrical scheme for integrated spin-valley-layertronics for non-volatile information storage and processing.
-
----
-
-## 30. Real-space manifestation of ferroic multipoles in altermagnetic MnF${}\_2$
-
-- **提交日期**：2026-08-29
-- **作者**：Iurii Kibalin, Dalila Bounoua, José A. Rodriguez Velamazán, Oscar Fabelo, Navid Qureshi, Quentin Faure, Philippe Bourges, Victor Balédent, Jian-Rui Soh, Jeffrey Rau, Paul McClarty, Arsen Gukasov
-- **arXiv链接**：[http://arxiv.org/abs/2608.29089v1](http://arxiv.org/abs/2608.29089v1)
-
-### 摘要
-Altermagnets are unconventional spin split magnets arising from the zero spin-orbit coupled limit. They host a magnetic multipolar order parameter yet direct real-space observation of these multipoles has remained elusive. Here we use polarized-neutron diffraction to reconstruct the three-dimensional magnetization density of the prototypical altermagnet MnF${}\_2$. By exploiting symmetry-selective magnetic reflections, we separate the dominant spherical Mn$^{2+}$ contribution from the much weaker anisotropic Mn magnetization and the covalent spin polarization of the fluorine ligands. The reconstructed spin density reveals a finite fluorine ion moment together with an anisotropic Mn magnetization consistent with the symmetry-allowed altermagnetic rank-5 magnetic multipole $O\_{52}$(magnetic triacontadipole). These results provide direct real-space evidence of ferroic multipolar order in an altermagnet and establish polarized-neutron diffraction as a powerful probe of hidden magnetic multipoles in quantum materials.
 
 ---
 
