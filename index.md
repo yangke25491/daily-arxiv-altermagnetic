@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-08-30 至 2026-09-29**
-> 数据检索到 **29** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-08-31 至 2026-09-30**
+> 数据检索到 **27** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -69,10 +69,10 @@ Zhang et al. [Phys. Rev. Lett. 137, 016701 (2026)] report momentum-dependent spi
 
 - **提交日期**：2026-09-21
 - **作者**：Xue-Feng Pan, Xin-Lei Hei, Franco Nori, Peng-Bo Li
-- **arXiv链接**：[http://arxiv.org/abs/2609.24759v1](http://arxiv.org/abs/2609.24759v1)
+- **arXiv链接**：[http://arxiv.org/abs/2609.24759v2](http://arxiv.org/abs/2609.24759v2)
 
 ### 摘要
-Altermagnets, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a promising platform for next-generation Josephson devices. Here, we exploit the Josephson effect in superconductor-altermagnet-superconductor junctions and show how to engineer prescribed current-phase relations by device design. Based on these programmable Josephson potentials utilizing altermagnetism, we propose a new class of transmon-like superconducting qubits that combine large anharmonicity with enhanced robustness against decoherence via coherent two-Cooper-pair tunneling. We show that in the $2φ$-junction regime, this kind of qubit provides intrinsic protection against charge noise due to parity protection. Magnetic flux can be used to precisely control the qubit and, under appropriate bias, this architecture further suppresses charge and flux noise. Our results establish altermagnets as a versatile platform for Josephson-potential engineering and open a new route toward high-performance superconducting qubits combining high coherence, large anharmonicity, and broad tunability.
+Altermagnets, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a promising platform for next-generation Josephson devices. Here, we exploit the Josephson effect in superconductor-altermagnet-superconductor junctions and show how to engineer prescribed current-phase relations by device design. Based on these programmable Josephson potentials utilizing altermagnetism, we propose a new class of superconducting qubits that combine large anharmonicity with enhanced robustness against decoherence via coherent two-Cooper-pair tunneling. We show that in the $2φ$-junction regime, this kind of qubit is intrinsically protected against both charge and flux noise due to parity protection. Magnetic flux can be used to precisely control the qubit and, under appropriate bias, this architecture further suppresses charge and flux noise. Our results establish altermagnets as a versatile platform for Josephson-potential engineering and open a new route toward high-performance superconducting qubits combining high coherence, large anharmonicity, and broad tunability.
 
 ---
 
@@ -304,28 +304,6 @@ Over the past few years, altermagnets have emerged as a new class of collinear m
 
 ### 摘要
 We investigate the optical nonlinear magnetoelectric effect (NMEE) in a strongly correlated altermagnet using dynamical mean-field theory. Unlike effective band descriptions with an imposed spin splitting, our approach determines the altermagnetic order, electronic spectrum, and optical nonlinear response self-consistently. We find that the NMEE is finite in the altermagnetic phase and vanishes in the paramagnetic phase. Its frequency dependence reflects the spin-resolved spectral structure and provides an estimate of the characteristic altermagnetic spin-splitting scale. Interaction and temperature tuning produce qualitatively different behavior: at low temperature, reducing the interaction strength toward the interaction-driven magnetic phase boundary enhances the response, whereas increasing the temperature suppresses it and drives it to zero above the critical temperature. These results establish the optical NMEE as a probe of correlated altermagnetic order and suggest that tuning parameters such as pressure, strain, or chemical substitution toward an interaction-driven phase boundary may provide a promising route to maximizing the response.
-
----
-
-## 28. Twist-Tunable Paramagnetic Superconductivity in $d$-wave Altermagnet/Superconductor Heterostructures
-
-- **提交日期**：2026-08-30
-- **作者**：Narges Kia, Saeed H. Abedinpour, Zahra Faraei
-- **arXiv链接**：[http://arxiv.org/abs/2608.30010v1](http://arxiv.org/abs/2608.30010v1)
-
-### 摘要
-The interplay between twist-angle engineering and unconventional magnetism provides a powerful new route to control quantum phenomena. We theoretically investigate a heterostructure comprising a $d$-wave superconductor proximitized by a two-dimensional $d$-wave altermagnet. We reveal that the momentum-space mismatch between the superconducting gap nodes and the altermagnetic spin-splitting nodes generates a robust, twist-tunable odd-frequency spin-triplet pairing. Consequently, the macroscopic electromagnetic response of the system can be tuned from a conventional diamagnetic Meissner state to an anomalous paramagnetic Meissner effect driven entirely by the interfacial twist angle. For a $d\_{x^2-y^2}$ altermagnet, the paramagnetic response is maximized at perfect alignment ($φ=0$) and completely suppressed at a maximal twist of $φ=π/4$, while a $d\_{xy}$ altermagnet exhibits the exact complementary behavior. Our results establish twisted altermagnetic heterostructures as a versatile platform for engineering odd-frequency pairing and macroscopic superconducting phases.
-
----
-
-## 29. Floquet Topological Spin-Valley-Layertronics on a Layered Dice Lattice
-
-- **提交日期**：2026-08-30
-- **作者**：Jianqi Zhong, Teng-Fei Ying, Jinyu Zou, Benjamin T. Zhou
-- **arXiv链接**：[http://arxiv.org/abs/2608.29833v1](http://arxiv.org/abs/2608.29833v1)
-
-### 摘要
-The recent discovery of long-sought dice flat band in layered YCl electride has opened up rich possibilities of correlation and topological physics in dice lattice systems [Nature Communications 17, 2213 (2026), arXiv:2509.05958]. Here, we reveal a plethora of distinctive correlated topological phases in a generic layered dice lattice system at band filling of $ν=4$ under on-site Hubbard interactions: (i) the system is an intrinsic sublattice anti-ferromagnetic (AFM) quantum spin-valley Hall insulator; (ii) a circularly polarized light (CPL) drives the AFM spin-valley insulator into a Floquet odd-parity $f$-wave altermagnet(AM) insulator; (iii) a vertical displacement field turns the Floquet $f$-wave AM insulator into a spin-valley-layer-polarized Chern insulator, with the sign of spin, valley and Chern number all controlled by the direction of the displacement field. Our results not only establish the layered dice lattice as a versatile platform for electrically switchable magnetic and topological phases, but also provide an all-electrical scheme for integrated spin-valley-layertronics for non-volatile information storage and processing.
 
 ---
 
