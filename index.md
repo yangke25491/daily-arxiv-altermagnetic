@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-02 至 2026-10-02**
-> 数据检索到 **29** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-03 至 2026-10-03**
+> 数据检索到 **27** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -304,28 +304,6 @@ Rutile RuO2 is a prominent candidate for altermagnetism, yet its magnetic ground
 
 ### 摘要
 We propose a mechanism for nonmagnetic materials to develop altermagnetic order by moiré interference with nonmagnetic substrate, which is driven by structural relaxation and spontaneous twirls in moiré domain walls of lattice-mismatched moiré square lattices. When doped with one electron per moiré domain, a correlated insulating gap is opened by electron interaction. Depending on the location of the moiré potential minima, the moiré bands can show d-wave or g-wave altermagnetic splitting. The former can be enhanced by a finite twist angle; the latter is sensitive to strains that drive a transition to d-wave.
-
----
-
-## 28. Anomalous Superfluid Response in Altermagnetic Superconductors
-
-- **提交日期**：2026-09-02
-- **作者**：Christian Wiedemann, Danilo Nikolić, Matthias Eschrig, Wolfgang Belzig
-- **arXiv链接**：[http://arxiv.org/abs/2609.02263v1](http://arxiv.org/abs/2609.02263v1)
-
-### 摘要
-We report on the emergence of the anomalous (paramagnetic) superfluid response in altermagnetic superconductors at arbitrary impurity concentrations. Due to anisotropic gapless superconductivity, altermagnetic superconductors with an out-of-plane Zeeman field display an anisotropic paramagnetic Meissner effect. The effect is strongest for parallel altermagnetic and Zeeman exchange field vectors and in the clean sample. The presence of nonmagnetic impurities leads to isotropisation and, consequently, weakens the effect; however, the paramagnetic response sustains intermediate amounts of impurities in the system. As demonstrated in recent experiments, microwave superfluid stiffness measurements can serve as a sensitive probe of gapless superconductivity.
-
----
-
-## 29. Observation of g-wave altermagnetic multipole
-
-- **提交日期**：2026-09-02
-- **作者**：Ryo Misawa, Rikuto Oiwa, Shunsuke Kitou, Tatsuya Miki, Motohiko Ezawa, Weiyi Yun, Rinsuke Yamada, Chihaya Koyama, J. Alberto Rodríguez Velamazán, Kamil K. Kolincio, Navid Qureshi, Elina Zhakina, Yuiga Nakamura, Jan Masell, Ilya Belopolski, Taka-hisa Arima, Yusuke Nomura, Satoru Hayami, Max Hirschberger
-- **arXiv链接**：[http://arxiv.org/abs/2609.01969v1](http://arxiv.org/abs/2609.01969v1)
-
-### 摘要
-Over the past few years, altermagnets have emerged as a new class of collinear magnets with broken time-reversal symmetry, offering novel opportunities for spintronics beyond conventional magnets. Rather than from net magnetization, as in ferromagnets, the unconventional time-reversal symmetry breaking of altermagnets originates from antiferroic magnetic dipoles locked to higher-order multipoles. Here we report the direct visualization of a $g$-wave altermagnetic multipole in the canonical altermagnet CrSb. Combining high-energy synchrotron X-ray diffraction with valence electron density (VED) analysis, we uncover a pronounced directional anisotropy of the VED distribution alternating between Cr sublattices. This evidences the antiferroic order of electric hexadecapoles predicted in $g$-wave altermagnets. Its coexistence with antiferroic magnetic dipoles induces ferroic magnetic multipoles, as probed by polarized neutron diffraction. We further identify a microscopic model of altermagnetism that directly relates the $g$-wave multipole and the $g$-wave spin splitting. Through direct observation and quantification of multipoles, this study provides a real-space fingerprint of altermagnetism and establishes a general probe of hidden multipole order in quantum materials.
 
 ---
 
