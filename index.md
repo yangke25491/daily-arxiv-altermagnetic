@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-03 至 2026-10-03**
-> 数据检索到 **27** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-04 至 2026-10-04**
+> 数据检索到 **24** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -271,39 +271,6 @@ Altermagnets combine the vanishing net magnetization of antiferromagnets with mo
 
 ### 摘要
 We develop a class of microscopic lattice models in which pair density wave order emerges in the asymptotically exact weak coupling limit. The underlying mechanism is due to non-symmorphic momentum symmetry implied by the models' projective space group representation of electrons. Our mechanism suggests moiré systems and extended s-wave altermagnets as potential hosts for pair density wave order.
-
----
-
-## 25. Hidden Magnetic Octupolar Order driven by Spin-Orbit coupling in KFeF${}\_3$
-
-- **提交日期**：2026-09-03
-- **作者**：C. A. Crawford, C. I. Hiley, N. C. Bristowe, C. Stock, J. Gainza, C. Ritter, M. R. Lees, R. I. Walton, M. S. Senn
-- **arXiv链接**：[http://arxiv.org/abs/2609.03684v1](http://arxiv.org/abs/2609.03684v1)
-
-### 摘要
-Phase transitions are typically driven by symmetry-breaking structural distortions that lift electronic degeneracies, yet in some cases, these transitions may be driven by a hidden order without conventional structural signatures. Here, we demonstrate that the 3$d$ perovskite, KFeF${}\_3$, hosts such a hidden instability. Using a combination of high-resolution powder diffraction, magnetometry, symmetry-based analysis and first principles calculations, we reveal that while the 90 K cubic to rhombohedral transition arises from conventional magnetostriction accompanying antiferromagnetic order, a second transition at 40 K lowers the symmetry to monoclinic without any detectable Jahn-Teller distortion or translational symmetry-breaking. Symmetry-based Landau analysis supports a hidden zone centered magnetic octupole order parameter, whose improper coupling accounts for the weak ferromagnetism and pronounced symmetry-breaking strain. Density functional calculations show that spin-orbit coupling suppresses the competing Jahn-Teller instability, and thereby favors higher rank magnetic multipolar degrees of freedom. These findings establish KFeF${}\_3$ as a model system in which the competing energy scales between spin-orbit coupling and orbital degeneracy result in the emergence of hidden, multipolar order. We show that the control of such magnetic, multipolar order could, in principle, provide a route to induce altermagnetism.
-
----
-
-## 26. Resolving the Magnetic Ground-State Controversy in RuO2 through A Flat Magnetic Energy Landscape
-
-- **提交日期**：2026-09-03
-- **作者**：Tianxiao Liang, Fanhan Kong, Jijun Zhao, Xue Jiang
-- **arXiv链接**：[http://arxiv.org/abs/2609.03274v1](http://arxiv.org/abs/2609.03274v1)
-
-### 摘要
-Rutile RuO2 is a prominent candidate for altermagnetism, yet its magnetic ground state remains highly controversial, with experiments reporting either a nonmagnetic state or altermagnetic order. Here, we develop a generalized environment-dependent spin-lattice framework that unifies localized Heisenberg exchange, itinerant Stoner magnetism via Landau spin fluctuations, and spin-orbit-coupling-mediated spin-lattice interactions. Parameterized from a high-throughput first-principles database using machine-learning and solved by large-scale Monte Carlo simulations, the framework reveals an exceptionally flat magnetic energy landscape in RuO2, where the nonmagnetic state lies nearly degenerate with multiple altermagnetic configurations. We find that material perturbations, exemplified by intrinsic defects, select distinct magnetic ground states primarily by modifying the localized Heisenberg exchange, with perturbation-induced itinerant Stoner polarization provides an essential secondary contribution. Spin-orbit coupling controls the orientation and stability of the Néel vector, but does not determine the emergence of long-range magnetic order. These results provide a unified explanation for the conflicting experimental observations and establish a general microscopic framework for understanding how material perturbations select competing magnetic ground states in systems with nearly flat magnetic energy landscapes.
-
----
-
-## 27. Moiré-induced altermagnetism from nonmagnetic constituents
-
-- **提交日期**：2026-09-03
-- **作者**：Jingtian Shi, Maxim Khodas, Ivar Martin
-- **arXiv链接**：[http://arxiv.org/abs/2609.03271v2](http://arxiv.org/abs/2609.03271v2)
-
-### 摘要
-We propose a mechanism for nonmagnetic materials to develop altermagnetic order by moiré interference with nonmagnetic substrate, which is driven by structural relaxation and spontaneous twirls in moiré domain walls of lattice-mismatched moiré square lattices. When doped with one electron per moiré domain, a correlated insulating gap is opened by electron interaction. Depending on the location of the moiré potential minima, the moiré bands can show d-wave or g-wave altermagnetic splitting. The former can be enhanced by a finite twist angle; the latter is sensitive to strains that drive a transition to d-wave.
 
 ---
 
