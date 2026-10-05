@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-04 至 2026-10-04**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-05 至 2026-10-05**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -260,17 +260,6 @@ Altermagnetism is a recently established class of magnetic order that combines f
 
 ### 摘要
 Altermagnets combine the vanishing net magnetization of antiferromagnets with momentum-dependent spin splitting. Magnon band splitting provides a direct probe of altermagnetic order and may enable chirality-selective magnon transport, yet the momentum-space symmetry of this splitting has not been determined quantitatively. Here we use inelastic neutron scattering to map the momentum dependence of altermagnetic magnon splitting in hematite ($α$-Fe${}\_2$O${}\_3$). The splitting vanishes along nodal directions and reaches maxima off the nodes, revealing the $g$-wave symmetry of the altermagnetic order parameter. These results agree with linear spin-wave theory calculations based on the altermagnetic model, which further identify the nondegenerate branches as magnons of opposite chirality and trace the splitting to symmetry-inequivalent long-range exchange interactions. Our results provide the first quantitative determination of the momentum-space symmetry of altermagnetic chiral magnons. These findings, together with hematite's high magnetic ordering temperature and low magnon damping, establish it as a promising platform for low-dissipation, symmetry-selective magnonic applications.
-
----
-
-## 24. Pair density wave order from non-symmorphic momentum symmetry
-
-- **提交日期**：2026-09-04
-- **作者**：Matteo Dürrnagel, C. Alexander Baum, Michael Klett, Lennart Klebl, Ronny Thomale
-- **arXiv链接**：[http://arxiv.org/abs/2609.05603v1](http://arxiv.org/abs/2609.05603v1)
-
-### 摘要
-We develop a class of microscopic lattice models in which pair density wave order emerges in the asymptotically exact weak coupling limit. The underlying mechanism is due to non-symmorphic momentum symmetry implied by the models' projective space group representation of electrons. Our mechanism suggests moiré systems and extended s-wave altermagnets as potential hosts for pair density wave order.
 
 ---
 
