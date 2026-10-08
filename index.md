@@ -5,12 +5,34 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-07 至 2026-10-07**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-08 至 2026-10-08**
+> 数据检索到 **25** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
+## 1. Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism
+
+- **提交日期**：2026-10-07
+- **作者**：Hana Schiff, Judit Romhányi, Paul McClarty, Jeffrey G. Rau
+- **arXiv链接**：[http://arxiv.org/abs/2610.10523v1](http://arxiv.org/abs/2610.10523v1)
+
+### 摘要
+In this work we study phenomenological Landau theories of non-relativistic magnetic systems, generalizing work on the collinear case to coplanar and non-coplanar orders. Focusing on zero-wavevector ($\boldsymbol{k}=0$) magnetic orders described by a single irreducible representation of the crystallographic point group, we construct the symmetry-allowed free energies to quartic order for all possible multi-dimensional irreducible ordering channels. We find distinct Landau theories for tetragonal, trigonal/hexagonal, and cubic symmetry. Similar to the case of spin-nematic fluids, we find two natural outcomes: a collapse to a lower-symmetry collinear phase or a genuinely coplanar or non-coplanar order where the order parameters form a mutually orthogonal set in spin space -- reminiscent of the $A$ and $B$ phases in ${}^3$He. We show in general that this symmetry-broken phase realizes the spin space group associated with the spatial representation of the order parameter sharing the same parent space group as the paramagnetic phase. This provides a direct link between the Landau and spin space group approaches. We calculate key observables using this Landau approach, including net magnetization, spin conductivity, multipolar moments, and piezomagnetism, connecting our results to constraints from the underlying spin space group. Examples of coplanar and non-coplanar magnetic orders for each case are worked out in detail. Finally, we discuss the relationship of the lower-symmetry collinear phases to the usual collinear spin groups, as well as connections to atomic altermagnetism, superfluid ${}^3$He and electronic nematic phases.
+
+---
+
+## 2. Magnetic Order from First-Principles Linear Response
+
+- **提交日期**：2026-10-07
+- **作者**：Yaroslav Zhumagulov, Emiliano Cruz-Aranda, Denis Kochan, Oleg V. Yazyev
+- **arXiv链接**：[http://arxiv.org/abs/2610.10412v1](http://arxiv.org/abs/2610.10412v1)
+
+### 摘要
+The magnetic order of a material is usually predicted by comparing the energies of trial spin configurations, a strategy that cannot reach orders outside the chosen set and rapidly becomes intractable as the number of magnetic sites grows. We show that the order can instead be identified directly from the paramagnetic state: the leading eigenmodes of its self-consistent magnetization response, obtained with spin--orbit coupling at arbitrary wavevector within the primitive cell, determine both the ordering wavevector and the pattern of moments, with no candidate configurations. With no prior assumption about the order, the method correctly reproduces the G-type stacking with out-of-plane moments in the altermagnet candidate KV${}\_2$Se${}\_2$O, the $3{:}1$ ferrimagnetic tetrahedra of Cu${}\_2$OSeO${}\_3$, and the incommensurate spiral instability of monolayer NiI${}\_2$. Our results establish the response of the paramagnetic state as a predictive and unbiased route to assessing magnetic order, enabling systematic searches for complex magnets.
+
+---
+
+## 3. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
 
 - **提交日期**：2026-10-01
 - **作者**：Huaisong Zhao, Peng Zou, Xia-Ji Liu, Hui Hu
@@ -21,7 +43,7 @@ We investigate collective modes in charge-neutral altermagnetic superconductors 
 
 ---
 
-## 2. Designing Strongly Correlated Quantum Phases of Matter with Foundation Neural-Network Quantum States
+## 4. Designing Strongly Correlated Quantum Phases of Matter with Foundation Neural-Network Quantum States
 
 - **提交日期**：2026-09-30
 - **作者**：Alessandro Sinibaldi, Luciano Loris Viteritti, Riccardo Rende, Federico Becca, Giuseppe Carleo
@@ -32,7 +54,7 @@ Designing a material with a desired property amounts to solving an inverse probl
 
 ---
 
-## 3. Entropy-Driven Altermagnetism from Thermal Magnons
+## 5. Entropy-Driven Altermagnetism from Thermal Magnons
 
 - **提交日期**：2026-09-30
 - **作者**：Tanaya Halder, Ashis K. Nandy, Anamitra Mukherjee
@@ -43,7 +65,7 @@ We identify a route to altermagnetism driven by entropy upon heating and demonst
 
 ---
 
-## 4. A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides
+## 6. A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides
 
 - **提交日期**：2026-09-25
 - **作者**：Ruoshi Jiang, Bartomeu Monserrat
@@ -54,7 +76,7 @@ Isoelectronic compounds are generally expected to exhibit related electronic, st
 
 ---
 
-## 5. Topological Superconducting Phases in a Strained Altermagnet-Superconductor Heterostructure
+## 7. Topological Superconducting Phases in a Strained Altermagnet-Superconductor Heterostructure
 
 - **提交日期**：2026-09-25
 - **作者**：Keita Yoshizawa, Ryo Okugawa, Takami Tohyama
@@ -65,7 +87,7 @@ We investigate topological superconductivity in a heterostructure consisting of 
 
 ---
 
-## 6. Altermagnetic Kondo Logic via Floquet Symmetry Conversion
+## 8. Altermagnetic Kondo Logic via Floquet Symmetry Conversion
 
 - **提交日期**：2026-09-23
 - **作者**：Haojie Shen, Xinchen Zhou, Baigeng Wang, Rui Wang
@@ -76,7 +98,7 @@ A common belief in Kondo physics is that a magnetic impurity can act as an effic
 
 ---
 
-## 7. Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
+## 9. Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
 
 - **提交日期**：2026-09-22
 - **作者**：Jian-Lin Li, Chien-Te Wu, Klaus Halterman
@@ -87,7 +109,7 @@ When ferromagnets are brought into contact with a superconductor, superconductin
 
 ---
 
-## 8. Comment on "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb"
+## 10. Comment on "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb"
 
 - **提交日期**：2026-09-21
 - **作者**：Igor I. Mazin, Maxim Khodas, Boris Nadgorny
@@ -98,7 +120,7 @@ Zhang et al. [Phys. Rev. Lett. 137, 016701 (2026)] report momentum-dependent spi
 
 ---
 
-## 9. Superconducting qubit based on altermagnets
+## 11. Superconducting qubit based on altermagnets
 
 - **提交日期**：2026-09-21
 - **作者**：Xue-Feng Pan, Xin-Lei Hei, Franco Nori, Peng-Bo Li
@@ -109,7 +131,7 @@ Altermagnets, characterized by vanishing net magnetization and momentum-dependen
 
 ---
 
-## 10. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
+## 12. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
 
 - **提交日期**：2026-09-19
 - **作者**：Marnin J. Di Nunzio, Frank Lechermann, Ilya M. Eremin
@@ -120,7 +142,7 @@ Altermagnets combine vanishing net magnetization with a momentum-dependent spin-
 
 ---
 
-## 11. Spacetime Dynamics of Altermagnetic Magnons
+## 13. Spacetime Dynamics of Altermagnetic Magnons
 
 - **提交日期**：2026-09-17
 - **作者**：Ali Emami Kopaei, Karthik Subramaniam Eswaran, Krzysztof Wohlfeld
@@ -131,7 +153,7 @@ Distinguishing altermagnetism from conventional ferromagnetism and antiferromagn
 
 ---
 
-## 12. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
+## 14. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
 
 - **提交日期**：2026-09-17
 - **作者**：Zhosan I. A., Lomachuk Yu. V., Maltsev D. A., Moiseev I. A., Andreev O. Yu
@@ -142,7 +164,7 @@ We present a multiconfigurational, relativistic embedded-cluster study of the lo
 
 ---
 
-## 13. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
+## 15. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
 
 - **提交日期**：2026-09-14
 - **作者**：Motohiko Ezawa
@@ -153,7 +175,7 @@ We study superconductors coupled with $X$-wave magnets with $X=p,d,f,g,i$. They 
 
 ---
 
-## 14. Altermagnetism across the BCS-BEC crossover
+## 16. Altermagnetism across the BCS-BEC crossover
 
 - **提交日期**：2026-09-13
 - **作者**：Iogann Tolbatov, Luca Salasnich
@@ -164,7 +186,7 @@ We study a two-dimensional paired Fermi system in which altermagnetism produces 
 
 ---
 
-## 15. Vestigial altermagnetism
+## 17. Vestigial altermagnetism
 
 - **提交日期**：2026-09-13
 - **作者**：Peng Rao, Johannes Knolle
@@ -175,7 +197,7 @@ Interaction effects and fluctuations govern the phase diagram of systems with mu
 
 ---
 
-## 16. Topological superconductivity in an altermagnet-superconductor heterostructure
+## 18. Topological superconductivity in an altermagnet-superconductor heterostructure
 
 - **提交日期**：2026-09-11
 - **作者**：Michael Liudeng, Hrishikesh Patel, Marcel Franz, Niclas Heinsdorf
@@ -186,7 +208,7 @@ Fully gapped spin-triplet superconductors offer a natural setting for topologica
 
 ---
 
-## 17. Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices
+## 19. Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices
 
 - **提交日期**：2026-09-11
 - **作者**：Börge Göbel, Ersoy Şaşıoğlu, Samir Lounis
@@ -197,7 +219,7 @@ Altermagnets combine compensated antiferromagnetic order with ferromagnet-like s
 
 ---
 
-## 18. Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism
+## 20. Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism
 
 - **提交日期**：2026-09-11
 - **作者**：Joo Yull Rhee
@@ -208,7 +230,7 @@ The spin splitting of collinear altermagnets is usually attributed to the crysta
 
 ---
 
-## 19. Piezomagnetism in a model cubic noncollinear altermagnet
+## 21. Piezomagnetism in a model cubic noncollinear altermagnet
 
 - **提交日期**：2026-09-10
 - **作者**：Sudarshan Sharma, Luca Buiarelli, Richard Spieker, Ivan Jakovac, Damjan Pelc, Turan Birol, Martin Greven
@@ -219,7 +241,7 @@ Altermagnets constitute a distinct class of magnetic materials that combine comp
 
 ---
 
-## 20. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
+## 22. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
 
 - **提交日期**：2026-09-10
 - **作者**：Hao Dong, Xun-Jiang Luo, Xiao-Hong Pan, Xin Liu
@@ -230,7 +252,7 @@ We exploit facet-dependent Andreev phase shifts to control topological supercond
 
 ---
 
-## 21. A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets
+## 23. A Unified Theory of Collective Magnon and Orbiton Excitations in Altermagnets
 
 - **提交日期**：2026-09-09
 - **作者**：Bishal Das, Chanchal K. Barman, Aftab Alam
@@ -241,7 +263,7 @@ Altermagnetism has recently emerged as a distinct collinear magnetic phase exhib
 
 ---
 
-## 22. Two-magnon response from light scattering in altermagnets
+## 24. Two-magnon response from light scattering in altermagnets
 
 - **提交日期**：2026-09-08
 - **作者**：Shuyi Li, Lexu Zhao, Chunjing Jia
@@ -252,7 +274,7 @@ Altermagnetism is a recently established class of magnetic order that combines f
 
 ---
 
-## 23. $g$-wave altermagnetic order parameter in hematite
+## 25. $g$-wave altermagnetic order parameter in hematite
 
 - **提交日期**：2026-09-08
 - **作者**：Tianren Wang, Yuehong Li, Yu Feng, Andong Liu, Yuetong Wu, Qian Zhao, Yujie Yan, Wei Luo, Xin Tong, Yi Lu, Yao Shen, Stefano Agrestini, Jaewon Choi, Qisi Wang
