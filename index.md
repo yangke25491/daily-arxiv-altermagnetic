@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-10 至 2026-10-10**
-> 数据检索到 **25** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-11 至 2026-10-11**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -260,28 +260,6 @@ Altermagnets combine compensated antiferromagnetic order with ferromagnet-like s
 
 ### 摘要
 The spin splitting of collinear altermagnets is usually attributed to the crystal symmetry relating the opposite-spin sublattices --- a rotation or mirror in place of the translation or inversion of a conventional antiferromagnet. We show that this symmetry organizes the splitting but does not produce it; its origin is the anisotropic arrangement of the magnetic orbitals and their ligands, which also fixes the symmetry itself. Two results establish this. A triclinic ($P1$) \ce\{Mn\} oxide, a fully compensated ferrimagnet whose two inequivalent sublattices are related by no symmetry, is spin split throughout the Brillouin zone; repositioning the same ligands, atom for atom, to restore an inversion centre relating the two metal sites collapses the splitting to a residual two orders of magnitude smaller, so the splitting follows from the arrangement rather than the symmetry. Symmetry, we show formally, can only ever reverse or forbid a splitting that already exists: it cannot create one between sublattices an arrangement has left electronically identical, nor where the underlying orbitals carry no anisotropy to arrange in the first place. Organizing the analysis through an operation-resolved symmetry hierarchy and reading the crystal classes as a single axis, the enforced nodal planes fall from two to one to zero across the orthorhombic, monoclinic, and triclinic classes while the arrangement-generated splitting persists to the base. The altermagnet and the fully compensated ferrimagnet are thus the two ends of one axis --- the same splitting, organized by symmetry at one end and unorganized at the other --- and the search for compensated spin-split magnets is a search over orbital arrangements rather than symmetry labels.
-
----
-
-## 24. Piezomagnetism in a model cubic noncollinear altermagnet
-
-- **提交日期**：2026-09-10
-- **作者**：Sudarshan Sharma, Luca Buiarelli, Richard Spieker, Ivan Jakovac, Damjan Pelc, Turan Birol, Martin Greven
-- **arXiv链接**：[http://arxiv.org/abs/2609.11816v1](http://arxiv.org/abs/2609.11816v1)
-
-### 摘要
-Altermagnets constitute a distinct class of magnetic materials that combine compensated magnetic order with spin-polarized electronic bands, hence carrying characteristics of both antiferromagnets and ferromagnets. Piezomagnetism - the linear relationship between lattice strain and a net magnetic moment - has emerged as smoking-gun evidence of altermagnetism that distinguishes it from antiferromagnetism. Here, we uncover a large piezomagnetic response in MnTe2, a cubic altermagnet with a noncollinear spin arrangement and weak spin-orbit coupling. We combine dilatometry with nuclear magnetic resonance, a bulk local probe, to observe signatures of both direct and inverse piezomagnetism consistent with symmetry considerations and first-principles calculations. The dilatometry measurements reveal a shear deformation proportional to an applied magnetic field, while magnetic resonance detects a ferromagnetic moment induced by shear strain. The respective results for the piezomagnetic coupling strength are in good agreement, and they are captured by first-principles results. These findings for simple binary MnTe2 position this material as a model altermagnet, demonstrate the utility of nuclear magnetic resonance in investigations of piezomagnetism, and open new avenues for multimodal strain and magnetic-field control in spintronic and memory applications.
-
----
-
-## 25. Phase-Controlled Majorana Zero Modes in Altermagnetic Topological-Insulator Josephson Junctions
-
-- **提交日期**：2026-09-10
-- **作者**：Hao Dong, Xun-Jiang Luo, Xiao-Hong Pan, Xin Liu
-- **arXiv链接**：[http://arxiv.org/abs/2609.11633v2](http://arxiv.org/abs/2609.11633v2)
-
-### 摘要
-We exploit facet-dependent Andreev phase shifts to control topological superconductivity with a phase bias in a three-dimensional altermagnetic topological-insulator Josephson junction. In the weak link between two conventional $s$-wave superconductors, the $d$-wave altermagnetic order produces anisotropic momentum shifts of the surface Dirac cones. The resulting net momentum of the states involved in Andreev reflection generates additional propagation phases that differ between facets. Consequently, the facet-resolved Andreev spectra exhibit gap closings at distinct phase biases, giving rise to topological superconducting regimes that host Majorana zero modes (MZMs). We further show that the spatial locations of the MZMs can be controlled by the phase bias. Moreover, these topological superconducting transitions are only weakly affected by moderate variations in the chemical potential, obviating the need for fine-tuning to the Dirac point. Our results establish a platform for realizing and spatially controlling MZMs by tuning the superconducting phase bias in altermagnetic topological-insulator Josephson junctions.
 
 ---
 
