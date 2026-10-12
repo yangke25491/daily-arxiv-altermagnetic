@@ -5,12 +5,34 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-11 至 2026-10-11**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-12 至 2026-10-12**
+> 数据检索到 **22** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Magnon band splitting without altermagnetism in CuF2
+## 1. Altermagnetic Control of Charge-4e Superconductivity
+
+- **提交日期**：2026-10-09
+- **作者**：Yan-Guang Yue, Jie Lou, Yan Chen
+- **arXiv链接**：[http://arxiv.org/abs/2610.13584v1](http://arxiv.org/abs/2610.13584v1)
+
+### 摘要
+We present, to our knowledge, the first theoretical realization of an independent charge-4e phase in a two-dimensional classical array of conventional superconductors coupled through altermagnetic junctions. Tuning the altermagnetic splitting suppresses the leading single-pair tunneling harmonic while retaining strong double-pair coupling, producing a finite charge-4e region between staggered and uniform charge-2e states. Using the complete temperature-dependent microscopic Josephson spectrum, we find short-range ordinary pair correlations alongside algebraic coherence of pairs of Cooper pairs. Berezinskii--Kosterlitz--Thouless scaling and a half-flux response further identify the charge-4e phase. Our results establish altermagnetism as a microscopic means to select between ordinary and composite superconducting coherence.
+
+---
+
+## 2. Magnetic-field-induced detwinning of orientational domains in altermagnet $α$-MnTe: A single-crystal neutron diffraction study
+
+- **提交日期**：2026-10-09
+- **作者**：Feihao Pan, Yishui Zhou, Sabreen Hammouda, Yinghao Zhu, Soohyeon Shin, Karin Schmalzl, Wolfgang Schmidt, Eric Ressouche, Oscar Fabelo, Yixi Su
+- **arXiv链接**：[http://arxiv.org/abs/2610.13444v1](http://arxiv.org/abs/2610.13444v1)
+
+### 摘要
+Altermagnets combine compensated magnetic order with momentum-dependent spin splitting, which makes them promising for future spintronic and magnonic applications, but their macroscopic responses can be strongly reduced by domain averaging. In hexagonal $α$-MnTe, three symmetry-related in-plane Néel-vector orientations and their time-reversal counterparts form six magnetic domain states, complicating both magnetic structure determination and measurements of the chiral magnon response. Using single-crystal neutron diffraction, we show that an in-plane field applied along the $[-1,1,0]$ direction produces a common magnetic domain orientation that saturates near $μ\_0H=2$ T. A constrained refinement of 61 nuclear and magnetic reflections collected at 2 K and 2 T yields $\mathbf{M}\parallel[1,1,0]$, an ordered moment of $4.62(8)~μ\_\mathrm{B}$ per Mn, and an orientational domain population at $r\_A:r\_B:r\_C=0.97:0.03(5):0$ that is compatible with a nearly complete alignment of orientational domains. Furthermore, an abnormal behaviour in the temperature dependence of the selected reflections is observed in 60-88 K, its microscopic origin is discussed within the context of possible intrinsic piezomagnetic or magnetoelastic effects. Because unpolarized diffraction neither distinguishes domain repopulation from continuous Néel-vector rotation nor resolves time-reversal antiphase domains, the field-prepared state is a near-single-orientation state rather than a truly single-domain state. This non-contact domain control provides a practical complement to strain and field-cooling approaches for preparing well-defined magnetic states in bulk $α$-MnTe.
+
+---
+
+## 3. Magnon band splitting without altermagnetism in CuF2
 
 - **提交日期**：2026-10-08
 - **作者**：Ioannis Rousochatzakis, Oleg Janson, Alexander A. Tsirlin
@@ -21,7 +43,7 @@ Conclusive identification of an altermagnetic state requires going beyond mere s
 
 ---
 
-## 2. Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction
+## 4. Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction
 
 - **提交日期**：2026-10-08
 - **作者**：Yifan Gao, Jin Yan, Junjie Wei, Yifan Zhang, Zhiyuan Zhou, Tong Zou, Ruiyue Chu, Gui Wang, Kaiwen Shen, Zhiwei Zhang, Fang Chen, Yingfen Wei, Hao Jiang, Xumeng Zhang, Ming Wang, Liyang Liao, Jingli Wang, Yijun Yu, Wu Shi, Qi Yao, Xiaobing Chen, Qihang Liu, Yizheng Wu, Yuhang Li, Xufeng Kou, Cheng Song, Xianzhe Chen, Qi Liu, Xincheng Xie, Ming Liu
@@ -32,7 +54,7 @@ Altermagnetic materials, characterized by vanishing net magnetization and moment
 
 ---
 
-## 3. Reading Altermagnetic Domains with Photon Drag
+## 5. Reading Altermagnetic Domains with Photon Drag
 
 - **提交日期**：2026-10-07
 - **作者**：Sayed Ali Akbar Ghorashi, Andrew M. Rappe
@@ -43,7 +65,7 @@ Finite photon momentum allows second-order photocurrents in centrosymmetric spac
 
 ---
 
-## 4. Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism
+## 6. Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism
 
 - **提交日期**：2026-10-07
 - **作者**：Hana Schiff, Judit Romhányi, Paul McClarty, Jeffrey G. Rau
@@ -54,7 +76,7 @@ In this work we study phenomenological Landau theories of non-relativistic magne
 
 ---
 
-## 5. Magnetic Order from First-Principles Linear Response
+## 7. Magnetic Order from First-Principles Linear Response
 
 - **提交日期**：2026-10-07
 - **作者**：Yaroslav Zhumagulov, Emiliano Cruz-Aranda, Denis Kochan, Oleg V. Yazyev
@@ -65,7 +87,7 @@ The magnetic order of a material is usually predicted by comparing the energies 
 
 ---
 
-## 6. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
+## 8. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
 
 - **提交日期**：2026-10-01
 - **作者**：Huaisong Zhao, Peng Zou, Xia-Ji Liu, Hui Hu
@@ -76,7 +98,7 @@ We investigate collective modes in charge-neutral altermagnetic superconductors 
 
 ---
 
-## 7. Designing Strongly Correlated Quantum Phases of Matter with Foundation Neural-Network Quantum States
+## 9. Designing Strongly Correlated Quantum Phases of Matter with Foundation Neural-Network Quantum States
 
 - **提交日期**：2026-09-30
 - **作者**：Alessandro Sinibaldi, Luciano Loris Viteritti, Riccardo Rende, Federico Becca, Giuseppe Carleo
@@ -87,7 +109,7 @@ Designing a material with a desired property amounts to solving an inverse probl
 
 ---
 
-## 8. Entropy-Driven Altermagnetism from Thermal Magnons
+## 10. Entropy-Driven Altermagnetism from Thermal Magnons
 
 - **提交日期**：2026-09-30
 - **作者**：Tanaya Halder, Ashis K. Nandy, Anamitra Mukherjee
@@ -98,7 +120,7 @@ We identify a route to altermagnetism driven by entropy upon heating and demonst
 
 ---
 
-## 9. A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides
+## 11. A Unified Spin-Fermion Framework for Magnetic Diversity in Chromium Monopnictides
 
 - **提交日期**：2026-09-25
 - **作者**：Ruoshi Jiang, Bartomeu Monserrat
@@ -109,7 +131,7 @@ Isoelectronic compounds are generally expected to exhibit related electronic, st
 
 ---
 
-## 10. Topological Superconducting Phases in a Strained Altermagnet-Superconductor Heterostructure
+## 12. Topological Superconducting Phases in a Strained Altermagnet-Superconductor Heterostructure
 
 - **提交日期**：2026-09-25
 - **作者**：Keita Yoshizawa, Ryo Okugawa, Takami Tohyama
@@ -120,7 +142,7 @@ We investigate topological superconductivity in a heterostructure consisting of 
 
 ---
 
-## 11. Altermagnetic Kondo Logic via Floquet Symmetry Conversion
+## 13. Altermagnetic Kondo Logic via Floquet Symmetry Conversion
 
 - **提交日期**：2026-09-23
 - **作者**：Haojie Shen, Xinchen Zhou, Baigeng Wang, Rui Wang
@@ -131,7 +153,7 @@ A common belief in Kondo physics is that a magnetic impurity can act as an effic
 
 ---
 
-## 12. Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
+## 14. Electromagnetic Proximity Effects and Spontaneous Currents in Clean Superconducting Heterostructures
 
 - **提交日期**：2026-09-22
 - **作者**：Jian-Lin Li, Chien-Te Wu, Klaus Halterman
@@ -142,7 +164,7 @@ When ferromagnets are brought into contact with a superconductor, superconductin
 
 ---
 
-## 13. Comment on "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb"
+## 15. Comment on "Andreev Reflection to Probe Momentum-Dependent Spin Polarization in Altermagnet CrSb"
 
 - **提交日期**：2026-09-21
 - **作者**：Igor I. Mazin, Maxim Khodas, Boris Nadgorny
@@ -153,7 +175,7 @@ Zhang et al. [Phys. Rev. Lett. 137, 016701 (2026)] report momentum-dependent spi
 
 ---
 
-## 14. Superconducting qubit based on altermagnets
+## 16. Superconducting qubit based on altermagnets
 
 - **提交日期**：2026-09-21
 - **作者**：Xue-Feng Pan, Xin-Lei Hei, Franco Nori, Peng-Bo Li
@@ -164,7 +186,7 @@ Altermagnets, characterized by vanishing net magnetization and momentum-dependen
 
 ---
 
-## 15. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
+## 17. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
 
 - **提交日期**：2026-09-19
 - **作者**：Marnin J. Di Nunzio, Frank Lechermann, Ilya M. Eremin
@@ -175,7 +197,7 @@ Altermagnets combine vanishing net magnetization with a momentum-dependent spin-
 
 ---
 
-## 16. Spacetime Dynamics of Altermagnetic Magnons
+## 18. Spacetime Dynamics of Altermagnetic Magnons
 
 - **提交日期**：2026-09-17
 - **作者**：Ali Emami Kopaei, Karthik Subramaniam Eswaran, Krzysztof Wohlfeld
@@ -186,7 +208,7 @@ Distinguishing altermagnetism from conventional ferromagnetism and antiferromagn
 
 ---
 
-## 17. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
+## 19. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
 
 - **提交日期**：2026-09-17
 - **作者**：Zhosan I. A., Lomachuk Yu. V., Maltsev D. A., Moiseev I. A., Andreev O. Yu
@@ -197,7 +219,7 @@ We present a multiconfigurational, relativistic embedded-cluster study of the lo
 
 ---
 
-## 18. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
+## 20. Topological superconductors and Majorana fermions based on $X$-wave magnets with $X=p,d,f,g,i $
 
 - **提交日期**：2026-09-14
 - **作者**：Motohiko Ezawa
@@ -208,7 +230,7 @@ We study superconductors coupled with $X$-wave magnets with $X=p,d,f,g,i$. They 
 
 ---
 
-## 19. Altermagnetism across the BCS-BEC crossover
+## 21. Altermagnetism across the BCS-BEC crossover
 
 - **提交日期**：2026-09-13
 - **作者**：Iogann Tolbatov, Luca Salasnich
@@ -219,7 +241,7 @@ We study a two-dimensional paired Fermi system in which altermagnetism produces 
 
 ---
 
-## 20. Vestigial altermagnetism
+## 22. Vestigial altermagnetism
 
 - **提交日期**：2026-09-13
 - **作者**：Peng Rao, Johannes Knolle
@@ -227,39 +249,6 @@ We study a two-dimensional paired Fermi system in which altermagnetism produces 
 
 ### 摘要
 Interaction effects and fluctuations govern the phase diagram of systems with multiple competing phases. In particular, as individual phases are destroyed by increasing temperature, fluctuations can still produce a composite `vestigial' order given by a product of individual order parameters. Here, we describe vestigial Altermagnetism (AM) from the thermal melting of antiferromagnetic (AFM) and orbital orders (OO) on the square lattice. The coexistence of AFM and OO can give rise to conventional AM with ordering wave vector $\mathbf{Q}=(π,π)$. We show that a distinct `vestigial AM' phase with $\mathbf{Q}=0$ can arise from thermal melting of AFM and OO, and investigate its generic phase diagram. We find that the transition from the high-temperature disordered phase into the vestigial AM phase can be either first or second order, depending on the AFM and OO bare susceptibilities and their interactions. We then investigate the unique experimental signatures by calculating the electron spectral function for a minimal two-orbital model. Despite the fact that the vestigial AM order parameter does not couple to electrons directly, fluctuations dominate the self-energy corrections giving rise to a spin- and orbital-dependent quasi-particle lifetime with the AM symmetry.
-
----
-
-## 21. Topological superconductivity in an altermagnet-superconductor heterostructure
-
-- **提交日期**：2026-09-11
-- **作者**：Michael Liudeng, Hrishikesh Patel, Marcel Franz, Niclas Heinsdorf
-- **arXiv链接**：[http://arxiv.org/abs/2609.13408v1](http://arxiv.org/abs/2609.13408v1)
-
-### 摘要
-Fully gapped spin-triplet superconductors offer a natural setting for topological edge transport and Majorana excitations. Here we propose a heterostructure that interfaces altermagnetic monolayer V${}\_2$Se${}\_2$O with a conventional $s$-wave superconductor. Starting from an ab-initio description of V${}\_2$Se${}\_2$O, we construct a low-energy model of its spin-split Fermi surface and study the superconducting instability of the coupled stack. We find that the momentum-dependent exchange splitting of the altermagnet strongly favors equal-spin pairing and converts the proximity-induced order into a fully gapped $p$-wave state. Over a broad range of interface parameters, the resulting Bogoliubov-de Gennes bands carry a nonzero Chern number, and slab spectra exhibit chiral Majorana edge modes traversing the bulk gap. We further quantify the inverse proximity effect and show how the induced gap evolves across a finite multilayer stack. These results establish a route to topological triplet superconductivity by interfacing a conventional superconductor with an experimentally available altermagnetic semiconductor, and provide practical guidance for interface fabrication and experimental detection.
-
----
-
-## 22. Orbital Hall effect and orbital altermagnetism in even- and odd-parity-wave magnetic Lieb lattices
-
-- **提交日期**：2026-09-11
-- **作者**：Börge Göbel, Ersoy Şaşıoğlu, Samir Lounis
-- **arXiv链接**：[http://arxiv.org/abs/2609.12956v1](http://arxiv.org/abs/2609.12956v1)
-
-### 摘要
-Altermagnets combine compensated antiferromagnetic order with ferromagnet-like signatures such as spin-polarized bands and, under appropriate conditions, an anomalous Hall response. Their characteristic momentum-dependent spin splitting originates from the interplay of magnetic order and crystal structure and therefore does not require spin-orbit coupling (SOC), whereas the anomalous Hall effect relies on SOC. This raises the question whether the ferromagnet-like transport character of altermagnets can manifest already in the nonrelativistic limit. Here, we investigate the transport of orbital angular momentum in magnetic Lieb lattices. We show that a collinear antiferromagnetic texture realizes a d-wave altermagnetic state and simultaneously generates an orbital Hall effect, both in the complete absence of SOC. In this nonrelativistic limit, the orbital Hall response closely resembles that of the corresponding ferromagnet. When SOC is included, the orbital Hall effect is accompanied by a spin Hall response, while the altermagnetic spin texture acquires a corresponding orbital texture, realizing orbital altermagnetism. In contrast, an anomalous, or crystal, Hall effect requires SOC and is additionally subject to crystal-symmetry constraints. We extend the analysis from d-wave altermagnetism to odd-parity p-wave magnetism, where the orbital Hall effect becomes anisotropic and the orbital conductivity tensor develops a symmetric transverse component analogous to the planar Hall response in charge transport. Our results establish the orbital Hall effect as a nonrelativistic transport manifestation of the close relation between altermagnets and ferromagnets and extend this connection to unconventional magnetic orders beyond altermagnetism.
-
----
-
-## 23. Spin splitting without symmetry: a nearly compensated ferrimagnet and the origin of altermagnetism
-
-- **提交日期**：2026-09-11
-- **作者**：Joo Yull Rhee
-- **arXiv链接**：[http://arxiv.org/abs/2609.12931v1](http://arxiv.org/abs/2609.12931v1)
-
-### 摘要
-The spin splitting of collinear altermagnets is usually attributed to the crystal symmetry relating the opposite-spin sublattices --- a rotation or mirror in place of the translation or inversion of a conventional antiferromagnet. We show that this symmetry organizes the splitting but does not produce it; its origin is the anisotropic arrangement of the magnetic orbitals and their ligands, which also fixes the symmetry itself. Two results establish this. A triclinic ($P1$) \ce\{Mn\} oxide, a fully compensated ferrimagnet whose two inequivalent sublattices are related by no symmetry, is spin split throughout the Brillouin zone; repositioning the same ligands, atom for atom, to restore an inversion centre relating the two metal sites collapses the splitting to a residual two orders of magnitude smaller, so the splitting follows from the arrangement rather than the symmetry. Symmetry, we show formally, can only ever reverse or forbid a splitting that already exists: it cannot create one between sublattices an arrangement has left electronically identical, nor where the underlying orbitals carry no anisotropy to arrange in the first place. Organizing the analysis through an operation-resolved symmetry hierarchy and reading the crystal classes as a single axis, the enforced nodal planes fall from two to one to zero across the orthorhombic, monoclinic, and triclinic classes while the arrangement-generated splitting persists to the base. The altermagnet and the fully compensated ferrimagnet are thus the two ends of one axis --- the same splitting, organized by symmetry at one end and unorganized at the other --- and the search for compensated spin-split magnets is a search over orbital arrangements rather than symmetry labels.
 
 ---
 
