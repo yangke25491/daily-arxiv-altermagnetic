@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-16 至 2026-10-16**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-18 至 2026-10-18**
+> 数据检索到 **22** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -249,28 +249,6 @@ Altermagnets, characterized by vanishing net magnetization and momentum-dependen
 
 ### 摘要
 Altermagnets combine vanishing net magnetization with a momentum-dependent spin-split electronic structure, providing a route to spin-polarized carriers without ferromagnetism. Here, we investigate how electronic correlations, doping, uniaxial strain, and interlayer coupling control altermagnetism within a minimal Hubbard-type model for mono- and bilayer systems. Comparing Hartree--Fock theory with the rotationally invariant slave-boson (RISB) approach, we demonstrate the robustness of altermagnetic order against quasiparticle renormalization and reveal a separation between the onset of magnetic order and the loss of quasiparticle coherence at stronger coupling. In the monolayer, doping produces a pronounced particle--hole asymmetry, while its combination with uniaxial strain generates a fully spin-polarized Fermi surface close to half-filling. In the bilayer, stacking that favors ferroic alignment of the layer altermagnetic order parameters allows their momentum-dependent spin splittings to combine constructively. Weak asymmetric doping additionally induces intra-unit-cell charge order, resulting in fully spin-polarized low-energy carriers. At a bilayer filling of five electrons in four orbitals, we find a continuous paramagnet-to-altermagnet transition followed, at stronger coupling, by an evolution toward a Mott-like regime with strongly suppressed quasiparticle weight. Our results establish correlations, strain, doping, and stacking as complementary means of controlling altermagnetic metals and generating fully spin-polarized Fermi surfaces.
-
----
-
-## 23. Spacetime Dynamics of Altermagnetic Magnons
-
-- **提交日期**：2026-09-17
-- **作者**：Ali Emami Kopaei, Karthik Subramaniam Eswaran, Krzysztof Wohlfeld
-- **arXiv链接**：[http://arxiv.org/abs/2609.20767v1](http://arxiv.org/abs/2609.20767v1)
-
-### 摘要
-Distinguishing altermagnetism from conventional ferromagnetism and antiferromagnetism typically relies on momentum-space probes. Here, we show that the real-space spreading of a localized spin excitation provides a distinctive dynamical fingerprint of altermagnetic order. Using linear spin-wave theory on a two-dimensional checkerboard lattice with nearest-neighbor and next-nearest-neighbor couplings J\_1 and J\_2, we demonstrate that finite J\_2 produces direction-dependent magnon group velocities and splits the two magnon branches. The resulting propagation remains closer to that of an antiferromagnet than a ferromagnet, retaining an approximately circular outer wavefront, while the direction-dependent magnon velocities produce a pronounced cross-like spatial structure inside this front. We further show that changing the sign of J\_2 to enter the unfrustrated regime (J\_2<0) increases the characteristic propagation velocities and interchanges the diagonal directions of enhanced propagation, corresponding to a pi/2 rotation of the anisotropic spatial pattern. These results establish spacetime dynamics as a complementary probe of altermagnetic magnons, providing a route to identifying unconventional magnetic order through real-space propagation patterns in solid-state and synthetic quantum systems.
-
----
-
-## 24. Multiconfigurational Analysis of Local Electronic Structure of $\mathrm{RuO\_2}$ Using Relativistic Embedded Clusters
-
-- **提交日期**：2026-09-17
-- **作者**：Zhosan I. A., Lomachuk Yu. V., Maltsev D. A., Moiseev I. A., Andreev O. Yu
-- **arXiv链接**：[http://arxiv.org/abs/2609.20526v1](http://arxiv.org/abs/2609.20526v1)
-
-### 摘要
-We present a multiconfigurational, relativistic embedded-cluster study of the local electronic structure of ruthenium dioxide ($\mathrm{RuO\_2}$), a candidate altermagnetic material. Starting from free $\mathrm{Ru}$ ions, we progressively build up the local environment through a $\mathrm{Ru+Q\_6}$ electrostatic model, a bare $\mathrm{[RuO\_6]^{8-}}$ ligand model, and finally a high-accuracy $\mathrm{RuO\_6}$@CTEP embedded cluster that reproduces the crystalline surroundings. All systems are treated at the SA-CASSCF and NEVPT2+SOC levels of theory to capture strong electron correlation and spin-orbit coupling on an equal footing. While the formal local site symmetry of the $\mathrm{Ru}$ sites in $\mathrm{RuO\_2}$ is orthorhombic ($D\_{2h}$), we find that the calculated $4d$-orbital energy spectrum and its splitting pattern behave much closer to the higher tetragonal ($D\_{4h}$) symmetry, preserving a strong quasi-degeneracy among the relevant $4d$ orbitals. Since the local $xy$ quadrupolar order responsible for altermagnetic spin splitting in independent-particle models relies on this symmetry reduction, its suppression by orbital quasi-degeneracy offers a natural explanation for why altermagnetism is not observed in bulk $\mathrm{RuO\_2}$ experiments, in contrast to the robust altermagnetic signatures reported in strained thin films.
 
 ---
 
