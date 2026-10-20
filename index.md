@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-19 至 2026-10-19**
-> 数据检索到 **26** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-20 至 2026-10-20**
+> 数据检索到 **25** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -113,10 +113,10 @@ Unconventional superconductivity in correlated systems often appears in the vici
 
 - **提交日期**：2026-10-09
 - **作者**：Yan-Guang Yue, Jie Lou, Yan Chen
-- **arXiv链接**：[http://arxiv.org/abs/2610.13584v1](http://arxiv.org/abs/2610.13584v1)
+- **arXiv链接**：[http://arxiv.org/abs/2610.13584v2](http://arxiv.org/abs/2610.13584v2)
 
 ### 摘要
-We present, to our knowledge, the first theoretical realization of an independent charge-4e phase in a two-dimensional classical array of conventional superconductors coupled through altermagnetic junctions. Tuning the altermagnetic splitting suppresses the leading single-pair tunneling harmonic while retaining strong double-pair coupling, producing a finite charge-4e region between staggered and uniform charge-2e states. Using the complete temperature-dependent microscopic Josephson spectrum, we find short-range ordinary pair correlations alongside algebraic coherence of pairs of Cooper pairs. Berezinskii--Kosterlitz--Thouless scaling and a half-flux response further identify the charge-4e phase. Our results establish altermagnetism as a microscopic means to select between ordinary and composite superconducting coherence.
+We show that a two-dimensional classical array of conventional superconducting islands coupled by altermagnetic Josephson junctions supports an independent charge-4e phase. Tuning the altermagnetic splitting suppresses the leading single-pair tunneling harmonic while retaining strong double-pair coupling, producing a finite charge-4e region between staggered and uniform charge-2e states. Using the complete temperature-dependent microscopic Josephson spectrum, we find short-range ordinary pair correlations alongside algebraic coherence of pairs of Cooper pairs. Berezinskii--Kosterlitz--Thouless scaling and a half-flux response further identify the charge-4e phase. Our results establish altermagnetism as a microscopic means to select between ordinary and composite superconducting coherence.
 
 ---
 
@@ -282,17 +282,6 @@ Zhang et al. [Phys. Rev. Lett. 137, 016701 (2026)] report momentum-dependent spi
 
 ### 摘要
 Altermagnets, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a promising platform for next-generation Josephson devices. Here, we exploit the Josephson effect in superconductor-altermagnet-superconductor junctions and show how to engineer prescribed current-phase relations by device design. Based on these programmable Josephson potentials utilizing altermagnetism, we propose a new class of superconducting qubits that combine large anharmonicity with enhanced robustness against decoherence via coherent two-Cooper-pair tunneling. We show that in the $2φ$-junction regime, this kind of qubit is intrinsically protected against both charge and flux noise due to parity protection. Magnetic flux can be used to precisely control the qubit and, under appropriate bias, this architecture further suppresses charge and flux noise. Our results establish altermagnets as a versatile platform for Josephson-potential engineering and open a new route toward high-performance superconducting qubits combining high coherence, large anharmonicity, and broad tunability.
-
----
-
-## 26. Correlation-assisted spin-selective metallicity in strained and bilayer altermagnets
-
-- **提交日期**：2026-09-19
-- **作者**：Marnin J. Di Nunzio, Frank Lechermann, Ilya M. Eremin
-- **arXiv链接**：[http://arxiv.org/abs/2609.23150v1](http://arxiv.org/abs/2609.23150v1)
-
-### 摘要
-Altermagnets combine vanishing net magnetization with a momentum-dependent spin-split electronic structure, providing a route to spin-polarized carriers without ferromagnetism. Here, we investigate how electronic correlations, doping, uniaxial strain, and interlayer coupling control altermagnetism within a minimal Hubbard-type model for mono- and bilayer systems. Comparing Hartree--Fock theory with the rotationally invariant slave-boson (RISB) approach, we demonstrate the robustness of altermagnetic order against quasiparticle renormalization and reveal a separation between the onset of magnetic order and the loss of quasiparticle coherence at stronger coupling. In the monolayer, doping produces a pronounced particle--hole asymmetry, while its combination with uniaxial strain generates a fully spin-polarized Fermi surface close to half-filling. In the bilayer, stacking that favors ferroic alignment of the layer altermagnetic order parameters allows their momentum-dependent spin splittings to combine constructively. Weak asymmetric doping additionally induces intra-unit-cell charge order, resulting in fully spin-polarized low-energy carriers. At a bilayer filling of five electrons in four orbitals, we find a continuous paramagnet-to-altermagnet transition followed, at stronger coupling, by an evolution toward a Mott-like regime with strongly suppressed quasiparticle weight. Our results establish correlations, strain, doping, and stacking as complementary means of controlling altermagnetic metals and generating fully spin-polarized Fermi surfaces.
 
 ---
 
