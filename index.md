@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-23 至 2026-10-23**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-24 至 2026-10-24**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -260,17 +260,6 @@ Isoelectronic compounds are generally expected to exhibit related electronic, st
 
 ### 摘要
 We investigate topological superconductivity in a heterostructure consisting of a two-dimensional $s$-wave superconductor and a $d$-wave altermagnet with Rashba spin-orbit coupling. In particular, we study the effects of strain and hopping anisotropy on the topological superconducting phases. By calculating the Chern number, we obtain topological phase diagrams as functions of the chemical potential and the strength of the effective magnetic field induced by the magnetic proximity effect. We find that strain-induced lattice distortion allows topological superconducting phases to emerge over a broad parameter region. Our findings suggest that strain that lowers symmetry can serve as a route to realizing topological superconductivity in altermagnet-superconductor heterostructures.
-
----
-
-## 24. Altermagnetic Kondo Logic via Floquet Symmetry Conversion
-
-- **提交日期**：2026-09-23
-- **作者**：Haojie Shen, Xinchen Zhou, Baigeng Wang, Rui Wang
-- **arXiv链接**：[http://arxiv.org/abs/2609.28680v1](http://arxiv.org/abs/2609.28680v1)
-
-### 摘要
-A common belief in Kondo physics is that a magnetic impurity can act as an efficient probe of key properties of its host bath. In altermagnets, however, this intuition fails in a symmetry-enforced way: the momentum-dependent spin splitting cancels in the local impurity spectrum, making a conventional single-impurity Kondo resonance essentially blind to the altermagnetic form factor. Here, we overcome this constraint by introducing Floquet symmetry conversion. We show that an in-plane AC field converts the hidden altermagnetic spin splitting into a locally detectable spin-dependent hybridization channel, which is further amplified by Kondo correlations into a novel altermagnetic Kondo effect. Remarkably, the Kondo splitting exhibits a nontrivial dependence on the field orientation and inherits the same crystalline form factor as the altermagnetic host, thereby serving as Kondo tomography of altermagnetic spin splitting. This field-controlled response further provides a natural route to symmetry-controlled Kondo logic gates. Our results establish a field-controllable altermagnetic Kondo effect, linking symmetry-resolved impurity spectroscopy to Kondo logic functionality.
 
 ---
 
