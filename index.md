@@ -5,23 +5,34 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-29 至 2026-10-29**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-09-30 至 2026-10-30**
+> 数据检索到 **24** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
+## 1. Meta-Altermagnetism and Enhanced Spin-Splitting
+
+- **提交日期**：2026-10-27
+- **作者**：Bogeng Wen, Hae-Young Kee
+- **arXiv链接**：[http://arxiv.org/abs/2610.37754v1](http://arxiv.org/abs/2610.37754v1)
+
+### 摘要
+Altermagnets are collinear magnets with zero net magnetization and spin-split electronic bands. Here, we explore whether altermagnetism can exhibit a discontinuous jump, a phenomenon we refer to as meta-altermagnetism. We show that meta-altermagnetism can emerge in 2D systems when magnetic-order-induced band reconstruction drives spin-split van Hove singularities (vHSs) across the Fermi level. Using mean-field theory for an extended $t$-$J$ model on a two-sublattice square lattice including anisotropic hopping integral, we find that a first-order meta-altermagnetic transition produces an intermediate altermagnetic regime with reduced staggered magnetization but strongly enhanced magnetic octupole and time-reversal-odd spin-splitter conductivity. We further show that the first-order transition line terminates at a quantum critical endpoint, giving rise to a rich phase diagram as the chemical potential and anisotropic hopping strength are varied. Our results identify the spin split vHSs as a route to enhancing spin-splitter effect for spintronic applications.
+
+---
+
+## 2. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
 
 - **提交日期**：2026-10-26
 - **作者**：Bai-He Yao, Zhi-Yan Shao, Ye Cao, Fan Yang
-- **arXiv链接**：[http://arxiv.org/abs/2610.35855v1](http://arxiv.org/abs/2610.35855v1)
+- **arXiv链接**：[http://arxiv.org/abs/2610.35855v2](http://arxiv.org/abs/2610.35855v2)
 
 ### 摘要
-We generalize the previous group-theory based classification of collinear magnetism in the quasicrystal (QC) to general magnetic states. Taking the Penrose lattice as an example, we find that all magnetic states belonging to 2D irreducible representations (IRRPs) of the $D\_5$ point group, including collinear states and coplanar ones, correspond to altermagnetism (AM). Unlike conventional collinear AM wherein zero magnetism is protected by, e.g. rotation or mirror reflection, which globally flip the spin in the magnetic pattern, the zero magnetism in these 2D-IRRP states is instead protected by a special group-theory-orthogonality theorem that basis functions belonging to different IRRPs are always mutually orthogonal. Taking the single-orbital Penrose-Hubbard as an example, our linear-response theory based calculations show that the largest portion of the parameter space is occupied by these 2D-IRRP states, and our further Ginzburg-Landau theory based analysis reveals that the polarization directions of the two basis magnetic states in the 2D IRRPs can be either parallel or perpendicular, leading to collinear or coplanar magnetic states. The special group-theory-orthogonality compensation mechanism and the absence of the PT symmetry finally leads to AM states, which are to be verified by the spin split in the spin-dependent angle-resolved-photoemission-spectrum and the spin conductance. These intriguing collinear and coplanar AM can also emerge in other QCs.
+We generalize the previous group-theory based classification of collinear magnetism in the quasicrystal (QC) to general magnetic states. Taking the Penrose lattice as an example, we find that the magnetic states corresponding to 2D irreducible representations (IRRPs) of the $D\_5$ point group represent for a new type of altermagnetism (AM). Unlike conventional AM wherein zero magnetism is protected by, e.g. rotation or mirror reflection, which globally flips the spin in the magnetic pattern, the zero magnetism in these 2D-IRRP states is instead protected by a special group-representation-orthogonality theorem which states that basis functions belonging to different IRRPs are mutually orthogonal. This special compensation mechanism and the absence of $\mathcal{PT}$ symmetry finally lead to AM states. Taking the Penrose-Hubbard model as an example, our linear-response theory and Ginzburg-Landau theory based analysis show that the largest portion of the parameter space is occupied by such 2D-IRRP states, which can be either collinear or coplanar AM states. These special AM states are characterized by spin split in the spin-resolved angular-resolved photoemission spectroscopy and the spin conductance with unique symmetry features. These intriguing collinear and coplanar AM states result from symmetry and can also emerge in other QCs.
 
 ---
 
-## 2. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
+## 3. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
 
 - **提交日期**：2026-10-26
 - **作者**：Naomichi Sato, Makoto Naka, Joji Nasu
@@ -32,7 +43,7 @@ Solid oxygen provides a unique platform for studying the interplay between struc
 
 ---
 
-## 3. Altermagnetism in Folded Iron Chain Systems
+## 4. Altermagnetism in Folded Iron Chain Systems
 
 - **提交日期**：2026-10-22
 - **作者**：Ling-Fang Lin, Yang Zhang, Satoshi Okamoto, Adriana Moreo, Lun-Hui Hu, Elbio Dagotto
@@ -43,7 +54,7 @@ Altermagnetism, a moment-compensated magnetism with momentum-dependent spin spli
 
 ---
 
-## 4. Emergent altermagnetism in (LaVO${}\_3$)${}\_n$/(LaNiO${}\_3$)${}\_m$ superlattices from interfacial charge transfer and octahedral tilts
+## 5. Emergent altermagnetism in (LaVO${}\_3$)${}\_n$/(LaNiO${}\_3$)${}\_m$ superlattices from interfacial charge transfer and octahedral tilts
 
 - **提交日期**：2026-10-21
 - **作者**：Gustavo H. Cassemiro, Walber H. Brito
@@ -54,7 +65,7 @@ Using first-principles calculations, we show that altermagnetism emerges in (LaV
 
 ---
 
-## 5. Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models
+## 6. Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models
 
 - **提交日期**：2026-10-21
 - **作者**：Hyun-Yong Lee, Naoki Kawashima
@@ -65,7 +76,7 @@ The full frequency dependence of electronic interactions is central to dynamical
 
 ---
 
-## 6. Engineering nonrelativistic spin splitting in semiconductors by altermagnetic proximity
+## 7. Engineering nonrelativistic spin splitting in semiconductors by altermagnetic proximity
 
 - **提交日期**：2026-10-16
 - **作者**：Sing Lam Wong, Marcel Franz
@@ -76,7 +87,7 @@ Altermagnets combine vanishing net magnetization with momentum-dependent, nonrel
 
 ---
 
-## 7. Termination-dependent surface Fermiology in the intercalated altermagnet CoNb${}\_4$Se${}\_8$
+## 8. Termination-dependent surface Fermiology in the intercalated altermagnet CoNb${}\_4$Se${}\_8$
 
 - **提交日期**：2026-10-16
 - **作者**：Pietro Maria Forcella, Alessandro De Vita, Matthew D. Watson, Sammar Tayyab, Chiara Bigi, Iulia Cojocariu, Marcin Szpytma, Matteo Jugovac, Andrea Locatelli, Tevfik Onur Mentes, My Bang Petersen, Paolo Moras, Polina M. Sheverdyaeva, Christopher Candelora, Ilija Zeljkovic, Federico Motti, Jill A. Miwa, Vincent Polewczyk, Matthieu Jamet, Matteo Calandra, Younghun Hwang, Davide Romanin, Federico Mazzola
@@ -87,7 +98,7 @@ Altermagnets have recently gained attention for hosting symmetry-enforced spin-s
 
 ---
 
-## 8. Hidden Staggered Superconducting Order in V2Se2O-Family Altermagnets
+## 9. Hidden Staggered Superconducting Order in V2Se2O-Family Altermagnets
 
 - **提交日期**：2026-10-16
 - **作者**：Chun Yu Wan, Xiangxi Zhang, Fei Yang, Junwei Liu
@@ -98,7 +109,7 @@ $η$ pairing describes a staggered superconducting condensate whose order parame
 
 ---
 
-## 9. Comment on "Skyrmion Hall Effect in Altermagnets"
+## 10. Comment on "Skyrmion Hall Effect in Altermagnets"
 
 - **提交日期**：2026-10-15
 - **作者**：Nicolai Timon Bechler, Jan Masell
@@ -109,7 +120,7 @@ In their Letter, Jin et al. [Phys. Rev. Lett. 133, 196701 (2024)] predict a tran
 
 ---
 
-## 10. Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \bar1 00)$ surface
+## 11. Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \bar1 00)$ surface
 
 - **提交日期**：2026-10-14
 - **作者**：D. A. Usanov, A. B. Hellenes, S. Hahn, M. Leandersson, J. Osiecki, K. Uhlířová, D. Evtushinsky, L. Šmejkal, T. Jungwirth, J. H. Dil
@@ -120,7 +131,7 @@ Altermagnetism gives rise to momentum-dependent spin splitting without net magne
 
 ---
 
-## 11. Topological superconductivity in layered d-wave altermagnetic metals
+## 12. Topological superconductivity in layered d-wave altermagnetic metals
 
 - **提交日期**：2026-10-13
 - **作者**：Yijie Mo, Zhongbo Yan
@@ -131,7 +142,7 @@ We investigate multilayer d-wave altermagnetic metals with odd-parity helical p-
 
 ---
 
-## 12. Altermagnetic Ground States on the Ammann--Beenker Tiling
+## 13. Altermagnetic Ground States on the Ammann--Beenker Tiling
 
 - **提交日期**：2026-10-13
 - **作者**：SeungBeom Hong, YunHo Kim, Moon Jip Park, GiBaik Sim
@@ -142,7 +153,7 @@ We identify exact altermagnetic ground states of a classical Heisenberg model on
 
 ---
 
-## 13. Crystal growth, magnetic, and transport properties of the candidate altermagnet Cr${}\_{1/4}$NbS${}\_{2}$
+## 14. Crystal growth, magnetic, and transport properties of the candidate altermagnet Cr${}\_{1/4}$NbS${}\_{2}$
 
 - **提交日期**：2026-10-12
 - **作者**：Nashra Pistawala, Martin R. Lees, Geetha Balakrishnan, Daniel A. Mayoh
@@ -153,7 +164,7 @@ Altermagnetism is a rapidly emerging paradigm in condensed matter magnetism, yet
 
 ---
 
-## 14. Superconductivity from altermagnetic fluctuations: the crucial role of sublattice polarization
+## 15. Superconductivity from altermagnetic fluctuations: the crucial role of sublattice polarization
 
 - **提交日期**：2026-10-12
 - **作者**：Mats Barkman, Andreas Kreisel, Brian M. Andersen
@@ -164,7 +175,7 @@ Unconventional superconductivity in correlated systems often appears in the vici
 
 ---
 
-## 15. Altermagnetic Control of Charge-4e Superconductivity
+## 16. Altermagnetic Control of Charge-4e Superconductivity
 
 - **提交日期**：2026-10-09
 - **作者**：Yan-Guang Yue, Jie Lou, Yan Chen
@@ -175,7 +186,7 @@ We show that a two-dimensional classical array of conventional superconducting i
 
 ---
 
-## 16. Magnetic-field-induced detwinning of orientational domains in altermagnet $α$-MnTe: A single-crystal neutron diffraction study
+## 17. Magnetic-field-induced detwinning of orientational domains in altermagnet $α$-MnTe: A single-crystal neutron diffraction study
 
 - **提交日期**：2026-10-09
 - **作者**：Feihao Pan, Yishui Zhou, Sabreen Hammouda, Yinghao Zhu, Soohyeon Shin, Karin Schmalzl, Wolfgang Schmidt, Eric Ressouche, Oscar Fabelo, Yixi Su
@@ -186,7 +197,7 @@ Altermagnets combine compensated magnetic order with momentum-dependent spin spl
 
 ---
 
-## 17. Magnon band splitting without altermagnetism in CuF2
+## 18. Magnon band splitting without altermagnetism in CuF2
 
 - **提交日期**：2026-10-08
 - **作者**：Ioannis Rousochatzakis, Oleg Janson, Alexander A. Tsirlin
@@ -197,7 +208,7 @@ Conclusive identification of an altermagnetic state requires going beyond mere s
 
 ---
 
-## 18. Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction
+## 19. Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction
 
 - **提交日期**：2026-10-08
 - **作者**：Yifan Gao, Jin Yan, Junjie Wei, Yifan Zhang, Zhiyuan Zhou, Tong Zou, Ruiyue Chu, Gui Wang, Kaiwen Shen, Zhiwei Zhang, Fang Chen, Yingfen Wei, Hao Jiang, Xumeng Zhang, Ming Wang, Liyang Liao, Jingli Wang, Yijun Yu, Wu Shi, Qi Yao, Xiaobing Chen, Qihang Liu, Yizheng Wu, Yuhang Li, Xufeng Kou, Cheng Song, Xianzhe Chen, Qi Liu, Xincheng Xie, Ming Liu
@@ -208,7 +219,7 @@ Altermagnetic materials, characterized by vanishing net magnetization and moment
 
 ---
 
-## 19. Reading Altermagnetic Domains with Photon Drag
+## 20. Reading Altermagnetic Domains with Photon Drag
 
 - **提交日期**：2026-10-07
 - **作者**：Sayed Ali Akbar Ghorashi, Andrew M. Rappe
@@ -219,7 +230,7 @@ Finite photon momentum allows second-order photocurrents in centrosymmetric spac
 
 ---
 
-## 20. Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism
+## 21. Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism
 
 - **提交日期**：2026-10-07
 - **作者**：Hana Schiff, Judit Romhányi, Paul McClarty, Jeffrey G. Rau
@@ -230,7 +241,7 @@ In this work we study phenomenological Landau theories of non-relativistic magne
 
 ---
 
-## 21. Magnetic Order from First-Principles Linear Response
+## 22. Magnetic Order from First-Principles Linear Response
 
 - **提交日期**：2026-10-07
 - **作者**：Yaroslav Zhumagulov, Emiliano Cruz-Aranda, Denis Kochan, Oleg V. Yazyev
@@ -241,7 +252,7 @@ The magnetic order of a material is usually predicted by comparing the energies 
 
 ---
 
-## 22. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
+## 23. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
 
 - **提交日期**：2026-10-01
 - **作者**：Huaisong Zhao, Peng Zou, Xia-Ji Liu, Hui Hu
@@ -252,7 +263,7 @@ We investigate collective modes in charge-neutral altermagnetic superconductors 
 
 ---
 
-## 23. Entropy-Driven Altermagnetism from Thermal Magnons
+## 24. Entropy-Driven Altermagnetism from Thermal Magnons
 
 - **提交日期**：2026-09-30
 - **作者**：Tanaya Halder, Ashis K. Nandy, Anamitra Mukherjee
