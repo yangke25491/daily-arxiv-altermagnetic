@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-09-30 至 2026-10-30**
-> 数据检索到 **24** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-01 至 2026-10-31**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -260,17 +260,6 @@ The magnetic order of a material is usually predicted by comparing the energies 
 
 ### 摘要
 We investigate collective modes in charge-neutral altermagnetic superconductors with $d$-wave spin-split bands, focusing on the impact of emergent Bogoliubov Fermi surfaces. In the absence of a magnetic field, the BCS state supports collective modes that inherit the underlying $d$-wave symmetry, resulting in pronounced momentum-space anisotropy. The broken time-reversal symmetry further couples these modes to spin-density fluctuations, allowing their signatures to emerge in the spin dynamical structure factor. Upon applying a magnetic field, Bogoliubov Fermi surfaces emerge and qualitatively reshape the collective-mode dynamics through gapless particle-hole excitations and strongly anisotropic Landau damping. The damping is strongest along the momentum-space diagonal, where it can suppress the low-energy phonon mode at small momenta. Remarkably, the suppressed phonon is accompanied by the emergence of an in-gap structure in the Higgs mode and an associated pronounced enhancement of the spin response. These results establish Bogoliubov Fermi surfaces as a mechanism for generating highly anisotropic collective-mode dynamics and identify spin response as a sensitive probe of in-gap Higgs excitations in altermagnetic superconductors.
-
----
-
-## 24. Entropy-Driven Altermagnetism from Thermal Magnons
-
-- **提交日期**：2026-09-30
-- **作者**：Tanaya Halder, Ashis K. Nandy, Anamitra Mukherjee
-- **arXiv链接**：[http://arxiv.org/abs/2609.40002v1](http://arxiv.org/abs/2609.40002v1)
-
-### 摘要
-We identify a route to altermagnetism driven by entropy upon heating and demonstrate it in a minimal square-lattice antiferromagnet. An exchange modulation is entropically favored because the resulting momentum-dependent magnon splitting increases the magnon entropy, thereby lowering the free energy and favoring altermagnetism. We derive an instability criterion for this exchange-modulated state, predict its temperature-driven reentrant behavior, and show that its overlap with Néel order defines a finite-temperature altermagnetic phase. Variational spin-wave theory, spin--lattice Monte Carlo, and cluster diagonalization establish the entropy-driven instability and its coexistence with magnetic order. The resulting state supports a transverse spin conductivity. The mechanism provides a route to thermally induced altermagnetism in compensated magnets coupled to sufficiently soft physical modes.
 
 ---
 
