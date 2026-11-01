@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-01 至 2026-10-31**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-02 至 2026-11-01**
+> 数据检索到 **22** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -249,17 +249,6 @@ In this work we study phenomenological Landau theories of non-relativistic magne
 
 ### 摘要
 The magnetic order of a material is usually predicted by comparing the energies of trial spin configurations, a strategy that cannot reach orders outside the chosen set and rapidly becomes intractable as the number of magnetic sites grows. We show that the order can instead be identified directly from the paramagnetic state: the leading eigenmodes of its self-consistent magnetization response, obtained with spin--orbit coupling at arbitrary wavevector within the primitive cell, determine both the ordering wavevector and the pattern of moments, with no candidate configurations. With no prior assumption about the order, the method correctly reproduces the G-type stacking with out-of-plane moments in the altermagnet candidate KV${}\_2$Se${}\_2$O, the $3{:}1$ ferrimagnetic tetrahedra of Cu${}\_2$OSeO${}\_3$, and the incommensurate spiral instability of monolayer NiI${}\_2$. Our results establish the response of the paramagnetic state as a predictive and unbiased route to assessing magnetic order, enabling systematic searches for complex magnets.
-
----
-
-## 23. Highly anisotropic collective modes of altermagnetic superconductors with Bogoliubov Fermi surfaces
-
-- **提交日期**：2026-10-01
-- **作者**：Huaisong Zhao, Peng Zou, Xia-Ji Liu, Hui Hu
-- **arXiv链接**：[http://arxiv.org/abs/2610.01011v1](http://arxiv.org/abs/2610.01011v1)
-
-### 摘要
-We investigate collective modes in charge-neutral altermagnetic superconductors with $d$-wave spin-split bands, focusing on the impact of emergent Bogoliubov Fermi surfaces. In the absence of a magnetic field, the BCS state supports collective modes that inherit the underlying $d$-wave symmetry, resulting in pronounced momentum-space anisotropy. The broken time-reversal symmetry further couples these modes to spin-density fluctuations, allowing their signatures to emerge in the spin dynamical structure factor. Upon applying a magnetic field, Bogoliubov Fermi surfaces emerge and qualitatively reshape the collective-mode dynamics through gapless particle-hole excitations and strongly anisotropic Landau damping. The damping is strongest along the momentum-space diagonal, where it can suppress the low-energy phonon mode at small momenta. Remarkably, the suppressed phonon is accompanied by the emergence of an in-gap structure in the Higgs mode and an associated pronounced enhancement of the spin response. These results establish Bogoliubov Fermi surfaces as a mechanism for generating highly anisotropic collective-mode dynamics and identify spin response as a sensitive probe of in-gap Higgs excitations in altermagnetic superconductors.
 
 ---
 
