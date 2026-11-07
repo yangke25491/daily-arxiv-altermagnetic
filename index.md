@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-07 至 2026-11-06**
-> 数据检索到 **26** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-08 至 2026-11-07**
+> 数据检索到 **23** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -260,39 +260,6 @@ Conclusive identification of an altermagnetic state requires going beyond mere s
 
 ### 摘要
 Altermagnetic materials, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a unique platform for realizing unconventional superconducting states without the detrimental stray fields. Here, we demonstrate long-distance Josephson supercurrent transport through epitaxial thin films of the strained altermagnet CrSb. We observe a dissipationless supercurrent across a lateral spacer distance of 150 nm in a CrSb-based Josephson junction, exceeding the conventional spin-singlet coherence length by nearly two orders of magnitude. This supercurrent is further accompanied by a well-defined magnetic-field-induced quantum interference pattern, providing direct evidence for genuine Josephson coupling. Our results reveal altermagnets as a promising route toward generating long-distance supercurrents without macroscopic magnetic stray fields, opening new opportunities for superconducting spintronic applications.
-
----
-
-## 24. Reading Altermagnetic Domains with Photon Drag
-
-- **提交日期**：2026-10-07
-- **作者**：Sayed Ali Akbar Ghorashi, Andrew M. Rappe
-- **arXiv链接**：[http://arxiv.org/abs/2610.10970v1](http://arxiv.org/abs/2610.10970v1)
-
-### 摘要
-Finite photon momentum allows second-order photocurrents in centrosymmetric space groups, where the conventional bulk photovoltaic effect is forbidden. Here we study the photon-drag response of altermagnets and show that its angular dependence reveals both the symmetry of the magnetic order and the Néel domain of the sample. For example, when a crystal rotation exchanges the two domains, the domain-even and domain-odd parts of the current appear in different angular harmonics, $4n$ and $4n+2$ for tetragonal $d$-wave altermagnets, so that two measurements rotated by $90^\circ$ on a single domain isolate the domain-odd current. We also find that these microscopic contributions exhibit opposite domain parities depending on light polarization. Under linear light, only the shift term is domain odd, while under circular light, the domain-odd channel switches to the injection, Fermi-surface, and contact principal-value terms. Mirror symmetries fix the angular phase of each harmonic and distinguish $d\_{x^2-y^2}$, $d\_{xy}$, and $g$-wave order. In contrast, conventional collinear antiferromagnets show no domain-odd photon-drag current, and in tetragonal ferromagnets the two parts share the same harmonics. Although the altermagnetic spin splitting does not require spin-orbit coupling (SOC), SOC is essential to observe the domain-odd charge current. Our work uncovers distinct signatures of altermagnetism in photon drag and provides a route to all optical magnetic readouts of altermagnets.
-
----
-
-## 25. Landau Theory for Non-relativistic Magnetism Beyond Altermagnetism
-
-- **提交日期**：2026-10-07
-- **作者**：Hana Schiff, Judit Romhányi, Paul McClarty, Jeffrey G. Rau
-- **arXiv链接**：[http://arxiv.org/abs/2610.10523v1](http://arxiv.org/abs/2610.10523v1)
-
-### 摘要
-In this work we study phenomenological Landau theories of non-relativistic magnetic systems, generalizing work on the collinear case to coplanar and non-coplanar orders. Focusing on zero-wavevector ($\boldsymbol{k}=0$) magnetic orders described by a single irreducible representation of the crystallographic point group, we construct the symmetry-allowed free energies to quartic order for all possible multi-dimensional irreducible ordering channels. We find distinct Landau theories for tetragonal, trigonal/hexagonal, and cubic symmetry. Similar to the case of spin-nematic fluids, we find two natural outcomes: a collapse to a lower-symmetry collinear phase or a genuinely coplanar or non-coplanar order where the order parameters form a mutually orthogonal set in spin space -- reminiscent of the $A$ and $B$ phases in ${}^3$He. We show in general that this symmetry-broken phase realizes the spin space group associated with the spatial representation of the order parameter sharing the same parent space group as the paramagnetic phase. This provides a direct link between the Landau and spin space group approaches. We calculate key observables using this Landau approach, including net magnetization, spin conductivity, multipolar moments, and piezomagnetism, connecting our results to constraints from the underlying spin space group. Examples of coplanar and non-coplanar magnetic orders for each case are worked out in detail. Finally, we discuss the relationship of the lower-symmetry collinear phases to the usual collinear spin groups, as well as connections to atomic altermagnetism, superfluid ${}^3$He and electronic nematic phases.
-
----
-
-## 26. Magnetic Order from First-Principles Linear Response
-
-- **提交日期**：2026-10-07
-- **作者**：Yaroslav Zhumagulov, Emiliano Cruz-Aranda, Denis Kochan, Oleg V. Yazyev
-- **arXiv链接**：[http://arxiv.org/abs/2610.10412v1](http://arxiv.org/abs/2610.10412v1)
-
-### 摘要
-The magnetic order of a material is usually predicted by comparing the energies of trial spin configurations, a strategy that cannot reach orders outside the chosen set and rapidly becomes intractable as the number of magnetic sites grows. We show that the order can instead be identified directly from the paramagnetic state: the leading eigenmodes of its self-consistent magnetization response, obtained with spin--orbit coupling at arbitrary wavevector within the primitive cell, determine both the ordering wavevector and the pattern of moments, with no candidate configurations. With no prior assumption about the order, the method correctly reproduces the G-type stacking with out-of-plane moments in the altermagnet candidate KV${}\_2$Se${}\_2$O, the $3{:}1$ ferrimagnetic tetrahedra of Cu${}\_2$OSeO${}\_3$, and the incommensurate spiral instability of monolayer NiI${}\_2$. Our results establish the response of the paramagnetic state as a predictive and unbiased route to assessing magnetic order, enabling systematic searches for complex magnets.
 
 ---
 
