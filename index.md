@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-08 至 2026-11-07**
-> 数据检索到 **23** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-09 至 2026-11-08**
+> 数据检索到 **21** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -238,28 +238,6 @@ We show that a two-dimensional classical array of conventional superconducting i
 
 ### 摘要
 Altermagnets combine compensated magnetic order with momentum-dependent spin splitting, which makes them promising for future spintronic and magnonic applications, but their macroscopic responses can be strongly reduced by domain averaging. In hexagonal $α$-MnTe, three symmetry-related in-plane Néel-vector orientations and their time-reversal counterparts form six magnetic domain states, complicating both magnetic structure determination and measurements of the chiral magnon response. Using single-crystal neutron diffraction, we show that an in-plane field applied along the $[-1,1,0]$ direction produces a common magnetic domain orientation that saturates near $μ\_0H=2$ T. A constrained refinement of 61 nuclear and magnetic reflections collected at 2 K and 2 T yields $\mathbf{M}\parallel[1,1,0]$, an ordered moment of $4.62(8)~μ\_\mathrm{B}$ per Mn, and an orientational domain population at $r\_A:r\_B:r\_C=0.97:0.03(5):0$ that is compatible with a nearly complete alignment of orientational domains. Furthermore, an abnormal behaviour in the temperature dependence of the selected reflections is observed in 60-88 K, its microscopic origin is discussed within the context of possible intrinsic piezomagnetic or magnetoelastic effects. Because unpolarized diffraction neither distinguishes domain repopulation from continuous Néel-vector rotation nor resolves time-reversal antiphase domains, the field-prepared state is a near-single-orientation state rather than a truly single-domain state. This non-contact domain control provides a practical complement to strain and field-cooling approaches for preparing well-defined magnetic states in bulk $α$-MnTe.
-
----
-
-## 22. Magnon band splitting without altermagnetism in CuF2
-
-- **提交日期**：2026-10-08
-- **作者**：Ioannis Rousochatzakis, Oleg Janson, Alexander A. Tsirlin
-- **arXiv链接**：[http://arxiv.org/abs/2610.11838v1](http://arxiv.org/abs/2610.11838v1)
-
-### 摘要
-Conclusive identification of an altermagnetic state requires going beyond mere symmetry arguments. We illustrate this in a combined computational and experimental study of the rutile-like material CuF${}\_2$, which is on the list of predicted altermagnets. Using ab initio and linear spin-wave calculations supplied by magnetization measurements, we show that CuF${}\_2$ in its experimental monoclinic structure can be described by a spin-$\frac12$ model of weakly coupled square-lattice layers with the in-plane coupling $J\_1\simeq 115$ K and two synergistic antiferromagnetic interplane couplings amounting to 4% and 8% of $J\_1$, respectively. Driven by long-range superexchange, these interlayer couplings are oblique to the square planes, resulting in the unit-cell doubling in the magnetically ordered state, thus effectively suppressing any altermagnetic band splitting. Concurrently, we identify unusually strong Dzyaloshinskii-Moriya interactions, $|\mathbf D|/J\_1\simeq 0.3$, that produce spin canting and, together with order-by-disorder effect, pin the Néel vector to the crystallographic $b$-axis. Additionally, DM anisotropy promotes magnon band splitting, but these bands remain non-chiral. Our results highlight the importance of relativistic effects even in $3d$ magnets with altermagnetic symmetries.
-
----
-
-## 23. Strain-engineered long-distance supercurrent in an altermagnetic CrSb based-Josephson junction
-
-- **提交日期**：2026-10-08
-- **作者**：Yifan Gao, Jin Yan, Junjie Wei, Yifan Zhang, Zhiyuan Zhou, Tong Zou, Ruiyue Chu, Gui Wang, Kaiwen Shen, Zhiwei Zhang, Fang Chen, Yingfen Wei, Hao Jiang, Xumeng Zhang, Ming Wang, Liyang Liao, Jingli Wang, Yijun Yu, Wu Shi, Qi Yao, Xiaobing Chen, Qihang Liu, Yizheng Wu, Yuhang Li, Xufeng Kou, Cheng Song, Xianzhe Chen, Qi Liu, Xincheng Xie, Ming Liu
-- **arXiv链接**：[http://arxiv.org/abs/2610.11341v1](http://arxiv.org/abs/2610.11341v1)
-
-### 摘要
-Altermagnetic materials, characterized by vanishing net magnetization and momentum-dependent spin splitting, provide a unique platform for realizing unconventional superconducting states without the detrimental stray fields. Here, we demonstrate long-distance Josephson supercurrent transport through epitaxial thin films of the strained altermagnet CrSb. We observe a dissipationless supercurrent across a lateral spacer distance of 150 nm in a CrSb-based Josephson junction, exceeding the conventional spin-singlet coherence length by nearly two orders of magnitude. This supercurrent is further accompanied by a well-defined magnetic-field-induced quantum interference pattern, providing direct evidence for genuine Josephson coupling. Our results reveal altermagnets as a promising route toward generating long-distance supercurrents without macroscopic magnetic stray fields, opening new opportunities for superconducting spintronic applications.
 
 ---
 
