@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-09 至 2026-11-08**
-> 数据检索到 **21** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-10 至 2026-11-09**
+> 数据检索到 **19** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -216,28 +216,6 @@ Altermagnetism is a rapidly emerging paradigm in condensed matter magnetism, yet
 
 ### 摘要
 Unconventional superconductivity in correlated systems often appears in the vicinity of a magnetically ordered state. This situation is also relevant for altermagnets, characterized by a nonrelativistic spin-split electronic structure in the presence of Néel order. Many proposed altermagnetic candidates, however, never cross the magnetic instability. We study superconductivity arising from altermagnetic fluctuations in such systems and show that the sublattice polarization (SLP) of the normal-state bands plays a pivotal role in determining the superconducting state. SLP, an inherent property of altermagnetic band structures that persists even without magnetic order, prevents Cooper pairs from forming between different sublattices. This suppresses pairing mediated by the nearest-neighbor antiferromagnetic exchange, which favors spin-singlet superconductivity, and leaves longer-range same-sublattice bonds dominant. When the next-nearest-neighbor exchange is ferromagnetic, as expected for frustration-free Néel order, this results in spin-triplet superconductivity. This mechanism is fundamentally different from that in altermagnets with long-range Néel order, where the spin-split Fermi surfaces favor equal-spin pairing. Finally, when longer-range interactions in the disordered phase instead favor singlet pairing, SLP leads to singlet states with characteristic properties distinct from nearest-neighbor pairing states.
-
----
-
-## 20. Altermagnetic Control of Charge-4e Superconductivity
-
-- **提交日期**：2026-10-09
-- **作者**：Yan-Guang Yue, Jie Lou, Yan Chen
-- **arXiv链接**：[http://arxiv.org/abs/2610.13584v2](http://arxiv.org/abs/2610.13584v2)
-
-### 摘要
-We show that a two-dimensional classical array of conventional superconducting islands coupled by altermagnetic Josephson junctions supports an independent charge-4e phase. Tuning the altermagnetic splitting suppresses the leading single-pair tunneling harmonic while retaining strong double-pair coupling, producing a finite charge-4e region between staggered and uniform charge-2e states. Using the complete temperature-dependent microscopic Josephson spectrum, we find short-range ordinary pair correlations alongside algebraic coherence of pairs of Cooper pairs. Berezinskii--Kosterlitz--Thouless scaling and a half-flux response further identify the charge-4e phase. Our results establish altermagnetism as a microscopic means to select between ordinary and composite superconducting coherence.
-
----
-
-## 21. Magnetic-field-induced detwinning of orientational domains in altermagnet $α$-MnTe: A single-crystal neutron diffraction study
-
-- **提交日期**：2026-10-09
-- **作者**：Feihao Pan, Yishui Zhou, Sabreen Hammouda, Yinghao Zhu, Soohyeon Shin, Karin Schmalzl, Wolfgang Schmidt, Eric Ressouche, Oscar Fabelo, Yixi Su
-- **arXiv链接**：[http://arxiv.org/abs/2610.13444v1](http://arxiv.org/abs/2610.13444v1)
-
-### 摘要
-Altermagnets combine compensated magnetic order with momentum-dependent spin splitting, which makes them promising for future spintronic and magnonic applications, but their macroscopic responses can be strongly reduced by domain averaging. In hexagonal $α$-MnTe, three symmetry-related in-plane Néel-vector orientations and their time-reversal counterparts form six magnetic domain states, complicating both magnetic structure determination and measurements of the chiral magnon response. Using single-crystal neutron diffraction, we show that an in-plane field applied along the $[-1,1,0]$ direction produces a common magnetic domain orientation that saturates near $μ\_0H=2$ T. A constrained refinement of 61 nuclear and magnetic reflections collected at 2 K and 2 T yields $\mathbf{M}\parallel[1,1,0]$, an ordered moment of $4.62(8)~μ\_\mathrm{B}$ per Mn, and an orientational domain population at $r\_A:r\_B:r\_C=0.97:0.03(5):0$ that is compatible with a nearly complete alignment of orientational domains. Furthermore, an abnormal behaviour in the temperature dependence of the selected reflections is observed in 60-88 K, its microscopic origin is discussed within the context of possible intrinsic piezomagnetic or magnetoelastic effects. Because unpolarized diffraction neither distinguishes domain repopulation from continuous Néel-vector rotation nor resolves time-reversal antiphase domains, the field-prepared state is a near-single-orientation state rather than a truly single-domain state. This non-contact domain control provides a practical complement to strain and field-cooling approaches for preparing well-defined magnetic states in bulk $α$-MnTe.
 
 ---
 
