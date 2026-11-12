@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-12 至 2026-11-11**
-> 数据检索到 **20** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-13 至 2026-11-12**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -205,28 +205,6 @@ We investigate multilayer d-wave altermagnetic metals with odd-parity helical p-
 
 ### 摘要
 We identify exact altermagnetic ground states of a classical Heisenberg model on a quasicrystal. Considering the Ammann--Beenker tiling as an example, we determine the ground states by exploiting the parity structure of its parent four-dimensional hypercubic lattice. The ground state hosts coplanar altermagnetic order characterized by the preserved spin-group symmetry $[C\_{2x}\parallel C\_{8z}]$. Without translational symmetry, the momentum-space spin splitting that usually identifies altermagnets is not directly accessible. We instead couple the spins to itinerant electrons and show spin-resolved transport with $g$-wave symmetry, confirming the altermagnetic nature in a nonperiodic system. Our results establish a geometric route to altermagnetic order in quasicrystals, connecting exact magnetic ground states to their spin-resolved transport signatures.
-
----
-
-## 19. Crystal growth, magnetic, and transport properties of the candidate altermagnet Cr${}\_{1/4}$NbS${}\_{2}$
-
-- **提交日期**：2026-10-12
-- **作者**：Nashra Pistawala, Martin R. Lees, Geetha Balakrishnan, Daniel A. Mayoh
-- **arXiv链接**：[http://arxiv.org/abs/2610.17452v1](http://arxiv.org/abs/2610.17452v1)
-
-### 摘要
-Altermagnetism is a rapidly emerging paradigm in condensed matter magnetism, yet the number of experimentally confirmed altermagnetic candidates remains remarkably limited. Cr${}\_{1/4}$NbS${}\_2$ has long been theoretically proposed as a promising altermagnet, but there are no reports on experimental investigation of single crystals. Here, we report the successful growth of high-quality single crystals of Cr${}\_{1/4}$NbS${}\_2$ and present its structural, thermal, magnetic, and transport properties. Single-crystal X-ray diffraction provides detailed crystallographic information and confirms the hexagonal crystal symmetry ($P6\_3/mmc$), one of the criteria for altermagnetic behavior. Resistivity and heat capacity measurements unambiguously identify an antiferromagnetic Néel temperature of $T\_N \sim 141$ K. Magnetotransport measurements reveal non-trivial features in the magnetoresistance and Hall response, indicative of quantum diffusive transport phenomena. Cr${}\_{1/4}$NbS${}\_2$, synthesized here for the first time in single-crystalline form, therefore serves as an experimental platform for probing the rich spectrum of phenomena predicted for altermagnetic materials.
-
----
-
-## 20. Superconductivity from altermagnetic fluctuations: the crucial role of sublattice polarization
-
-- **提交日期**：2026-10-12
-- **作者**：Mats Barkman, Andreas Kreisel, Brian M. Andersen
-- **arXiv链接**：[http://arxiv.org/abs/2610.16507v1](http://arxiv.org/abs/2610.16507v1)
-
-### 摘要
-Unconventional superconductivity in correlated systems often appears in the vicinity of a magnetically ordered state. This situation is also relevant for altermagnets, characterized by a nonrelativistic spin-split electronic structure in the presence of Néel order. Many proposed altermagnetic candidates, however, never cross the magnetic instability. We study superconductivity arising from altermagnetic fluctuations in such systems and show that the sublattice polarization (SLP) of the normal-state bands plays a pivotal role in determining the superconducting state. SLP, an inherent property of altermagnetic band structures that persists even without magnetic order, prevents Cooper pairs from forming between different sublattices. This suppresses pairing mediated by the nearest-neighbor antiferromagnetic exchange, which favors spin-singlet superconductivity, and leaves longer-range same-sublattice bonds dominant. When the next-nearest-neighbor exchange is ferromagnetic, as expected for frustration-free Néel order, this results in spin-triplet superconductivity. This mechanism is fundamentally different from that in altermagnets with long-range Néel order, where the spin-split Fermi surfaces favor equal-spin pairing. Finally, when longer-range interactions in the disordered phase instead favor singlet pairing, SLP leads to singlet states with characteristic properties distinct from nearest-neighbor pairing states.
 
 ---
 
