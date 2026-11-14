@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-14 至 2026-11-13**
-> 数据检索到 **19** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-15 至 2026-11-14**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -205,17 +205,6 @@ $η$ pairing describes a staggered superconducting condensate whose order parame
 
 ### 摘要
 In their Letter, Jin et al. [Phys. Rev. Lett. 133, 196701 (2024)] predict a transverse velocity $v\_y$ for skyrmions driven by spin-transfer torque (STT), known as skyrmion Hall effect (SkHE), in d-wave altermagnets. Usually, the SkHE emerges from the skyrmion's topological charge which here cancels between sublattices. Instead, Jin et al. attribute the SkHE to the dimensionless quadrupole tensor $A\_{ij}$. The result in their Eq. (12) is fitted to micromagnetic simulations, yielding a finite value for $A\_{xy}$. However, via the divergence theorem, $A\_{ij}$ simplifies to a boundary integral that vanishes for a sufficiently smooth and localized texture. In this Comment, we substantiate our claim from Ref. [2] that the numerically observed SkHE by Jin et al. for a micromagnetic model with standard Zhang-Li STT in the individual sublattices is merely a discretization artefact.
-
----
-
-## 19. Influence of the Néel vector on the bulk electronic structure of MnTe measured from the $(1 \bar1 00)$ surface
-
-- **提交日期**：2026-10-14
-- **作者**：D. A. Usanov, A. B. Hellenes, S. Hahn, M. Leandersson, J. Osiecki, K. Uhlířová, D. Evtushinsky, L. Šmejkal, T. Jungwirth, J. H. Dil
-- **arXiv链接**：[http://arxiv.org/abs/2610.20383v1](http://arxiv.org/abs/2610.20383v1)
-
-### 摘要
-Altermagnetism gives rise to momentum-dependent spin splitting without net magnetization. Here, we use angle-resolved photoemission spectroscopy (ARPES) to investigate bulk $α$-MnTe single crystals cleaved along the $(1\bar{1}00)$ plane - an orientation that preserves the compensated magnetic symmetry at the surface and substantially reduces surface effects and $k\_z$ broadening. We resolve the three-dimensional bulk band structure with markedly enhanced spectral clarity. The $d$-wave band splitting, driven by the altermagnetic order and spin-orbit coupling in the $\mathbfΓ-\mathbf{K}-\mathbf{M}$ nodal plane, shows a perfect match to theoretical predictions. We further establish that the valence-band maximum occurs near the $\mathbf{A}$ point, identifying the corresponding hole pockets as the states governing the transport properties. Spatially resolved measurements reveal systematic variations of the band dispersion along $\mathbfΓ-\mathbf{K}$ and $\mathbf{A}-\mathbf{L}$, associated with different pinning of the Néel vector at the surface. Our results establish a surface-sensitive route to resolving the bulk altermagnetic electronic structure of MnTe and provide direct spectroscopic evidence for Néel-vector-dependent band splitting.
 
 ---
 
