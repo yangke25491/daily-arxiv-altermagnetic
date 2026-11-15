@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-15 至 2026-11-14**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-16 至 2026-11-15**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -194,17 +194,6 @@ Altermagnets have recently gained attention for hosting symmetry-enforced spin-s
 
 ### 摘要
 $η$ pairing describes a staggered superconducting condensate whose order parameter changes sign between neighboring unit cells while maintaining a uniform magnitude. Nearly four decades after its theoretical proposal by C. N. Yang, a material platform for stabilizing $η$ pairing has remained elusive. Here, we reveal that altermagnetism, despite being pair breaking for conventional BCS pairing, naturally favors $η$-like pairing in V${}\_2$Se${}\_2$O-family altermagnets. Their valley-contrasting spin structure gives rise to oppositely spin-polarized, symmetry-related valleys centered at $X=(π,0)$ and $Y=(0,π)$, which form spin-singlet pairing partners separated by the commensurate momentum $\mathbf Q=(π,π)$, thereby favoring an $η$-like condensate. Self-consistent calculations demonstrate that the resulting $η$-like state remains robust over broad variations of chemical potential, hopping parameters, and Fermi-surface topology. To detect this hidden staggered order, we propose a phase-sensitive Josephson measurement with a uniform superconductor, where destructive interference suppresses single-Cooper-pair tunneling while preserving two-Cooper-pair processes. This constitutes a charge-$4e$-like Josephson response despite a bulk condensate composed of charge-$2e$ Cooper pairs, providing a direct phase-sensitive signature of the otherwise elusive $η$-like condensate in V${}\_2$Se${}\_2$O-family altermagnets.
-
----
-
-## 18. Comment on "Skyrmion Hall Effect in Altermagnets"
-
-- **提交日期**：2026-10-15
-- **作者**：Nicolai Timon Bechler, Jan Masell
-- **arXiv链接**：[http://arxiv.org/abs/2610.22486v1](http://arxiv.org/abs/2610.22486v1)
-
-### 摘要
-In their Letter, Jin et al. [Phys. Rev. Lett. 133, 196701 (2024)] predict a transverse velocity $v\_y$ for skyrmions driven by spin-transfer torque (STT), known as skyrmion Hall effect (SkHE), in d-wave altermagnets. Usually, the SkHE emerges from the skyrmion's topological charge which here cancels between sublattices. Instead, Jin et al. attribute the SkHE to the dimensionless quadrupole tensor $A\_{ij}$. The result in their Eq. (12) is fitted to micromagnetic simulations, yielding a finite value for $A\_{xy}$. However, via the divergence theorem, $A\_{ij}$ simplifies to a boundary integral that vanishes for a sufficiently smooth and localized texture. In this Comment, we substantiate our claim from Ref. [2] that the numerically observed SkHE by Jin et al. for a micromagnetic model with standard Zhang-Li STT in the individual sublattices is merely a discretization artefact.
 
 ---
 
