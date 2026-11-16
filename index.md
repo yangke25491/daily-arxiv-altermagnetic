@@ -5,12 +5,34 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-16 至 2026-11-15**
-> 数据检索到 **17** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-17 至 2026-11-16**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions
+## 1. Controlled Magnon Chirality and Its Reversal by Anisotropy in Altermagnetic FeF${}\_2$
+
+- **提交日期**：2026-11-13
+- **作者**：E. M. Smith, V. O. Garlea, D. Lederman, J. M. Tranquada, I. A. Zaliznyak, J. Sears
+- **arXiv链接**：[http://arxiv.org/abs/2611.18182v1](http://arxiv.org/abs/2611.18182v1)
+
+### 摘要
+In altermagnets, the exchange symmetry of two mutually compensating magnetic sublattices permits spin-polarized electronic bands and chirality-split magnon bands. Because these effects have opposite signs in domains related by time reversal, magnetic-domain control is essential for their observation and utilization. Using half-polarized neutron diffraction, we demonstrate that we can control magnetic domain imbalance in a single crystal of FeF${}\_2$ by field cooling, and we relate this response to the established piezomagnetism in this material. Our half-polarized inelastic neutron scattering measurements directly resolve the altermagnetic splitting of chiral magnon bands. Strikingly, we observe a clear reversal of chirality near $\mathbf{Q}=(0.5,0.5,1)$, where the altermagnetic exchange splitting vanishes and no chirality is expected in a nonrelativistic exchange model. This reversal of the chirality is well explained by the presence of a transverse component of the single-ion anisotropy tensor, which rotates between Fe sublattices related by the crystal's altermagnetic $4\_2$ screw symmetry. These results allow us to resolve fine features of the spin Hamiltonian for FeF${}\_2$ and show how symmetry-governed relativistic anisotropy can reshape altermagnetic spin dynamics, as well as providing an avenue for control of magnetic domains and the net chiral response.
+
+---
+
+## 2. Narrow-Band Magnetism Allowed by Quantum Geometry: Altermagnetism and Beyond
+
+- **提交日期**：2026-11-12
+- **作者**：Minxuan Wang, Pei-Han Lin, Yang Ge, Jiabin Yu
+- **arXiv链接**：[http://arxiv.org/abs/2611.17414v1](http://arxiv.org/abs/2611.17414v1)
+
+### 摘要
+Quantum geometry plays a central role in shaping correlated phases in narrow bands, yet its influence on the competition between distinct magnetic orders, especially the emergence of altermagnetism, remains largely unexplored. To address this question, we study the quadrupole insulator model with strictly onsite generalized Hubbard-Kanamori interactions, in which both Néel antiferromagnetism and altermagnetism are symmetry-permitted. Depending on the parameters, the isolated narrow lowest band of the model can either be obstructed atomic with strong quantum geometry or trivial atomic with weak quantum geometry, while the dispersion is identical in the two cases. By partially filling the lowest band, our Hartree-Fock calculations show only conventional ferromagnetic phases for the weak quantum geometric case, while we find two collinear altermagnetic phases, as well as nematic phases, for the strong quantum geometric case. Such a dramatic difference can be understood by the distinct characters of the projected interaction: the projected interactions acquire sizable longer-range channels only for the strong quantum geometric case, while they are dominated by the on-site Hubbard channel in the weak quantum geometric case. These results establish the essential role of quantum geometry for altermagnetism to emerge from interacting narrow bands where crystalline symmetries cannot sufficiently constrain the magnetic order.
+
+---
+
+## 3. Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions
 
 - **提交日期**：2026-11-12
 - **作者**：Hamed Vakili
@@ -21,7 +43,7 @@ Qudits, which generalize qubits to $d$ levels, store more information per circui
 
 ---
 
-## 2. Kitaev Exchange and Altermagnetism in the Double Perovskite Sr${}\_2$CoTeO${}\_6$: An Ab Initio Study
+## 4. Kitaev Exchange and Altermagnetism in the Double Perovskite Sr${}\_2$CoTeO${}\_6$: An Ab Initio Study
 
 - **提交日期**：2026-11-11
 - **作者**：Alexey V. Ushakov, Sergey V. Strelsov
@@ -32,7 +54,7 @@ The Co$^{2+}$-based double perovskite Sr${}\_2$CoTeO${}\_6$ attracts attention d
 
 ---
 
-## 3. Higher-order topology induced by altermagnetism in quasicrystals
+## 5. Higher-order topology induced by altermagnetism in quasicrystals
 
 - **提交日期**：2026-11-11
 - **作者**：Xingmin Huo, Xingchuan Zhu, Xingyu Ma, Shiping Feng, Huaiming Guo
@@ -43,7 +65,7 @@ Altermagnetism (AM), a novel magnetic phase featuring zero net magnetization and
 
 ---
 
-## 4. Hidden interfacial magnetism in RuO${}\_2$ heterostructures revealed by a superconducting spin switch
+## 6. Hidden interfacial magnetism in RuO${}\_2$ heterostructures revealed by a superconducting spin switch
 
 - **提交日期**：2026-11-10
 - **作者**：Tetsuma Mandokoro, Hisakazu Matsuki, Shutaro Karube, Rodrigo de las Heras, Andrei Mazanik, Akihiro Yamada, Fugo Tokoro, Susumu Hirata, Ryusuke Hisatomi, Yoichi Shiota, Vitaly N. Golovach, F. Sebastian Bergeret, Teruo Ono
@@ -54,7 +76,7 @@ RuO${}\_2$, once the flagship altermagnetic candidate, is now believed to be non
 
 ---
 
-## 5. Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure
+## 7. Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure
 
 - **提交日期**：2026-11-05
 - **作者**：Yingli Gao, Kai Zhang, Ling-Zheng Meng, Junpeng Hou, Ning Li, Ya-Jie Wu
@@ -65,7 +87,7 @@ Zeeman fields are usually required for realizing and manipulating Majorana corne
 
 ---
 
-## 6. LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models
+## 8. LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models
 
 - **提交日期**：2026-11-03
 - **作者**：Yuntian Gu, Chaohui Fan, Ruichen Li, Haoxiang Chen, Weizhong Fu, Yixiao Chen, Dingshun Lv, Weiluo Ren, Tao Xiang, Liwei Wang, Mingpu Qin, Xiang Li
@@ -76,7 +98,7 @@ Neural quantum states provide accurate variational representations for interacti
 
 ---
 
-## 7. Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis
+## 9. Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis
 
 - **提交日期**：2026-11-02
 - **作者**：Sijie Xu, Pengcheng Dai
@@ -87,7 +109,7 @@ Neutron scattering provides microscopic information on magnetic order and spin d
 
 ---
 
-## 8. X-ray magnetic circular dichroism in altermagnets: insights from symmetry
+## 10. X-ray magnetic circular dichroism in altermagnets: insights from symmetry
 
 - **提交日期**：2026-10-31
 - **作者**：Hana Schiff, Ishmam Nihal, John Vinson, Robin Msiska, Judit Romhányi, David Lederman, Christoph Klewe, Sujoy Roy, Eric E. Fullerton
@@ -98,7 +120,7 @@ Altermagnets are a unique subset of antiferromagnets possessing ferromagnet-like
 
 ---
 
-## 9. Meta-Altermagnetism and Enhanced Spin-Splitting
+## 11. Meta-Altermagnetism and Enhanced Spin-Splitting
 
 - **提交日期**：2026-10-27
 - **作者**：Bogeng Wen, Hae-Young Kee
@@ -109,7 +131,7 @@ Altermagnets are collinear magnets with zero net magnetization and spin-split el
 
 ---
 
-## 10. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
+## 12. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
 
 - **提交日期**：2026-10-26
 - **作者**：Bai-He Yao, Zhi-Yan Shao, Ye Cao, Fan Yang
@@ -120,7 +142,7 @@ We generalize the previous group-theory based classification of collinear magnet
 
 ---
 
-## 11. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
+## 13. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
 
 - **提交日期**：2026-10-26
 - **作者**：Naomichi Sato, Makoto Naka, Joji Nasu
@@ -131,7 +153,7 @@ Solid oxygen provides a unique platform for studying the interplay between struc
 
 ---
 
-## 12. Altermagnetism in Folded Iron Chain Systems
+## 14. Altermagnetism in Folded Iron Chain Systems
 
 - **提交日期**：2026-10-22
 - **作者**：Ling-Fang Lin, Yang Zhang, Satoshi Okamoto, Adriana Moreo, Lun-Hui Hu, Elbio Dagotto
@@ -142,7 +164,7 @@ Altermagnetism, a moment-compensated magnetism with momentum-dependent spin spli
 
 ---
 
-## 13. Emergent altermagnetism in (LaVO${}\_3$)${}\_n$/(LaNiO${}\_3$)${}\_m$ superlattices from interfacial charge transfer and octahedral tilts
+## 15. Emergent altermagnetism in (LaVO${}\_3$)${}\_n$/(LaNiO${}\_3$)${}\_m$ superlattices from interfacial charge transfer and octahedral tilts
 
 - **提交日期**：2026-10-21
 - **作者**：Gustavo H. Cassemiro, Walber H. Brito
@@ -153,7 +175,7 @@ Using first-principles calculations, we show that altermagnetism emerges in (LaV
 
 ---
 
-## 14. Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models
+## 16. Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models
 
 - **提交日期**：2026-10-21
 - **作者**：Hyun-Yong Lee, Naoki Kawashima
@@ -161,39 +183,6 @@ Using first-principles calculations, we show that altermagnetism emerges in (LaV
 
 ### 摘要
 The full frequency dependence of electronic interactions is central to dynamical correlations, but its numerical cost restricts multiorbital calculations. We formulate the multiloop functional renormalization group directly in the quantics tensor train representation, retaining all three independent vertex frequencies over broad ranges without an explicit high-frequency parametrization. Analytical tensor operators perform frequency transformations and internal summations without dense vertex intermediates. Multiloop corrections improve agreement of vertices and responses with independent references and reproduce the low-energy numerical renormalization group self-energy. Lower-temperature calculations resolve a quadratic frequency contribution to the analytically continued scattering rate. A degenerate two-orbital impurity exhibits distinct spin, orbital, and charge responses at fixed Hund coupling. In a compensated altermagnetic environment, an orbital-level splitting induces a local spin response despite zero magnetization of the unperturbed impurity. Increasing Hund coupling suppresses the orbital response while increasing its spin polarization. Renormalized one-particle propagation alone does not reproduce this strong polarization dependence. These results extend compressed multiloop calculations to dynamical correlations in multiorbital environments.
-
----
-
-## 15. Engineering nonrelativistic spin splitting in semiconductors by altermagnetic proximity
-
-- **提交日期**：2026-10-16
-- **作者**：Sing Lam Wong, Marcel Franz
-- **arXiv链接**：[http://arxiv.org/abs/2610.23773v1](http://arxiv.org/abs/2610.23773v1)
-
-### 摘要
-Altermagnets combine vanishing net magnetization with momentum-dependent, nonrelativistic spin splitting, offering functionalities attractive for spintronics and quantum devices. Their practical use, however, is constrained by the limited availability of materials that simultaneously possess the required altermagnetic symmetry, semiconducting electronic structure, and weak spin-orbit coupling. Here we show that these requirements can instead be separated between constituent materials through proximity engineering. We develop an analytical theory for a conventional semiconductor coupled to a gapped $d$-wave altermagnet and demonstrate that virtual tunneling transfers the altermagnetic spin splitting to the semiconductor. Crucially, the induced nonrelativistic and relativistic spin splittings exhibit qualitatively different dependences on band alignment. Virtual processes involving the valence and conduction bands of the altermagnet can reinforce the altermagnetic splitting while contributing with opposite signs to the interfacial Rashba coupling. Consequently, electrostatic tuning can access a regime in which the Rashba splitting vanishes while a sizable $d$-wave spin splitting persists. Exact diagonalization of the full heterostructure model confirms the analytical theory and establishes the robustness of this mechanism beyond the perturbative regime. Our results identify altermagnetic proximity as a route for engineering nonrelativistic spin-split electronic states in established semiconductor platforms, providing a general strategy for disentangling magnetic and relativistic spin interactions in quantum heterostructures.
-
----
-
-## 16. Termination-dependent surface Fermiology in the intercalated altermagnet CoNb${}\_4$Se${}\_8$
-
-- **提交日期**：2026-10-16
-- **作者**：Pietro Maria Forcella, Alessandro De Vita, Matthew D. Watson, Sammar Tayyab, Chiara Bigi, Iulia Cojocariu, Marcin Szpytma, Matteo Jugovac, Andrea Locatelli, Tevfik Onur Mentes, My Bang Petersen, Paolo Moras, Polina M. Sheverdyaeva, Christopher Candelora, Ilija Zeljkovic, Federico Motti, Jill A. Miwa, Vincent Polewczyk, Matthieu Jamet, Matteo Calandra, Younghun Hwang, Davide Romanin, Federico Mazzola
-- **arXiv链接**：[http://arxiv.org/abs/2610.23375v1](http://arxiv.org/abs/2610.23375v1)
-
-### 摘要
-Altermagnets have recently gained attention for hosting symmetry-enforced spin-split bands despite zero net magnetization. Angle-resolved photoelectron spectroscopy (ARPES) offers direct access to their electronic structure. However, the intrinsic surface sensitivity of this technique complicates the identification of the observed features: Surface states can be misinterpreted as the spin-split counterpart of bulk bands. This issue becomes particularly relevant for layered intercalated systems, where micrometer-sized domains with distinct terminations often coexist on a cleaved surface. We discuss this scenario for CoNb${}\_4$Se${}\_8$, one of the first established layered altermagnets. Supported by density functional theory calculations, we employ micro-ARPES to probe individual domains and reveal two contrasting surface terminations. We identify Co- and Se-terminated domains with characteristic surface states arising from bulk-surface connectivity of the material. Our work shows that termination-dependent surface contributions are essential for the reliable spectroscopic identification of altermagnetism and for assessing its presence across the family of layered materials.
-
----
-
-## 17. Hidden Staggered Superconducting Order in V2Se2O-Family Altermagnets
-
-- **提交日期**：2026-10-16
-- **作者**：Chun Yu Wan, Xiangxi Zhang, Fei Yang, Junwei Liu
-- **arXiv链接**：[http://arxiv.org/abs/2610.22935v1](http://arxiv.org/abs/2610.22935v1)
-
-### 摘要
-$η$ pairing describes a staggered superconducting condensate whose order parameter changes sign between neighboring unit cells while maintaining a uniform magnitude. Nearly four decades after its theoretical proposal by C. N. Yang, a material platform for stabilizing $η$ pairing has remained elusive. Here, we reveal that altermagnetism, despite being pair breaking for conventional BCS pairing, naturally favors $η$-like pairing in V${}\_2$Se${}\_2$O-family altermagnets. Their valley-contrasting spin structure gives rise to oppositely spin-polarized, symmetry-related valleys centered at $X=(π,0)$ and $Y=(0,π)$, which form spin-singlet pairing partners separated by the commensurate momentum $\mathbf Q=(π,π)$, thereby favoring an $η$-like condensate. Self-consistent calculations demonstrate that the resulting $η$-like state remains robust over broad variations of chemical potential, hopping parameters, and Fermi-surface topology. To detect this hidden staggered order, we propose a phase-sensitive Josephson measurement with a uniform superconductor, where destructive interference suppresses single-Cooper-pair tunneling while preserving two-Cooper-pair processes. This constitutes a charge-$4e$-like Josephson response despite a bulk condensate composed of charge-$2e$ Cooper pairs, providing a direct phase-sensitive signature of the otherwise elusive $η$-like condensate in V${}\_2$Se${}\_2$O-family altermagnets.
 
 ---
 
