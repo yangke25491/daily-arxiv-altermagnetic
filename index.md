@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-21 至 2026-11-20**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-22 至 2026-11-21**
+> 数据检索到 **16** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -183,28 +183,6 @@ Solid oxygen provides a unique platform for studying the interplay between struc
 
 ### 摘要
 Altermagnetism, a moment-compensated magnetism with momentum-dependent spin splitting, has so far been realized primarily in Néel-type antiferromagnets. Here, we demonstrate altermagnetism in folded iron-chain systems with block-type magnetic order (e.g., $\uparrow \uparrow \downarrow \downarrow$). In the strictly one-dimensional (1D) case, altermagnetism is forbidden by the $[C\_2||{\cal T}]$ symmetry, but it can emerge when such chains are stacked into a quasi-1D array. To generate altermagnetic spin splitting via this chain-stacking mechanism, two essential ingredients are required: a block-type spin order that spontaneously breaks the combined parity-time reversal symmetry, and finite inter-chain hopping. Using first-principles calculations, we identify the K${}\_3$Fe${}\_2$Se${}\_4$ family as a promising platform that realizes this mechanism, hosting a $d$-wave altermagnet even without lattice $C\_{4}$ symmetry. Moreover, owing to its lower symmetry, the block-type folded chain exhibits an isotropic altermagnetic spin splitting, which may manifest as an altermagnetic wrapping effect. Our findings unify real-space block magnetism and reciprocal-space altermagnetism, establishing folded iron chains as a tunable platform for zero-moment spintronic applications.
-
----
-
-## 17. Emergent altermagnetism in (LaVO${}\_3$)${}\_n$/(LaNiO${}\_3$)${}\_m$ superlattices from interfacial charge transfer and octahedral tilts
-
-- **提交日期**：2026-10-21
-- **作者**：Gustavo H. Cassemiro, Walber H. Brito
-- **arXiv链接**：[http://arxiv.org/abs/2610.30371v1](http://arxiv.org/abs/2610.30371v1)
-
-### 摘要
-Using first-principles calculations, we show that altermagnetism emerges in (LaVO${}\_3$)${}\_n$/(LaNiO${}\_3$)${}\_m$ superlattices, with $(n,m) = (1,1), (2,2)$ and $(2,4)$, from the interplay of interfacial charge transfer and octahedral tilts. Charge transfer drives the system towards the V$^{4+}$ and Ni$^{2+}$ configuration, turning the otherwise paramagnetic nickelate layers into a magnetically active sublattice. The resulting $C$-type antiferromagnetic order, combined with $a^-b^+c^-$ or $a^-b^-c^-$ octahedral tilts, links opposite-spin sublattices only through nonsymmorphic operations, yielding a $d$-wave spin splitting without spin-orbit coupling. Within DFT+U, the splitting reaches 118 meV in the insulating (LVO)${}\_1$/(LNO)${}\_1$ superlattice, about twice that calculated for bulk LaVO${}\_3$, and decreases as the nickelate layers become thicker. Our findings indicate that this splitting is hosted by both the V and Ni sublattices, with nearly half of its weight on oxygen $2p$ states through $p$-$d$ covalency. Interfacial charge transfer thus emerges as a design principle for engineering altermagnetism in oxide heterostructures.
-
----
-
-## 18. Quantics tensor trains for multiloop functional renormalization group in multiorbital impurity models
-
-- **提交日期**：2026-10-21
-- **作者**：Hyun-Yong Lee, Naoki Kawashima
-- **arXiv链接**：[http://arxiv.org/abs/2610.29341v1](http://arxiv.org/abs/2610.29341v1)
-
-### 摘要
-The full frequency dependence of electronic interactions is central to dynamical correlations, but its numerical cost restricts multiorbital calculations. We formulate the multiloop functional renormalization group directly in the quantics tensor train representation, retaining all three independent vertex frequencies over broad ranges without an explicit high-frequency parametrization. Analytical tensor operators perform frequency transformations and internal summations without dense vertex intermediates. Multiloop corrections improve agreement of vertices and responses with independent references and reproduce the low-energy numerical renormalization group self-energy. Lower-temperature calculations resolve a quadratic frequency contribution to the analytically continued scattering rate. A degenerate two-orbital impurity exhibits distinct spin, orbital, and charge responses at fixed Hund coupling. In a compensated altermagnetic environment, an orbital-level splitting induces a local spin response despite zero magnetization of the unperturbed impurity. Increasing Hund coupling suppresses the orbital response while increasing its spin polarization. Renormalized one-particle propagation alone does not reproduce this strong polarization dependence. These results extend compressed multiloop calculations to dynamical correlations in multiorbital environments.
 
 ---
 
