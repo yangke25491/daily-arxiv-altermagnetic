@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-22 至 2026-11-21**
-> 数据检索到 **16** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-23 至 2026-11-22**
+> 数据检索到 **15** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -172,17 +172,6 @@ We generalize the previous group-theory based classification of collinear magnet
 
 ### 摘要
 Solid oxygen provides a unique platform for studying the interplay between structural and magnetic degrees of freedom, as each O${}\_2$ molecule possesses an $S=1$ spin and weak intermolecular van der Waals interactions allow substantial structural flexibility. In addition, because of its small intermolecular hopping integrals, this system is known to be a strongly correlated electron system with a multiorbital nature. In this study, we examine electronic states and magnetic and dielectric responses using a multiorbital Hubbard model with Peierls-type electron-lattice coupling. This model provides a minimal description of the interplay between structural and magnetic degrees of freedom in solid oxygen. We apply the Hartree-Fock approximation to obtain the ground-state phase diagram. Antiferromagnetic order appears when the onsite Coulomb interaction is strong, whereas three nonmagnetic bond-ordered states emerge when it is weak. At intermediate interaction strengths, antiferromagnetic order coexists with each of the three bond orders. These three coexistence phases all break time-reversal symmetry; one preserves spatial inversion symmetry, whereas the other two also break it. The two inversion-breaking phases exhibit linear magnetoelectric responses, whereas the inversion-symmetric phase exhibits altermagnetic spin splitting and a piezomagnetic response. These responses may provide experimental signatures of coexisting magnetic and structural orders in high-pressure solid oxygen suggested by recent experiments.
-
----
-
-## 16. Altermagnetism in Folded Iron Chain Systems
-
-- **提交日期**：2026-10-22
-- **作者**：Ling-Fang Lin, Yang Zhang, Satoshi Okamoto, Adriana Moreo, Lun-Hui Hu, Elbio Dagotto
-- **arXiv链接**：[http://arxiv.org/abs/2610.31732v1](http://arxiv.org/abs/2610.31732v1)
-
-### 摘要
-Altermagnetism, a moment-compensated magnetism with momentum-dependent spin splitting, has so far been realized primarily in Néel-type antiferromagnets. Here, we demonstrate altermagnetism in folded iron-chain systems with block-type magnetic order (e.g., $\uparrow \uparrow \downarrow \downarrow$). In the strictly one-dimensional (1D) case, altermagnetism is forbidden by the $[C\_2||{\cal T}]$ symmetry, but it can emerge when such chains are stacked into a quasi-1D array. To generate altermagnetic spin splitting via this chain-stacking mechanism, two essential ingredients are required: a block-type spin order that spontaneously breaks the combined parity-time reversal symmetry, and finite inter-chain hopping. Using first-principles calculations, we identify the K${}\_3$Fe${}\_2$Se${}\_4$ family as a promising platform that realizes this mechanism, hosting a $d$-wave altermagnet even without lattice $C\_{4}$ symmetry. Moreover, owing to its lower symmetry, the block-type folded chain exhibits an isotropic altermagnetic spin splitting, which may manifest as an altermagnetic wrapping effect. Our findings unify real-space block magnetism and reciprocal-space altermagnetism, establishing folded iron chains as a tunable platform for zero-moment spintronic applications.
 
 ---
 
