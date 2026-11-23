@@ -5,12 +5,34 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-23 至 2026-11-22**
-> 数据检索到 **15** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-24 至 2026-11-23**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Surface-bulk magnetic dichotomy in intercalated transition metal dichalcogenides
+## 1. Growth and anisotropic directional dependent transport properties of Altermagnetic CrSb
+
+- **提交日期**：2026-11-20
+- **作者**：Resham Babu Regmi, Hari Bhandari, Sk Jamaluddin, Abhijeet Nayak, Ashok Chaudhary, Mohamed El Gazzah, Alex T. Sheardy, Maksym Zhukovskyi, Allen G. Oliver, Nirmal J. Ghimire
+- **arXiv链接**：[http://arxiv.org/abs/2611.27072v1](http://arxiv.org/abs/2611.27072v1)
+
+### 摘要
+CrSb is a metallic altermagnet exhibiting large momentum-dependent spin splitting and antifer- romagnetic ordering well above room temperature. Although its electronic and magnetotransport properties have attracted considerable attention, a systematic comparison of crystals prepared us- ing different growth methods remains limited. Here we investigate the structural, magnetic, and anisotropic transport properties of CrSb single crystals grown by Sb(self)-flux, Bi flux, and chem- ical vapor transport (CVT). Each of these growth reveals distinct crystal morphologies. Magne- tization measurements exhibit broadly consistent antiferromagnetic responses, with an additional low-temperature contribution observed in Bi-flux-grown crystals. All samples display metallic resis- tivity and positive, nonsaturating magnetoresistance up to 9 T. Sb-flux- and CVT-grown crystals exhibit comparable residual resistivity ratios and magnetoresistance, whereas Bi-flux-grown crys- tals show enhanced residual resistivity and a substantially reduced magnetoresistance, consistent with stronger carrier scattering. Hall measurements reveal a pronounced dependence on the field- current configuration, including nonlinear field dependence and opposite Hall polarities for different crystallographic orientations. These results establish the reproducibility of anisotropic magneto- transport across distinct growth routes while highlighting the sensitivity of carrier scattering to crystal-growth conditions. Our findings provide a comparative framework for selecting CrSb single crystals for orientation-dependent transport and spintronic investigations.
+
+---
+
+## 2. Impact of spin fluctuations on spectral functions and transport in a model altermagnet
+
+- **提交日期**：2026-11-19
+- **作者**：Sourav Chakraborty, Manoranjan Kumar, Arun Paramekanti
+- **arXiv链接**：[http://arxiv.org/abs/2611.26725v1](http://arxiv.org/abs/2611.26725v1)
+
+### 摘要
+Understanding spin dependent transport in altermagnets is important for incorporating them in next generation spintronic technologies. Motivated by the discovery of altermagnetism in strongly correlated quantum materials, we explore this physics in the checkerboard lattice Hubbard model using a fermion Monte Carlo approach which tracks the full spatial dependence of spin fluctuations as a function of temperature. We present results for the evolution of the spin-dependent single particle spectral functions and transport as we go from the ordered ground state into the high temperature disordered paramagnetic phase. Our results could be tested in future spin-selective angle-resolved photoemission spectroscopy (ARPES) and spin transport experiments in candidate altermagnets realized in solid state quantum materials or in proposed ultracold atomic systems.
+
+---
+
+## 3. Surface-bulk magnetic dichotomy in intercalated transition metal dichalcogenides
 
 - **提交日期**：2026-11-15
 - **作者**：Ke Liao, Wenxin Li, Kelly Dai, Ariel Mazor, Shan Wu, Yu He, Tianyu Zhu
@@ -21,7 +43,7 @@ Magnetically intercalated transition metal dichalcogenides are layered materials
 
 ---
 
-## 2. Spectroscopic evidence for unconventional surface magnetism in the Kondo insulator FeSb${}\_2$
+## 4. Spectroscopic evidence for unconventional surface magnetism in the Kondo insulator FeSb${}\_2$
 
 - **提交日期**：2026-11-15
 - **作者**：Ke-Jun Xu, Erin E. Fleck Jonathan A. Sobota, Nhat Huy M. Tran, Shuyi Li, Youzhe Chen, Soonsang Huh, Takeshi Kondo, Makoto Hashimoto, Dong-Hui Lu, Zhi-Xun Shen, Dung-Hai Lee, Chunjing Jia, Robert J. Birgeneau
@@ -32,7 +54,7 @@ Kondo insulators have a non-magnetic bulk due to many-body screening of local mo
 
 ---
 
-## 3. Controlled Magnon Chirality and Its Reversal by Anisotropy in Altermagnetic FeF${}\_2$
+## 5. Controlled Magnon Chirality and Its Reversal by Anisotropy in Altermagnetic FeF${}\_2$
 
 - **提交日期**：2026-11-13
 - **作者**：E. M. Smith, V. O. Garlea, D. Lederman, J. M. Tranquada, I. A. Zaliznyak, J. Sears
@@ -43,7 +65,7 @@ In altermagnets, the exchange symmetry of two mutually compensating magnetic sub
 
 ---
 
-## 4. Narrow-Band Magnetism Allowed by Quantum Geometry: Altermagnetism and Beyond
+## 6. Narrow-Band Magnetism Allowed by Quantum Geometry: Altermagnetism and Beyond
 
 - **提交日期**：2026-11-12
 - **作者**：Minxuan Wang, Pei-Han Lin, Yang Ge, Jiabin Yu
@@ -54,7 +76,7 @@ Quantum geometry plays a central role in shaping correlated phases in narrow ban
 
 ---
 
-## 5. Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions
+## 7. Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions
 
 - **提交日期**：2026-11-12
 - **作者**：Hamed Vakili
@@ -65,7 +87,7 @@ Qudits, which generalize qubits to $d$ levels, store more information per circui
 
 ---
 
-## 6. Kitaev Exchange and Altermagnetism in the Double Perovskite Sr${}\_2$CoTeO${}\_6$: An Ab Initio Study
+## 8. Kitaev Exchange and Altermagnetism in the Double Perovskite Sr${}\_2$CoTeO${}\_6$: An Ab Initio Study
 
 - **提交日期**：2026-11-11
 - **作者**：Alexey V. Ushakov, Sergey V. Strelsov
@@ -76,7 +98,7 @@ The Co$^{2+}$-based double perovskite Sr${}\_2$CoTeO${}\_6$ attracts attention d
 
 ---
 
-## 7. Higher-order topology induced by altermagnetism in quasicrystals
+## 9. Higher-order topology induced by altermagnetism in quasicrystals
 
 - **提交日期**：2026-11-11
 - **作者**：Xingmin Huo, Xingchuan Zhu, Xingyu Ma, Shiping Feng, Huaiming Guo
@@ -87,7 +109,7 @@ Altermagnetism (AM), a novel magnetic phase featuring zero net magnetization and
 
 ---
 
-## 8. Hidden interfacial magnetism in RuO${}\_2$ heterostructures revealed by a superconducting spin switch
+## 10. Hidden interfacial magnetism in RuO${}\_2$ heterostructures revealed by a superconducting spin switch
 
 - **提交日期**：2026-11-10
 - **作者**：Tetsuma Mandokoro, Hisakazu Matsuki, Shutaro Karube, Rodrigo de las Heras, Andrei Mazanik, Akihiro Yamada, Fugo Tokoro, Susumu Hirata, Ryusuke Hisatomi, Yoichi Shiota, Vitaly N. Golovach, F. Sebastian Bergeret, Teruo Ono
@@ -98,7 +120,7 @@ RuO${}\_2$, once the flagship altermagnetic candidate, is now believed to be non
 
 ---
 
-## 9. Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure
+## 11. Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure
 
 - **提交日期**：2026-11-05
 - **作者**：Yingli Gao, Kai Zhang, Ling-Zheng Meng, Junpeng Hou, Ning Li, Ya-Jie Wu
@@ -109,7 +131,7 @@ Zeeman fields are usually required for realizing and manipulating Majorana corne
 
 ---
 
-## 10. LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models
+## 12. LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models
 
 - **提交日期**：2026-11-03
 - **作者**：Yuntian Gu, Chaohui Fan, Ruichen Li, Haoxiang Chen, Weizhong Fu, Yixiao Chen, Dingshun Lv, Weiluo Ren, Tao Xiang, Liwei Wang, Mingpu Qin, Xiang Li
@@ -120,7 +142,7 @@ Neural quantum states provide accurate variational representations for interacti
 
 ---
 
-## 11. Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis
+## 13. Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis
 
 - **提交日期**：2026-11-02
 - **作者**：Sijie Xu, Pengcheng Dai
@@ -131,7 +153,7 @@ Neutron scattering provides microscopic information on magnetic order and spin d
 
 ---
 
-## 12. X-ray magnetic circular dichroism in altermagnets: insights from symmetry
+## 14. X-ray magnetic circular dichroism in altermagnets: insights from symmetry
 
 - **提交日期**：2026-10-31
 - **作者**：Hana Schiff, Ishmam Nihal, John Vinson, Robin Msiska, Judit Romhányi, David Lederman, Christoph Klewe, Sujoy Roy, Eric E. Fullerton
@@ -142,7 +164,7 @@ Altermagnets are a unique subset of antiferromagnets possessing ferromagnet-like
 
 ---
 
-## 13. Meta-Altermagnetism and Enhanced Spin-Splitting
+## 15. Meta-Altermagnetism and Enhanced Spin-Splitting
 
 - **提交日期**：2026-10-27
 - **作者**：Bogeng Wen, Hae-Young Kee
@@ -153,7 +175,7 @@ Altermagnets are collinear magnets with zero net magnetization and spin-split el
 
 ---
 
-## 14. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
+## 16. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
 
 - **提交日期**：2026-10-26
 - **作者**：Bai-He Yao, Zhi-Yan Shao, Ye Cao, Fan Yang
@@ -164,7 +186,7 @@ We generalize the previous group-theory based classification of collinear magnet
 
 ---
 
-## 15. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
+## 17. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
 
 - **提交日期**：2026-10-26
 - **作者**：Naomichi Sato, Makoto Naka, Joji Nasu
