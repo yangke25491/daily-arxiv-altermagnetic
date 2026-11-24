@@ -5,12 +5,23 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-24 至 2026-11-23**
-> 数据检索到 **17** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-25 至 2026-11-24**
+> 数据检索到 **18** 篇相关论文，按提交时间降序排列
 
 ---
 
-## 1. Growth and anisotropic directional dependent transport properties of Altermagnetic CrSb
+## 1. Competing magnetic correlations in the square-lattice Hubbard model with spin-dependent nearest-neighbor and next-nearest-neighbor hopping
+
+- **提交日期**：2026-11-21
+- **作者**：Rana Imran Mushtaq, Ji Liu, Yinlong Li, Wing Chi Yu, Xiaosen Yang, Ho-Kin Tang
+- **arXiv链接**：[http://arxiv.org/abs/2611.28593v1](http://arxiv.org/abs/2611.28593v1)
+
+### 摘要
+Altermagnets have spin-split bands without net magnetization. The splitting can come from a spin-dependent nearest-neighbor (NN) hopping anisotropy $t\_A$ or from a spin-dependent next-nearest-neighbor (NNN) hopping $t'$. Both change sign under a $90^\circ$ rotation and are present together when the lattice has no mirror planes, yet they have so far been studied only separately. Here we study the two-dimensional square-lattice Hubbard model with both $t\_A$ and $t'$, using constrained-path quantum Monte Carlo at $U=4t$ and scanning the electron filling $n$, $t\_A$ and $t'$. We find four types of magnetic correlations: Néel, stripe, diagonal, and spiral spin-density-wave. The phase diagram depends on both hoppings together. Diagonal correlations require finite $t\_A$ and are suppressed by $t'$. Stripe correlations appear only once $t'$ is large enough to overcome the diagonal tendency set by $t\_A$. Néel correlations survive at large $t\_A$ and large $t'$, where the NNN model alone gives stripe or spiral correlations. The noninteracting susceptibility matches the dominant wavevector at small $t'$, but not the Néel correlations at $t'\geq0.3$, which come from the interaction. Finite-size scaling with three lattice sizes is consistent with long-range order only near half filling; at the stripe, spiral and diagonal points we tested, the structure factor per site extrapolates to zero. The joint behavior persists up to $U=6t$.
+
+---
+
+## 2. Growth and anisotropic directional dependent transport properties of Altermagnetic CrSb
 
 - **提交日期**：2026-11-20
 - **作者**：Resham Babu Regmi, Hari Bhandari, Sk Jamaluddin, Abhijeet Nayak, Ashok Chaudhary, Mohamed El Gazzah, Alex T. Sheardy, Maksym Zhukovskyi, Allen G. Oliver, Nirmal J. Ghimire
@@ -21,7 +32,7 @@ CrSb is a metallic altermagnet exhibiting large momentum-dependent spin splittin
 
 ---
 
-## 2. Impact of spin fluctuations on spectral functions and transport in a model altermagnet
+## 3. Impact of spin fluctuations on spectral functions and transport in a model altermagnet
 
 - **提交日期**：2026-11-19
 - **作者**：Sourav Chakraborty, Manoranjan Kumar, Arun Paramekanti
@@ -32,7 +43,7 @@ Understanding spin dependent transport in altermagnets is important for incorpor
 
 ---
 
-## 3. Surface-bulk magnetic dichotomy in intercalated transition metal dichalcogenides
+## 4. Surface-bulk magnetic dichotomy in intercalated transition metal dichalcogenides
 
 - **提交日期**：2026-11-15
 - **作者**：Ke Liao, Wenxin Li, Kelly Dai, Ariel Mazor, Shan Wu, Yu He, Tianyu Zhu
@@ -43,7 +54,7 @@ Magnetically intercalated transition metal dichalcogenides are layered materials
 
 ---
 
-## 4. Spectroscopic evidence for unconventional surface magnetism in the Kondo insulator FeSb${}\_2$
+## 5. Spectroscopic evidence for unconventional surface magnetism in the Kondo insulator FeSb${}\_2$
 
 - **提交日期**：2026-11-15
 - **作者**：Ke-Jun Xu, Erin E. Fleck Jonathan A. Sobota, Nhat Huy M. Tran, Shuyi Li, Youzhe Chen, Soonsang Huh, Takeshi Kondo, Makoto Hashimoto, Dong-Hui Lu, Zhi-Xun Shen, Dung-Hai Lee, Chunjing Jia, Robert J. Birgeneau
@@ -54,7 +65,7 @@ Kondo insulators have a non-magnetic bulk due to many-body screening of local mo
 
 ---
 
-## 5. Controlled Magnon Chirality and Its Reversal by Anisotropy in Altermagnetic FeF${}\_2$
+## 6. Controlled Magnon Chirality and Its Reversal by Anisotropy in Altermagnetic FeF${}\_2$
 
 - **提交日期**：2026-11-13
 - **作者**：E. M. Smith, V. O. Garlea, D. Lederman, J. M. Tranquada, I. A. Zaliznyak, J. Sears
@@ -65,7 +76,7 @@ In altermagnets, the exchange symmetry of two mutually compensating magnetic sub
 
 ---
 
-## 6. Narrow-Band Magnetism Allowed by Quantum Geometry: Altermagnetism and Beyond
+## 7. Narrow-Band Magnetism Allowed by Quantum Geometry: Altermagnetism and Beyond
 
 - **提交日期**：2026-11-12
 - **作者**：Minxuan Wang, Pei-Han Lin, Yang Ge, Jiabin Yu
@@ -76,7 +87,7 @@ Quantum geometry plays a central role in shaping correlated phases in narrow ban
 
 ---
 
-## 7. Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions
+## 8. Noise-Protected Superconducting Qudits from Higher-Harmonic Josephson Junctions
 
 - **提交日期**：2026-11-12
 - **作者**：Hamed Vakili
@@ -87,7 +98,7 @@ Qudits, which generalize qubits to $d$ levels, store more information per circui
 
 ---
 
-## 8. Kitaev Exchange and Altermagnetism in the Double Perovskite Sr${}\_2$CoTeO${}\_6$: An Ab Initio Study
+## 9. Kitaev Exchange and Altermagnetism in the Double Perovskite Sr${}\_2$CoTeO${}\_6$: An Ab Initio Study
 
 - **提交日期**：2026-11-11
 - **作者**：Alexey V. Ushakov, Sergey V. Strelsov
@@ -98,7 +109,7 @@ The Co$^{2+}$-based double perovskite Sr${}\_2$CoTeO${}\_6$ attracts attention d
 
 ---
 
-## 9. Higher-order topology induced by altermagnetism in quasicrystals
+## 10. Higher-order topology induced by altermagnetism in quasicrystals
 
 - **提交日期**：2026-11-11
 - **作者**：Xingmin Huo, Xingchuan Zhu, Xingyu Ma, Shiping Feng, Huaiming Guo
@@ -109,7 +120,7 @@ Altermagnetism (AM), a novel magnetic phase featuring zero net magnetization and
 
 ---
 
-## 10. Hidden interfacial magnetism in RuO${}\_2$ heterostructures revealed by a superconducting spin switch
+## 11. Hidden interfacial magnetism in RuO${}\_2$ heterostructures revealed by a superconducting spin switch
 
 - **提交日期**：2026-11-10
 - **作者**：Tetsuma Mandokoro, Hisakazu Matsuki, Shutaro Karube, Rodrigo de las Heras, Andrei Mazanik, Akihiro Yamada, Fugo Tokoro, Susumu Hirata, Ryusuke Hisatomi, Yoichi Shiota, Vitaly N. Golovach, F. Sebastian Bergeret, Teruo Ono
@@ -120,7 +131,7 @@ RuO${}\_2$, once the flagship altermagnetic candidate, is now believed to be non
 
 ---
 
-## 11. Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure
+## 12. Majorana corner modes and tunable braiding in an altermagnet-superconductor heterostructure
 
 - **提交日期**：2026-11-05
 - **作者**：Yingli Gao, Kai Zhang, Ling-Zheng Meng, Junpeng Hou, Ning Li, Ya-Jie Wu
@@ -131,7 +142,7 @@ Zeeman fields are usually required for realizing and manipulating Majorana corne
 
 ---
 
-## 12. LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models
+## 13. LaQX: A JAX Toolkit for Neural Quantum State Simulations of Lattice Quantum Many-Body Models
 
 - **提交日期**：2026-11-03
 - **作者**：Yuntian Gu, Chaohui Fan, Ruichen Li, Haoxiang Chen, Weizhong Fu, Yixiao Chen, Dingshun Lv, Weiluo Ren, Tao Xiang, Liwei Wang, Mingpu Qin, Xiang Li
@@ -142,7 +153,7 @@ Neural quantum states provide accurate variational representations for interacti
 
 ---
 
-## 13. Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis
+## 14. Resolving magnetic order and dynamics with polarized neutron scattering: a practical guide to longitudinal polarization analysis
 
 - **提交日期**：2026-11-02
 - **作者**：Sijie Xu, Pengcheng Dai
@@ -153,7 +164,7 @@ Neutron scattering provides microscopic information on magnetic order and spin d
 
 ---
 
-## 14. X-ray magnetic circular dichroism in altermagnets: insights from symmetry
+## 15. X-ray magnetic circular dichroism in altermagnets: insights from symmetry
 
 - **提交日期**：2026-10-31
 - **作者**：Hana Schiff, Ishmam Nihal, John Vinson, Robin Msiska, Judit Romhányi, David Lederman, Christoph Klewe, Sujoy Roy, Eric E. Fullerton
@@ -164,7 +175,7 @@ Altermagnets are a unique subset of antiferromagnets possessing ferromagnet-like
 
 ---
 
-## 15. Meta-Altermagnetism and Enhanced Spin-Splitting
+## 16. Meta-Altermagnetism and Enhanced Spin-Splitting
 
 - **提交日期**：2026-10-27
 - **作者**：Bogeng Wen, Hae-Young Kee
@@ -175,7 +186,7 @@ Altermagnets are collinear magnets with zero net magnetization and spin-split el
 
 ---
 
-## 16. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
+## 17. Collinear and Coplanar Altermagnetism in a Penrose Quasicrystal
 
 - **提交日期**：2026-10-26
 - **作者**：Bai-He Yao, Zhi-Yan Shao, Ye Cao, Fan Yang
@@ -186,7 +197,7 @@ We generalize the previous group-theory based classification of collinear magnet
 
 ---
 
-## 17. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
+## 18. Electronic Responses in Solid Oxygen with Coexisting Structural and Magnetic Orders
 
 - **提交日期**：2026-10-26
 - **作者**：Naomichi Sato, Makoto Naka, Joji Nasu
