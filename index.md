@@ -5,8 +5,8 @@ title: 交错磁论文
 
 # 凝聚态物理-交错磁(Altermagnetic)相关论文
 
-> 检索时间范围：**2026-10-27 至 2026-11-26**
-> 数据检索到 **18** 篇相关论文，按提交时间降序排列
+> 检索时间范围：**2026-10-28 至 2026-11-27**
+> 数据检索到 **17** 篇相关论文，按提交时间降序排列
 
 ---
 
@@ -194,17 +194,6 @@ Neutron scattering provides microscopic information on magnetic order and spin d
 
 ### 摘要
 Altermagnets are a unique subset of antiferromagnets possessing ferromagnet-like responses that are odd in the Néel vector, making X-ray magnetic circular dichroism (XMCD) a natural probe of ground state altermagnetic order. Because the relativistic ingredient of XMCD at the $L$-edge is supplied predominantly by core-level spin--orbit coupling (SOC), the dichroic signal can reflect the non-relativistic order of the valence electrons. Here we develop a complete symmetry framework for XMCD in altermagnets (AMs) preserving the crystalline unit cell. We tabulate the symmetry-allowed optical Hall vector, anisotropic magnetic dipole (AMD), and underlying octupolar components for all magnetic point groups, thereby identifying the experimental geometries that maximize the XMCD signal. We show that only twelve magnetic point groups, none with a rotation axis of order three or higher, are compatible with both altermagnetism and finite XMCD. By extending the Landau theory of collinear AMs, we connect these relativistic constraints to the spin--orbit-free order. We show that the AMD is forced to vanish at zero valence SOC in conventional antiferromagnets, and that every AM sublattice structure allows the Hall vector and AMD at linear or cubic order in the Néel vector; whether the resulting XMCD is nonzero depends on the Néel vector orientation at finite SOC. The Landau theory thus fixes the Néel-vector dependence of the XMCD for all AM candidates, and separates $d$-wave AMs, whose signal is inherited from a non-relativistic AMD, from $g$- and $i$-wave AMs, whose signal requires valence SOC or core--valence multiplet effects. We illustrate these predictions with first-principles Bethe--Salpeter calculations of $L$-edge XMCD for five representative altermagnetic materials and one conventional antiferromagnet.
-
----
-
-## 18. Meta-Altermagnetism and Enhanced Spin-Splitting
-
-- **提交日期**：2026-10-27
-- **作者**：Bogeng Wen, Hae-Young Kee
-- **arXiv链接**：[http://arxiv.org/abs/2610.37754v1](http://arxiv.org/abs/2610.37754v1)
-
-### 摘要
-Altermagnets are collinear magnets with zero net magnetization and spin-split electronic bands. Here, we explore whether altermagnetism can exhibit a discontinuous jump, a phenomenon we refer to as meta-altermagnetism. We show that meta-altermagnetism can emerge in 2D systems when magnetic-order-induced band reconstruction drives spin-split van Hove singularities (vHSs) across the Fermi level. Using mean-field theory for an extended $t$-$J$ model on a two-sublattice square lattice including anisotropic hopping integral, we find that a first-order meta-altermagnetic transition produces an intermediate altermagnetic regime with reduced staggered magnetization but strongly enhanced magnetic octupole and time-reversal-odd spin-splitter conductivity. We further show that the first-order transition line terminates at a quantum critical endpoint, giving rise to a rich phase diagram as the chemical potential and anisotropic hopping strength are varied. Our results identify the spin split vHSs as a route to enhancing spin-splitter effect for spintronic applications.
 
 ---
 
